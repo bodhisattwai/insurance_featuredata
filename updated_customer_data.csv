@@ -1,0 +1,2001 @@
+Persona Name,Age,Income Source,Annual Income Range,Family Size,Relationship Status,Key Financial Goals,Lifestyle Factors
+Priya,28,Business Owner,$15k-$30k,4,Married w/ Kids,Tax Saving,"Smoker, high stress job"
+Mr. Dutta,55,Salaried,$15k-$30k,1,Widowed,Retirement Savings,"Sedentary lifestyle, chronic illness"
+Sunita,57,Salaried,$50k-$75k,4,Married w/ Spouse,Tax Saving,"Owns a car, travels frequently"
+Sunita,50,Salaried,$75k-$100k,3,Married w/ Kids,Wealth Creation,"Owns property, no liabilities"
+Sneha,57,Self-Employed,$30k-$50k,1,Divorced,Tax Saving,"Smoker, high stress job"
+Sunita,53,Self-Employed,$100k+,3,Divorced,Retirement Savings,"Sedentary lifestyle, chronic illness"
+Rahul,49,Salaried,$75k-$100k,3,Married w/ Kids,Wealth Creation,"Pet owner, active lifestyle"
+Sunita,37,Self-Employed,$30k-$50k,1,Divorced,Wealth Creation,Works night shifts
+Mrs. Iyer,45,Retired,$30k-$50k,2,Single,Retirement Savings,"Owns a car, travels frequently"
+Sneha,52,Self-Employed,$15k-$30k,4,Single,Tax Saving,Prefers homeopathic treatment
+Sunita,57,Business Owner,$30k-$50k,3,Married w/ Kids,Wealth Creation,Lives in joint family
+Ankit,50,Business Owner,$15k-$30k,1,Married w/ Kids,Health Coverage,"Owns a car, travels frequently"
+Mrs. Iyer,22,Business Owner,$100k+,3,Divorced,Wealth Creation,Lives in joint family
+Ankit,47,Retired,$75k-$100k,5,Divorced,Tax Saving,"Frequent flyer, international travel"
+Mr. Dutta,40,Business Owner,$30k-$50k,3,Married w/ Kids,Child Education Fund,"Sedentary lifestyle, chronic illness"
+Sunita,54,Salaried,$75k-$100k,5,Married w/ Spouse,Tax Saving,"Owns property, no liabilities"
+Ankit,51,Retired,$15k-$30k,2,Divorced,Health Coverage,"Smoker, high stress job"
+Mrs. Iyer,61,Business Owner,$15k-$30k,2,Married w/ Kids,Child Education Fund,"Pet owner, active lifestyle"
+Sunita,38,Business Owner,$15k-$30k,4,Married w/ Spouse,Retirement Savings,"Sedentary lifestyle, chronic illness"
+Riya,58,Retired,$75k-$100k,3,Single,Wealth Creation,Prefers homeopathic treatment
+Rahul,51,Salaried,$50k-$75k,2,Married w/ Kids,Wealth Creation,"Owns a car, travels frequently"
+Ankit,33,Retired,$30k-$50k,1,Single,Tax Saving,Lives in joint family
+Priya,56,Self-Employed,$75k-$100k,5,Widowed,Wealth Creation,"Health-conscious, gym member"
+Mr. Dutta,44,Retired,$15k-$30k,5,Married w/ Kids,Wealth Creation,Lives in joint family
+Arjun,55,Business Owner,$15k-$30k,4,Widowed,Tax Saving,Prefers homeopathic treatment
+Priya,28,Salaried,$100k+,1,Widowed,Health Coverage,"Owns a car, travels frequently"
+Ankit,35,Salaried,$30k-$50k,1,Single,Health Coverage,"Health-conscious, gym member"
+Arjun,27,Retired,$75k-$100k,4,Married w/ Spouse,Tax Saving,"Owns property, no liabilities"
+Priya,58,Business Owner,$30k-$50k,5,Widowed,Tax Saving,"Owns property, no liabilities"
+Amit,22,Business Owner,$75k-$100k,3,Single,Child Education Fund,"Smoker, high stress job"
+Amit,40,Business Owner,$15k-$30k,4,Divorced,Retirement Savings,"Health-conscious, gym member"
+Ankit,47,Business Owner,$15k-$30k,3,Widowed,Child Education Fund,"Pet owner, active lifestyle"
+Riya,53,Business Owner,$50k-$75k,2,Single,Wealth Creation,"Sedentary lifestyle, chronic illness"
+Sunita,29,Business Owner,$30k-$50k,1,Married w/ Spouse,Health Coverage,"Frequent flyer, international travel"
+Mrs. Iyer,39,Salaried,$50k-$75k,3,Divorced,Tax Saving,Works night shifts
+Mr. Dutta,30,Self-Employed,$75k-$100k,1,Single,Child Education Fund,"Smoker, high stress job"
+Sneha,38,Business Owner,$100k+,5,Married w/ Kids,Health Coverage,"Sedentary lifestyle, chronic illness"
+Arjun,23,Business Owner,$30k-$50k,4,Married w/ Spouse,Health Coverage,"Pet owner, active lifestyle"
+Priya,56,Retired,$15k-$30k,3,Married w/ Spouse,Health Coverage,"Owns a car, travels frequently"
+Arjun,41,Self-Employed,$100k+,2,Married w/ Spouse,Child Education Fund,Prefers homeopathic treatment
+Arjun,32,Salaried,$30k-$50k,2,Married w/ Spouse,Retirement Savings,Works night shifts
+Mrs. Iyer,22,Salaried,$15k-$30k,2,Divorced,Health Coverage,"Owns property, no liabilities"
+Riya,23,Retired,$75k-$100k,2,Married w/ Kids,Retirement Savings,"Owns property, no liabilities"
+Mr. Dutta,59,Self-Employed,$50k-$75k,5,Divorced,Wealth Creation,"Health-conscious, gym member"
+Arjun,23,Business Owner,$50k-$75k,5,Single,Wealth Creation,"Sedentary lifestyle, chronic illness"
+Priya,40,Salaried,$50k-$75k,1,Married w/ Spouse,Retirement Savings,Works night shifts
+Mr. Dutta,27,Business Owner,$100k+,3,Widowed,Retirement Savings,"Sedentary lifestyle, chronic illness"
+Ankit,40,Self-Employed,$50k-$75k,3,Divorced,Child Education Fund,"Frequent flyer, international travel"
+Ankit,46,Self-Employed,$100k+,2,Married w/ Spouse,Retirement Savings,Prefers homeopathic treatment
+Amit,48,Business Owner,$50k-$75k,3,Single,Retirement Savings,"Sedentary lifestyle, chronic illness"
+Mrs. Iyer,28,Retired,$30k-$50k,4,Married w/ Kids,Retirement Savings,"Smoker, high stress job"
+Arjun,22,Self-Employed,$50k-$75k,2,Married w/ Spouse,Wealth Creation,Works night shifts
+Mr. Dutta,58,Retired,$50k-$75k,4,Divorced,Retirement Savings,"Sedentary lifestyle, chronic illness"
+Sunita,30,Retired,$100k+,3,Married w/ Kids,Retirement Savings,"Smoker, high stress job"
+Rahul,47,Business Owner,$50k-$75k,5,Single,Child Education Fund,Works night shifts
+Sunita,56,Retired,$75k-$100k,4,Married w/ Spouse,Retirement Savings,"Pet owner, active lifestyle"
+Sneha,35,Self-Employed,$30k-$50k,2,Married w/ Kids,Wealth Creation,"Health-conscious, gym member"
+Sneha,43,Business Owner,$15k-$30k,5,Married w/ Kids,Tax Saving,"Smoker, high stress job"
+Amit,35,Salaried,$75k-$100k,1,Married w/ Kids,Retirement Savings,Lives in joint family
+Sneha,28,Salaried,$15k-$30k,1,Divorced,Health Coverage,"Owns a car, travels frequently"
+Mrs. Iyer,56,Retired,$30k-$50k,1,Single,Tax Saving,Works night shifts
+Arjun,47,Retired,$100k+,5,Married w/ Kids,Child Education Fund,Works night shifts
+Amit,28,Salaried,$30k-$50k,2,Widowed,Wealth Creation,"Owns a car, travels frequently"
+Mr. Dutta,39,Salaried,$75k-$100k,4,Married w/ Kids,Retirement Savings,Lives in joint family
+Rahul,26,Retired,$75k-$100k,4,Married w/ Spouse,Child Education Fund,"Owns property, no liabilities"
+Ankit,44,Salaried,$15k-$30k,4,Married w/ Spouse,Wealth Creation,Lives in joint family
+Amit,45,Salaried,$50k-$75k,4,Married w/ Kids,Health Coverage,"Smoker, high stress job"
+Mrs. Iyer,48,Retired,$75k-$100k,4,Married w/ Kids,Health Coverage,"Owns property, no liabilities"
+Riya,29,Salaried,$100k+,4,Married w/ Spouse,Retirement Savings,"Owns a car, travels frequently"
+Riya,61,Self-Employed,$100k+,4,Single,Retirement Savings,Lives in joint family
+Rahul,31,Retired,$15k-$30k,2,Divorced,Child Education Fund,"Pet owner, active lifestyle"
+Amit,55,Business Owner,$15k-$30k,3,Divorced,Health Coverage,"Health-conscious, gym member"
+Sunita,33,Salaried,$30k-$50k,4,Widowed,Wealth Creation,Prefers homeopathic treatment
+Amit,25,Business Owner,$100k+,5,Single,Child Education Fund,Works night shifts
+Ankit,47,Self-Employed,$15k-$30k,4,Married w/ Kids,Wealth Creation,"Frequent flyer, international travel"
+Ankit,28,Business Owner,$75k-$100k,2,Widowed,Wealth Creation,"Owns a car, travels frequently"
+Amit,37,Retired,$15k-$30k,3,Divorced,Tax Saving,"Owns property, no liabilities"
+Sneha,29,Retired,$15k-$30k,1,Widowed,Wealth Creation,"Owns a car, travels frequently"
+Ankit,28,Retired,$50k-$75k,1,Widowed,Child Education Fund,"Owns a car, travels frequently"
+Mrs. Iyer,23,Business Owner,$50k-$75k,3,Divorced,Tax Saving,"Pet owner, active lifestyle"
+Ankit,49,Self-Employed,$100k+,2,Married w/ Spouse,Health Coverage,Works night shifts
+Ankit,54,Self-Employed,$100k+,1,Widowed,Wealth Creation,"Sedentary lifestyle, chronic illness"
+Mr. Dutta,63,Salaried,$75k-$100k,4,Married w/ Kids,Child Education Fund,"Sedentary lifestyle, chronic illness"
+Mr. Dutta,64,Salaried,$50k-$75k,1,Widowed,Retirement Savings,"Pet owner, active lifestyle"
+Amit,30,Salaried,$75k-$100k,5,Married w/ Kids,Health Coverage,"Health-conscious, gym member"
+Arjun,44,Self-Employed,$75k-$100k,5,Divorced,Health Coverage,"Sedentary lifestyle, chronic illness"
+Mr. Dutta,60,Self-Employed,$75k-$100k,3,Married w/ Kids,Health Coverage,"Owns property, no liabilities"
+Sneha,37,Salaried,$50k-$75k,5,Married w/ Spouse,Child Education Fund,Prefers homeopathic treatment
+Priya,61,Retired,$50k-$75k,5,Single,Wealth Creation,Works night shifts
+Sunita,25,Retired,$75k-$100k,1,Married w/ Kids,Wealth Creation,Lives in joint family
+Rahul,39,Retired,$50k-$75k,5,Single,Tax Saving,"Pet owner, active lifestyle"
+Arjun,30,Salaried,$50k-$75k,1,Widowed,Wealth Creation,Lives in joint family
+Sneha,25,Self-Employed,$15k-$30k,3,Divorced,Child Education Fund,"Health-conscious, gym member"
+Sneha,44,Retired,$75k-$100k,5,Married w/ Kids,Wealth Creation,"Owns a car, travels frequently"
+Priya,50,Retired,$50k-$75k,4,Single,Child Education Fund,"Owns property, no liabilities"
+Rahul,23,Business Owner,$75k-$100k,1,Married w/ Spouse,Retirement Savings,"Owns a car, travels frequently"
+Sneha,49,Self-Employed,$15k-$30k,2,Single,Child Education Fund,"Sedentary lifestyle, chronic illness"
+Sunita,27,Retired,$30k-$50k,4,Single,Tax Saving,Lives in joint family
+Mr. Dutta,32,Retired,$100k+,1,Married w/ Spouse,Child Education Fund,"Owns a car, travels frequently"
+Priya,43,Business Owner,$50k-$75k,3,Widowed,Child Education Fund,"Pet owner, active lifestyle"
+Sneha,55,Business Owner,$30k-$50k,4,Married w/ Spouse,Child Education Fund,"Owns property, no liabilities"
+Mrs. Iyer,29,Business Owner,$15k-$30k,2,Widowed,Retirement Savings,"Health-conscious, gym member"
+Sunita,46,Self-Employed,$75k-$100k,1,Married w/ Kids,Health Coverage,"Owns a car, travels frequently"
+Sunita,27,Self-Employed,$15k-$30k,5,Divorced,Health Coverage,Works night shifts
+Mrs. Iyer,39,Business Owner,$100k+,3,Married w/ Kids,Tax Saving,Lives in joint family
+Mrs. Iyer,31,Salaried,$15k-$30k,5,Divorced,Wealth Creation,Works night shifts
+Priya,35,Business Owner,$30k-$50k,3,Divorced,Health Coverage,"Pet owner, active lifestyle"
+Sneha,52,Salaried,$15k-$30k,5,Married w/ Spouse,Retirement Savings,"Health-conscious, gym member"
+Amit,61,Salaried,$30k-$50k,2,Married w/ Spouse,Retirement Savings,"Pet owner, active lifestyle"
+Mr. Dutta,38,Salaried,$30k-$50k,2,Married w/ Spouse,Tax Saving,Works night shifts
+Priya,24,Retired,$75k-$100k,5,Widowed,Health Coverage,"Health-conscious, gym member"
+Rahul,29,Business Owner,$50k-$75k,3,Widowed,Child Education Fund,"Frequent flyer, international travel"
+Amit,62,Salaried,$15k-$30k,1,Married w/ Kids,Tax Saving,Lives in joint family
+Amit,49,Retired,$30k-$50k,1,Single,Wealth Creation,"Owns property, no liabilities"
+Amit,47,Self-Employed,$15k-$30k,3,Widowed,Child Education Fund,"Health-conscious, gym member"
+Priya,22,Retired,$30k-$50k,2,Divorced,Wealth Creation,Works night shifts
+Amit,54,Retired,$30k-$50k,4,Divorced,Child Education Fund,"Health-conscious, gym member"
+Mr. Dutta,30,Self-Employed,$50k-$75k,5,Married w/ Spouse,Tax Saving,Prefers homeopathic treatment
+Mrs. Iyer,60,Business Owner,$50k-$75k,4,Widowed,Tax Saving,"Owns property, no liabilities"
+Mrs. Iyer,63,Self-Employed,$50k-$75k,4,Single,Health Coverage,"Owns a car, travels frequently"
+Ankit,32,Retired,$15k-$30k,5,Widowed,Wealth Creation,Works night shifts
+Arjun,63,Salaried,$75k-$100k,4,Divorced,Health Coverage,"Smoker, high stress job"
+Rahul,49,Retired,$50k-$75k,4,Married w/ Spouse,Wealth Creation,Lives in joint family
+Sneha,62,Business Owner,$30k-$50k,4,Single,Health Coverage,Lives in joint family
+Riya,63,Business Owner,$15k-$30k,2,Married w/ Spouse,Child Education Fund,"Owns property, no liabilities"
+Arjun,55,Retired,$100k+,4,Married w/ Spouse,Health Coverage,"Health-conscious, gym member"
+Riya,31,Self-Employed,$100k+,3,Married w/ Spouse,Child Education Fund,Lives in joint family
+Mr. Dutta,33,Business Owner,$15k-$30k,1,Single,Health Coverage,"Owns property, no liabilities"
+Mr. Dutta,22,Salaried,$50k-$75k,4,Married w/ Spouse,Wealth Creation,"Smoker, high stress job"
+Arjun,46,Retired,$75k-$100k,5,Married w/ Spouse,Retirement Savings,"Health-conscious, gym member"
+Amit,50,Self-Employed,$30k-$50k,2,Widowed,Retirement Savings,"Health-conscious, gym member"
+Ankit,63,Retired,$15k-$30k,2,Married w/ Spouse,Child Education Fund,"Frequent flyer, international travel"
+Riya,60,Business Owner,$15k-$30k,3,Married w/ Spouse,Child Education Fund,"Pet owner, active lifestyle"
+Sneha,54,Salaried,$100k+,4,Married w/ Kids,Tax Saving,"Frequent flyer, international travel"
+Arjun,54,Salaried,$50k-$75k,3,Single,Child Education Fund,Works night shifts
+Ankit,51,Salaried,$30k-$50k,3,Married w/ Kids,Wealth Creation,"Owns property, no liabilities"
+Sunita,22,Salaried,$75k-$100k,2,Widowed,Retirement Savings,"Smoker, high stress job"
+Riya,52,Self-Employed,$50k-$75k,4,Widowed,Retirement Savings,"Sedentary lifestyle, chronic illness"
+Sunita,42,Retired,$15k-$30k,4,Married w/ Kids,Tax Saving,Lives in joint family
+Sunita,28,Business Owner,$75k-$100k,2,Widowed,Health Coverage,"Smoker, high stress job"
+Sneha,37,Retired,$15k-$30k,1,Widowed,Health Coverage,Prefers homeopathic treatment
+Priya,57,Self-Employed,$50k-$75k,5,Widowed,Wealth Creation,"Owns property, no liabilities"
+Sneha,45,Business Owner,$15k-$30k,3,Divorced,Wealth Creation,"Pet owner, active lifestyle"
+Arjun,50,Retired,$30k-$50k,2,Single,Child Education Fund,Lives in joint family
+Mr. Dutta,37,Retired,$15k-$30k,4,Single,Health Coverage,"Frequent flyer, international travel"
+Sunita,32,Retired,$15k-$30k,5,Single,Child Education Fund,Prefers homeopathic treatment
+Sunita,29,Business Owner,$15k-$30k,1,Widowed,Tax Saving,"Health-conscious, gym member"
+Ankit,43,Business Owner,$75k-$100k,2,Married w/ Kids,Wealth Creation,Lives in joint family
+Sunita,38,Salaried,$30k-$50k,2,Single,Child Education Fund,"Pet owner, active lifestyle"
+Amit,49,Retired,$15k-$30k,2,Married w/ Spouse,Health Coverage,"Sedentary lifestyle, chronic illness"
+Amit,57,Salaried,$30k-$50k,2,Married w/ Kids,Wealth Creation,Works night shifts
+Priya,39,Retired,$75k-$100k,1,Single,Retirement Savings,"Owns a car, travels frequently"
+Mrs. Iyer,61,Salaried,$15k-$30k,5,Married w/ Spouse,Retirement Savings,"Smoker, high stress job"
+Rahul,35,Business Owner,$100k+,2,Widowed,Health Coverage,Prefers homeopathic treatment
+Amit,52,Self-Employed,$15k-$30k,2,Divorced,Tax Saving,"Owns property, no liabilities"
+Priya,42,Salaried,$30k-$50k,1,Widowed,Child Education Fund,Works night shifts
+Priya,59,Retired,$100k+,2,Married w/ Kids,Health Coverage,"Smoker, high stress job"
+Sunita,42,Salaried,$50k-$75k,3,Widowed,Tax Saving,"Owns property, no liabilities"
+Sneha,44,Self-Employed,$75k-$100k,5,Married w/ Spouse,Wealth Creation,"Owns a car, travels frequently"
+Priya,39,Business Owner,$50k-$75k,3,Divorced,Health Coverage,Works night shifts
+Mr. Dutta,26,Retired,$50k-$75k,3,Divorced,Wealth Creation,"Owns a car, travels frequently"
+Amit,36,Salaried,$75k-$100k,1,Married w/ Kids,Child Education Fund,Works night shifts
+Ankit,27,Business Owner,$50k-$75k,4,Divorced,Health Coverage,"Sedentary lifestyle, chronic illness"
+Arjun,22,Business Owner,$100k+,5,Divorced,Child Education Fund,"Owns a car, travels frequently"
+Amit,22,Salaried,$30k-$50k,4,Married w/ Spouse,Child Education Fund,"Sedentary lifestyle, chronic illness"
+Riya,54,Business Owner,$50k-$75k,5,Widowed,Health Coverage,"Pet owner, active lifestyle"
+Amit,62,Self-Employed,$100k+,2,Single,Health Coverage,"Owns property, no liabilities"
+Rahul,59,Retired,$75k-$100k,3,Divorced,Retirement Savings,"Health-conscious, gym member"
+Rahul,44,Business Owner,$30k-$50k,1,Divorced,Wealth Creation,"Sedentary lifestyle, chronic illness"
+Riya,35,Self-Employed,$75k-$100k,3,Widowed,Child Education Fund,Prefers homeopathic treatment
+Riya,51,Salaried,$30k-$50k,4,Single,Tax Saving,"Health-conscious, gym member"
+Ankit,33,Business Owner,$100k+,1,Single,Health Coverage,"Smoker, high stress job"
+Sunita,46,Business Owner,$30k-$50k,3,Married w/ Kids,Wealth Creation,"Health-conscious, gym member"
+Mr. Dutta,22,Retired,$30k-$50k,5,Widowed,Wealth Creation,"Frequent flyer, international travel"
+Mrs. Iyer,23,Retired,$15k-$30k,3,Married w/ Kids,Tax Saving,"Health-conscious, gym member"
+Rahul,53,Retired,$30k-$50k,1,Single,Health Coverage,"Sedentary lifestyle, chronic illness"
+Ankit,63,Retired,$30k-$50k,4,Widowed,Tax Saving,"Frequent flyer, international travel"
+Sneha,61,Self-Employed,$15k-$30k,1,Widowed,Child Education Fund,"Smoker, high stress job"
+Rahul,30,Business Owner,$100k+,5,Married w/ Kids,Child Education Fund,"Owns property, no liabilities"
+Mrs. Iyer,27,Retired,$30k-$50k,3,Single,Wealth Creation,Prefers homeopathic treatment
+Ankit,45,Self-Employed,$75k-$100k,3,Married w/ Kids,Retirement Savings,"Sedentary lifestyle, chronic illness"
+Rahul,30,Retired,$100k+,1,Single,Health Coverage,"Health-conscious, gym member"
+Ankit,29,Salaried,$100k+,1,Widowed,Health Coverage,"Frequent flyer, international travel"
+Mr. Dutta,38,Salaried,$30k-$50k,1,Divorced,Child Education Fund,"Health-conscious, gym member"
+Arjun,48,Self-Employed,$30k-$50k,5,Single,Retirement Savings,Works night shifts
+Amit,60,Self-Employed,$75k-$100k,4,Married w/ Kids,Child Education Fund,"Owns a car, travels frequently"
+Sneha,57,Salaried,$30k-$50k,3,Single,Wealth Creation,"Frequent flyer, international travel"
+Arjun,45,Salaried,$50k-$75k,5,Single,Tax Saving,"Smoker, high stress job"
+Arjun,34,Retired,$100k+,3,Divorced,Health Coverage,"Owns property, no liabilities"
+Sneha,64,Salaried,$30k-$50k,3,Married w/ Kids,Health Coverage,Prefers homeopathic treatment
+Mrs. Iyer,54,Business Owner,$100k+,3,Divorced,Health Coverage,Works night shifts
+Riya,53,Self-Employed,$100k+,4,Divorced,Tax Saving,"Smoker, high stress job"
+Ankit,46,Retired,$30k-$50k,2,Married w/ Kids,Retirement Savings,"Owns property, no liabilities"
+Amit,28,Salaried,$50k-$75k,5,Married w/ Spouse,Health Coverage,"Pet owner, active lifestyle"
+Mr. Dutta,42,Salaried,$100k+,4,Divorced,Health Coverage,"Health-conscious, gym member"
+Arjun,34,Self-Employed,$100k+,4,Single,Wealth Creation,"Sedentary lifestyle, chronic illness"
+Priya,44,Self-Employed,$15k-$30k,1,Single,Wealth Creation,"Sedentary lifestyle, chronic illness"
+Mr. Dutta,28,Self-Employed,$15k-$30k,2,Single,Wealth Creation,Lives in joint family
+Riya,45,Self-Employed,$100k+,2,Married w/ Kids,Wealth Creation,"Owns a car, travels frequently"
+Rahul,36,Salaried,$50k-$75k,2,Married w/ Spouse,Child Education Fund,"Frequent flyer, international travel"
+Mr. Dutta,61,Self-Employed,$50k-$75k,4,Married w/ Kids,Tax Saving,"Sedentary lifestyle, chronic illness"
+Ankit,53,Salaried,$15k-$30k,2,Widowed,Health Coverage,"Pet owner, active lifestyle"
+Amit,47,Business Owner,$75k-$100k,2,Widowed,Health Coverage,Works night shifts
+Arjun,50,Self-Employed,$75k-$100k,4,Single,Tax Saving,"Health-conscious, gym member"
+Priya,57,Self-Employed,$50k-$75k,5,Widowed,Wealth Creation,Prefers homeopathic treatment
+Ankit,41,Self-Employed,$30k-$50k,5,Divorced,Retirement Savings,"Health-conscious, gym member"
+Sunita,30,Business Owner,$100k+,4,Married w/ Spouse,Retirement Savings,"Pet owner, active lifestyle"
+Rahul,25,Salaried,$30k-$50k,1,Married w/ Spouse,Health Coverage,"Owns a car, travels frequently"
+Arjun,63,Retired,$75k-$100k,5,Divorced,Retirement Savings,"Sedentary lifestyle, chronic illness"
+Mr. Dutta,30,Salaried,$15k-$30k,2,Married w/ Kids,Tax Saving,Lives in joint family
+Riya,35,Self-Employed,$100k+,2,Widowed,Tax Saving,Prefers homeopathic treatment
+Riya,56,Business Owner,$15k-$30k,2,Widowed,Child Education Fund,Works night shifts
+Priya,64,Self-Employed,$50k-$75k,4,Married w/ Kids,Child Education Fund,"Owns a car, travels frequently"
+Sneha,43,Salaried,$15k-$30k,2,Single,Retirement Savings,"Health-conscious, gym member"
+Amit,50,Business Owner,$100k+,4,Married w/ Kids,Wealth Creation,"Owns a car, travels frequently"
+Sneha,51,Business Owner,$30k-$50k,4,Single,Tax Saving,"Frequent flyer, international travel"
+Arjun,42,Business Owner,$75k-$100k,1,Married w/ Spouse,Tax Saving,"Owns property, no liabilities"
+Mrs. Iyer,50,Retired,$50k-$75k,4,Married w/ Spouse,Retirement Savings,Prefers homeopathic treatment
+Sneha,39,Self-Employed,$30k-$50k,1,Married w/ Spouse,Retirement Savings,Prefers homeopathic treatment
+Mrs. Iyer,57,Self-Employed,$50k-$75k,3,Married w/ Spouse,Retirement Savings,Works night shifts
+Mr. Dutta,54,Salaried,$75k-$100k,2,Single,Child Education Fund,"Sedentary lifestyle, chronic illness"
+Mr. Dutta,34,Salaried,$50k-$75k,4,Single,Child Education Fund,Works night shifts
+Mr. Dutta,60,Salaried,$30k-$50k,3,Single,Retirement Savings,"Owns a car, travels frequently"
+Sunita,57,Retired,$100k+,5,Divorced,Health Coverage,"Health-conscious, gym member"
+Mrs. Iyer,53,Retired,$15k-$30k,4,Married w/ Spouse,Retirement Savings,"Owns a car, travels frequently"
+Mr. Dutta,58,Business Owner,$30k-$50k,4,Widowed,Child Education Fund,Works night shifts
+Arjun,61,Business Owner,$75k-$100k,1,Married w/ Spouse,Tax Saving,Prefers homeopathic treatment
+Rahul,42,Salaried,$100k+,4,Married w/ Spouse,Tax Saving,"Frequent flyer, international travel"
+Arjun,32,Business Owner,$75k-$100k,2,Married w/ Kids,Retirement Savings,"Smoker, high stress job"
+Riya,59,Retired,$75k-$100k,4,Married w/ Spouse,Health Coverage,Prefers homeopathic treatment
+Arjun,29,Self-Employed,$30k-$50k,5,Single,Health Coverage,"Smoker, high stress job"
+Sneha,59,Salaried,$15k-$30k,5,Single,Retirement Savings,"Pet owner, active lifestyle"
+Amit,22,Self-Employed,$30k-$50k,1,Married w/ Kids,Child Education Fund,"Owns property, no liabilities"
+Sneha,43,Salaried,$50k-$75k,1,Divorced,Child Education Fund,"Health-conscious, gym member"
+Rahul,35,Salaried,$50k-$75k,3,Widowed,Retirement Savings,Lives in joint family
+Mrs. Iyer,38,Business Owner,$30k-$50k,1,Divorced,Child Education Fund,"Frequent flyer, international travel"
+Arjun,54,Retired,$15k-$30k,2,Widowed,Child Education Fund,"Owns a car, travels frequently"
+Rahul,48,Salaried,$30k-$50k,5,Married w/ Spouse,Health Coverage,"Frequent flyer, international travel"
+Priya,31,Salaried,$100k+,4,Married w/ Spouse,Child Education Fund,"Smoker, high stress job"
+Priya,30,Salaried,$50k-$75k,4,Widowed,Child Education Fund,"Health-conscious, gym member"
+Mrs. Iyer,50,Business Owner,$100k+,3,Single,Tax Saving,"Health-conscious, gym member"
+Sunita,39,Salaried,$50k-$75k,5,Single,Health Coverage,"Smoker, high stress job"
+Riya,51,Retired,$50k-$75k,3,Widowed,Child Education Fund,"Health-conscious, gym member"
+Mrs. Iyer,54,Business Owner,$15k-$30k,1,Married w/ Kids,Wealth Creation,Lives in joint family
+Arjun,62,Retired,$15k-$30k,5,Married w/ Spouse,Health Coverage,"Frequent flyer, international travel"
+Sunita,50,Retired,$75k-$100k,2,Divorced,Child Education Fund,"Owns a car, travels frequently"
+Amit,42,Self-Employed,$75k-$100k,1,Widowed,Wealth Creation,"Health-conscious, gym member"
+Mr. Dutta,47,Business Owner,$100k+,4,Widowed,Tax Saving,"Owns property, no liabilities"
+Ankit,32,Business Owner,$100k+,4,Married w/ Spouse,Wealth Creation,Lives in joint family
+Mr. Dutta,47,Salaried,$100k+,5,Single,Health Coverage,Lives in joint family
+Amit,48,Retired,$75k-$100k,2,Divorced,Child Education Fund,"Health-conscious, gym member"
+Ankit,48,Self-Employed,$100k+,5,Married w/ Spouse,Tax Saving,"Owns a car, travels frequently"
+Mrs. Iyer,27,Retired,$75k-$100k,4,Married w/ Spouse,Health Coverage,"Sedentary lifestyle, chronic illness"
+Rahul,59,Retired,$15k-$30k,4,Single,Tax Saving,"Frequent flyer, international travel"
+Sneha,61,Self-Employed,$30k-$50k,1,Married w/ Kids,Retirement Savings,Prefers homeopathic treatment
+Arjun,23,Salaried,$15k-$30k,4,Married w/ Kids,Child Education Fund,Prefers homeopathic treatment
+Mr. Dutta,25,Self-Employed,$50k-$75k,3,Married w/ Spouse,Wealth Creation,"Health-conscious, gym member"
+Amit,47,Salaried,$75k-$100k,5,Married w/ Kids,Wealth Creation,Works night shifts
+Sunita,41,Salaried,$100k+,5,Married w/ Kids,Child Education Fund,"Smoker, high stress job"
+Rahul,33,Self-Employed,$50k-$75k,3,Single,Child Education Fund,"Pet owner, active lifestyle"
+Sunita,64,Self-Employed,$100k+,2,Single,Health Coverage,Lives in joint family
+Arjun,39,Salaried,$50k-$75k,3,Divorced,Health Coverage,"Frequent flyer, international travel"
+Priya,38,Self-Employed,$15k-$30k,5,Divorced,Tax Saving,Works night shifts
+Amit,49,Retired,$30k-$50k,1,Widowed,Health Coverage,"Owns a car, travels frequently"
+Mr. Dutta,52,Business Owner,$30k-$50k,2,Widowed,Wealth Creation,Prefers homeopathic treatment
+Arjun,64,Retired,$50k-$75k,1,Divorced,Wealth Creation,"Smoker, high stress job"
+Mr. Dutta,57,Retired,$100k+,3,Single,Health Coverage,"Pet owner, active lifestyle"
+Mrs. Iyer,27,Retired,$50k-$75k,3,Divorced,Health Coverage,"Smoker, high stress job"
+Mr. Dutta,27,Business Owner,$30k-$50k,4,Married w/ Spouse,Tax Saving,"Health-conscious, gym member"
+Mr. Dutta,52,Business Owner,$75k-$100k,2,Married w/ Kids,Wealth Creation,"Sedentary lifestyle, chronic illness"
+Sunita,36,Salaried,$100k+,1,Widowed,Tax Saving,"Health-conscious, gym member"
+Arjun,59,Self-Employed,$15k-$30k,3,Widowed,Wealth Creation,Works night shifts
+Riya,54,Retired,$50k-$75k,4,Divorced,Wealth Creation,"Health-conscious, gym member"
+Rahul,29,Salaried,$100k+,4,Widowed,Tax Saving,"Health-conscious, gym member"
+Ankit,28,Self-Employed,$50k-$75k,1,Widowed,Child Education Fund,Works night shifts
+Riya,22,Self-Employed,$50k-$75k,5,Married w/ Kids,Wealth Creation,"Sedentary lifestyle, chronic illness"
+Sneha,58,Retired,$100k+,4,Single,Retirement Savings,"Health-conscious, gym member"
+Amit,23,Self-Employed,$15k-$30k,2,Widowed,Wealth Creation,"Pet owner, active lifestyle"
+Amit,48,Salaried,$100k+,4,Married w/ Spouse,Health Coverage,Works night shifts
+Riya,35,Retired,$100k+,5,Divorced,Health Coverage,Works night shifts
+Riya,60,Business Owner,$50k-$75k,3,Single,Wealth Creation,"Sedentary lifestyle, chronic illness"
+Riya,61,Business Owner,$100k+,4,Married w/ Spouse,Retirement Savings,"Pet owner, active lifestyle"
+Riya,26,Self-Employed,$75k-$100k,1,Divorced,Tax Saving,"Owns a car, travels frequently"
+Ankit,62,Business Owner,$50k-$75k,4,Married w/ Spouse,Child Education Fund,"Pet owner, active lifestyle"
+Amit,36,Business Owner,$75k-$100k,4,Divorced,Wealth Creation,"Smoker, high stress job"
+Riya,61,Business Owner,$30k-$50k,4,Married w/ Spouse,Retirement Savings,Works night shifts
+Sneha,32,Salaried,$50k-$75k,1,Married w/ Spouse,Tax Saving,Works night shifts
+Priya,41,Self-Employed,$75k-$100k,2,Widowed,Retirement Savings,Prefers homeopathic treatment
+Mr. Dutta,54,Business Owner,$30k-$50k,2,Widowed,Health Coverage,Lives in joint family
+Ankit,28,Retired,$15k-$30k,1,Divorced,Child Education Fund,"Sedentary lifestyle, chronic illness"
+Sneha,40,Self-Employed,$50k-$75k,5,Widowed,Tax Saving,"Sedentary lifestyle, chronic illness"
+Rahul,23,Self-Employed,$100k+,5,Single,Wealth Creation,"Pet owner, active lifestyle"
+Sunita,39,Self-Employed,$50k-$75k,5,Single,Wealth Creation,Lives in joint family
+Ankit,58,Salaried,$100k+,3,Married w/ Spouse,Child Education Fund,"Frequent flyer, international travel"
+Arjun,42,Self-Employed,$75k-$100k,2,Single,Tax Saving,"Owns property, no liabilities"
+Riya,63,Business Owner,$30k-$50k,4,Married w/ Spouse,Retirement Savings,"Pet owner, active lifestyle"
+Riya,64,Salaried,$75k-$100k,4,Widowed,Child Education Fund,"Sedentary lifestyle, chronic illness"
+Riya,22,Retired,$15k-$30k,1,Divorced,Wealth Creation,"Pet owner, active lifestyle"
+Mr. Dutta,47,Retired,$75k-$100k,5,Married w/ Kids,Tax Saving,"Owns property, no liabilities"
+Amit,64,Business Owner,$15k-$30k,5,Married w/ Spouse,Wealth Creation,"Owns a car, travels frequently"
+Amit,45,Business Owner,$100k+,4,Widowed,Wealth Creation,"Sedentary lifestyle, chronic illness"
+Arjun,23,Retired,$100k+,3,Widowed,Wealth Creation,Works night shifts
+Rahul,53,Salaried,$15k-$30k,5,Divorced,Health Coverage,Lives in joint family
+Mrs. Iyer,50,Salaried,$30k-$50k,4,Married w/ Spouse,Tax Saving,Lives in joint family
+Priya,28,Retired,$50k-$75k,5,Divorced,Child Education Fund,"Owns a car, travels frequently"
+Mr. Dutta,22,Retired,$30k-$50k,3,Divorced,Child Education Fund,"Sedentary lifestyle, chronic illness"
+Rahul,55,Salaried,$15k-$30k,4,Widowed,Retirement Savings,Works night shifts
+Riya,27,Self-Employed,$75k-$100k,1,Single,Health Coverage,"Owns a car, travels frequently"
+Priya,54,Retired,$75k-$100k,1,Divorced,Child Education Fund,"Owns a car, travels frequently"
+Sneha,58,Salaried,$15k-$30k,4,Married w/ Kids,Retirement Savings,Works night shifts
+Arjun,52,Business Owner,$75k-$100k,4,Widowed,Retirement Savings,"Sedentary lifestyle, chronic illness"
+Riya,57,Business Owner,$50k-$75k,4,Married w/ Spouse,Child Education Fund,Lives in joint family
+Sneha,47,Business Owner,$30k-$50k,2,Married w/ Spouse,Wealth Creation,Works night shifts
+Rahul,57,Self-Employed,$100k+,2,Divorced,Tax Saving,Works night shifts
+Arjun,33,Retired,$100k+,4,Widowed,Health Coverage,"Smoker, high stress job"
+Mrs. Iyer,57,Salaried,$30k-$50k,2,Married w/ Kids,Health Coverage,"Owns property, no liabilities"
+Amit,46,Retired,$30k-$50k,1,Divorced,Child Education Fund,Prefers homeopathic treatment
+Sneha,28,Salaried,$30k-$50k,4,Widowed,Child Education Fund,"Owns a car, travels frequently"
+Ankit,27,Self-Employed,$15k-$30k,2,Widowed,Retirement Savings,"Smoker, high stress job"
+Rahul,37,Self-Employed,$15k-$30k,2,Married w/ Kids,Health Coverage,Lives in joint family
+Mr. Dutta,31,Business Owner,$100k+,3,Single,Child Education Fund,Prefers homeopathic treatment
+Sneha,24,Retired,$50k-$75k,4,Divorced,Tax Saving,"Health-conscious, gym member"
+Mrs. Iyer,28,Retired,$30k-$50k,5,Married w/ Spouse,Child Education Fund,"Smoker, high stress job"
+Amit,36,Retired,$30k-$50k,5,Widowed,Retirement Savings,"Frequent flyer, international travel"
+Mr. Dutta,33,Retired,$100k+,3,Married w/ Spouse,Retirement Savings,"Pet owner, active lifestyle"
+Mr. Dutta,38,Retired,$75k-$100k,3,Widowed,Child Education Fund,"Frequent flyer, international travel"
+Arjun,40,Self-Employed,$75k-$100k,2,Married w/ Spouse,Health Coverage,"Owns a car, travels frequently"
+Mrs. Iyer,45,Retired,$50k-$75k,3,Single,Retirement Savings,"Owns property, no liabilities"
+Riya,37,Salaried,$75k-$100k,1,Single,Retirement Savings,Works night shifts
+Rahul,38,Business Owner,$30k-$50k,1,Widowed,Child Education Fund,"Health-conscious, gym member"
+Ankit,30,Salaried,$100k+,5,Married w/ Kids,Child Education Fund,Prefers homeopathic treatment
+Ankit,33,Self-Employed,$30k-$50k,5,Single,Tax Saving,"Sedentary lifestyle, chronic illness"
+Mrs. Iyer,64,Retired,$50k-$75k,5,Single,Retirement Savings,"Frequent flyer, international travel"
+Riya,47,Self-Employed,$75k-$100k,5,Single,Health Coverage,Prefers homeopathic treatment
+Mrs. Iyer,31,Retired,$75k-$100k,3,Married w/ Kids,Wealth Creation,"Pet owner, active lifestyle"
+Priya,23,Salaried,$100k+,4,Widowed,Health Coverage,"Frequent flyer, international travel"
+Riya,29,Retired,$75k-$100k,4,Divorced,Wealth Creation,"Owns a car, travels frequently"
+Amit,49,Business Owner,$75k-$100k,5,Single,Wealth Creation,Prefers homeopathic treatment
+Mr. Dutta,58,Business Owner,$100k+,4,Single,Wealth Creation,"Sedentary lifestyle, chronic illness"
+Ankit,60,Retired,$30k-$50k,5,Married w/ Spouse,Retirement Savings,"Frequent flyer, international travel"
+Mr. Dutta,58,Salaried,$75k-$100k,2,Single,Health Coverage,Lives in joint family
+Mrs. Iyer,50,Salaried,$100k+,3,Married w/ Spouse,Tax Saving,"Frequent flyer, international travel"
+Mr. Dutta,22,Salaried,$75k-$100k,4,Widowed,Wealth Creation,Works night shifts
+Ankit,31,Self-Employed,$50k-$75k,4,Widowed,Health Coverage,"Owns property, no liabilities"
+Priya,35,Salaried,$15k-$30k,3,Single,Health Coverage,Prefers homeopathic treatment
+Riya,33,Salaried,$15k-$30k,5,Married w/ Spouse,Child Education Fund,"Health-conscious, gym member"
+Rahul,45,Salaried,$30k-$50k,4,Single,Health Coverage,"Smoker, high stress job"
+Rahul,31,Retired,$30k-$50k,1,Single,Retirement Savings,"Pet owner, active lifestyle"
+Mrs. Iyer,49,Self-Employed,$50k-$75k,4,Widowed,Wealth Creation,Prefers homeopathic treatment
+Amit,43,Salaried,$50k-$75k,2,Single,Retirement Savings,"Owns a car, travels frequently"
+Riya,49,Self-Employed,$75k-$100k,2,Widowed,Wealth Creation,"Owns a car, travels frequently"
+Mr. Dutta,27,Retired,$15k-$30k,1,Divorced,Health Coverage,"Pet owner, active lifestyle"
+Riya,23,Business Owner,$30k-$50k,1,Divorced,Child Education Fund,"Owns a car, travels frequently"
+Arjun,62,Retired,$75k-$100k,2,Married w/ Kids,Child Education Fund,Prefers homeopathic treatment
+Mrs. Iyer,54,Salaried,$100k+,4,Married w/ Kids,Tax Saving,Lives in joint family
+Priya,55,Salaried,$15k-$30k,1,Married w/ Kids,Child Education Fund,Works night shifts
+Priya,35,Business Owner,$15k-$30k,2,Single,Wealth Creation,Prefers homeopathic treatment
+Rahul,51,Business Owner,$30k-$50k,1,Widowed,Child Education Fund,Lives in joint family
+Sunita,33,Self-Employed,$30k-$50k,4,Married w/ Kids,Wealth Creation,"Pet owner, active lifestyle"
+Mr. Dutta,57,Retired,$15k-$30k,2,Married w/ Spouse,Child Education Fund,"Smoker, high stress job"
+Priya,23,Self-Employed,$15k-$30k,5,Widowed,Wealth Creation,"Pet owner, active lifestyle"
+Ankit,34,Business Owner,$15k-$30k,3,Married w/ Kids,Wealth Creation,"Sedentary lifestyle, chronic illness"
+Ankit,44,Salaried,$75k-$100k,5,Married w/ Spouse,Tax Saving,"Frequent flyer, international travel"
+Rahul,25,Retired,$15k-$30k,1,Married w/ Spouse,Child Education Fund,"Pet owner, active lifestyle"
+Sneha,54,Business Owner,$75k-$100k,3,Married w/ Spouse,Tax Saving,"Frequent flyer, international travel"
+Mrs. Iyer,27,Business Owner,$15k-$30k,1,Divorced,Health Coverage,"Sedentary lifestyle, chronic illness"
+Arjun,27,Retired,$75k-$100k,5,Single,Retirement Savings,"Health-conscious, gym member"
+Rahul,54,Business Owner,$50k-$75k,5,Married w/ Spouse,Child Education Fund,"Health-conscious, gym member"
+Arjun,46,Salaried,$100k+,2,Widowed,Health Coverage,Works night shifts
+Mr. Dutta,47,Self-Employed,$30k-$50k,1,Widowed,Retirement Savings,"Smoker, high stress job"
+Sneha,59,Salaried,$50k-$75k,1,Divorced,Child Education Fund,Works night shifts
+Priya,61,Retired,$75k-$100k,3,Single,Child Education Fund,"Frequent flyer, international travel"
+Rahul,28,Retired,$100k+,4,Married w/ Spouse,Retirement Savings,Prefers homeopathic treatment
+Amit,26,Self-Employed,$75k-$100k,3,Married w/ Kids,Tax Saving,"Health-conscious, gym member"
+Arjun,30,Retired,$30k-$50k,2,Single,Tax Saving,"Frequent flyer, international travel"
+Arjun,50,Self-Employed,$30k-$50k,3,Married w/ Spouse,Retirement Savings,"Owns a car, travels frequently"
+Mr. Dutta,39,Self-Employed,$30k-$50k,4,Divorced,Health Coverage,"Owns a car, travels frequently"
+Amit,24,Retired,$30k-$50k,1,Divorced,Retirement Savings,"Pet owner, active lifestyle"
+Rahul,41,Self-Employed,$15k-$30k,1,Single,Child Education Fund,Works night shifts
+Mrs. Iyer,36,Self-Employed,$15k-$30k,2,Single,Child Education Fund,"Sedentary lifestyle, chronic illness"
+Ankit,42,Salaried,$30k-$50k,1,Married w/ Kids,Health Coverage,Lives in joint family
+Sunita,48,Business Owner,$50k-$75k,4,Divorced,Wealth Creation,"Health-conscious, gym member"
+Sneha,31,Self-Employed,$30k-$50k,1,Married w/ Spouse,Tax Saving,"Sedentary lifestyle, chronic illness"
+Ankit,48,Salaried,$15k-$30k,1,Divorced,Wealth Creation,"Owns a car, travels frequently"
+Rahul,22,Business Owner,$100k+,3,Married w/ Kids,Health Coverage,"Pet owner, active lifestyle"
+Arjun,46,Retired,$50k-$75k,4,Married w/ Spouse,Health Coverage,"Health-conscious, gym member"
+Riya,51,Self-Employed,$100k+,5,Married w/ Kids,Tax Saving,"Sedentary lifestyle, chronic illness"
+Ankit,42,Self-Employed,$30k-$50k,4,Married w/ Kids,Retirement Savings,"Frequent flyer, international travel"
+Amit,36,Self-Employed,$30k-$50k,4,Single,Child Education Fund,"Owns property, no liabilities"
+Sneha,24,Business Owner,$15k-$30k,3,Widowed,Retirement Savings,"Health-conscious, gym member"
+Rahul,50,Business Owner,$30k-$50k,5,Single,Tax Saving,Lives in joint family
+Riya,35,Self-Employed,$50k-$75k,5,Single,Wealth Creation,"Smoker, high stress job"
+Arjun,28,Salaried,$100k+,2,Married w/ Kids,Wealth Creation,Works night shifts
+Ankit,42,Self-Employed,$50k-$75k,1,Married w/ Kids,Retirement Savings,"Health-conscious, gym member"
+Arjun,36,Self-Employed,$50k-$75k,4,Divorced,Child Education Fund,"Owns a car, travels frequently"
+Rahul,61,Business Owner,$100k+,3,Single,Wealth Creation,Prefers homeopathic treatment
+Rahul,48,Salaried,$15k-$30k,5,Widowed,Tax Saving,"Pet owner, active lifestyle"
+Mr. Dutta,33,Retired,$75k-$100k,1,Married w/ Spouse,Retirement Savings,"Owns property, no liabilities"
+Sunita,56,Salaried,$50k-$75k,2,Married w/ Spouse,Child Education Fund,Lives in joint family
+Mrs. Iyer,60,Salaried,$50k-$75k,1,Widowed,Health Coverage,"Pet owner, active lifestyle"
+Priya,22,Business Owner,$30k-$50k,1,Married w/ Kids,Health Coverage,"Smoker, high stress job"
+Priya,57,Retired,$30k-$50k,3,Married w/ Spouse,Retirement Savings,Prefers homeopathic treatment
+Arjun,41,Retired,$75k-$100k,1,Single,Wealth Creation,"Sedentary lifestyle, chronic illness"
+Mrs. Iyer,34,Business Owner,$30k-$50k,5,Married w/ Spouse,Tax Saving,"Sedentary lifestyle, chronic illness"
+Amit,50,Salaried,$30k-$50k,4,Widowed,Retirement Savings,"Owns property, no liabilities"
+Arjun,37,Self-Employed,$15k-$30k,2,Widowed,Wealth Creation,"Pet owner, active lifestyle"
+Riya,55,Business Owner,$100k+,5,Single,Retirement Savings,"Smoker, high stress job"
+Arjun,62,Retired,$50k-$75k,5,Single,Health Coverage,Works night shifts
+Ankit,48,Business Owner,$75k-$100k,4,Widowed,Tax Saving,"Pet owner, active lifestyle"
+Amit,53,Business Owner,$100k+,3,Widowed,Retirement Savings,"Frequent flyer, international travel"
+Arjun,50,Salaried,$30k-$50k,2,Married w/ Spouse,Child Education Fund,"Health-conscious, gym member"
+Amit,42,Retired,$100k+,4,Widowed,Health Coverage,"Owns property, no liabilities"
+Mr. Dutta,26,Retired,$50k-$75k,4,Married w/ Spouse,Health Coverage,Lives in joint family
+Riya,47,Self-Employed,$30k-$50k,2,Divorced,Retirement Savings,"Owns property, no liabilities"
+Sneha,55,Salaried,$50k-$75k,4,Divorced,Wealth Creation,Works night shifts
+Arjun,36,Self-Employed,$100k+,4,Divorced,Wealth Creation,"Health-conscious, gym member"
+Priya,26,Self-Employed,$50k-$75k,2,Married w/ Kids,Wealth Creation,"Frequent flyer, international travel"
+Ankit,42,Business Owner,$100k+,2,Divorced,Retirement Savings,"Frequent flyer, international travel"
+Ankit,35,Business Owner,$50k-$75k,1,Married w/ Kids,Wealth Creation,"Owns a car, travels frequently"
+Riya,29,Self-Employed,$100k+,1,Divorced,Retirement Savings,"Smoker, high stress job"
+Mrs. Iyer,49,Salaried,$15k-$30k,2,Married w/ Spouse,Retirement Savings,Prefers homeopathic treatment
+Priya,26,Self-Employed,$100k+,3,Divorced,Wealth Creation,"Owns a car, travels frequently"
+Sneha,43,Business Owner,$30k-$50k,3,Single,Tax Saving,"Pet owner, active lifestyle"
+Rahul,30,Business Owner,$50k-$75k,4,Divorced,Retirement Savings,Prefers homeopathic treatment
+Sunita,23,Self-Employed,$15k-$30k,1,Single,Wealth Creation,Prefers homeopathic treatment
+Sneha,23,Retired,$15k-$30k,2,Widowed,Retirement Savings,"Owns a car, travels frequently"
+Ankit,49,Self-Employed,$50k-$75k,2,Single,Child Education Fund,"Owns a car, travels frequently"
+Sunita,32,Retired,$75k-$100k,1,Widowed,Retirement Savings,Prefers homeopathic treatment
+Arjun,26,Retired,$100k+,4,Married w/ Kids,Child Education Fund,"Owns a car, travels frequently"
+Arjun,39,Retired,$15k-$30k,3,Divorced,Health Coverage,"Frequent flyer, international travel"
+Sneha,43,Self-Employed,$75k-$100k,2,Single,Child Education Fund,"Frequent flyer, international travel"
+Rahul,27,Self-Employed,$30k-$50k,2,Divorced,Health Coverage,"Smoker, high stress job"
+Sneha,62,Salaried,$50k-$75k,5,Divorced,Tax Saving,"Sedentary lifestyle, chronic illness"
+Rahul,27,Salaried,$15k-$30k,5,Married w/ Spouse,Tax Saving,Prefers homeopathic treatment
+Mrs. Iyer,59,Retired,$50k-$75k,3,Single,Health Coverage,Lives in joint family
+Rahul,52,Business Owner,$15k-$30k,1,Single,Wealth Creation,"Owns a car, travels frequently"
+Priya,63,Business Owner,$15k-$30k,5,Married w/ Kids,Retirement Savings,Prefers homeopathic treatment
+Sneha,59,Business Owner,$30k-$50k,1,Widowed,Tax Saving,Works night shifts
+Amit,36,Retired,$50k-$75k,2,Widowed,Wealth Creation,"Frequent flyer, international travel"
+Mr. Dutta,36,Retired,$75k-$100k,1,Married w/ Kids,Retirement Savings,Works night shifts
+Mrs. Iyer,50,Retired,$30k-$50k,3,Divorced,Wealth Creation,Works night shifts
+Mrs. Iyer,34,Salaried,$15k-$30k,3,Divorced,Child Education Fund,Works night shifts
+Ankit,40,Business Owner,$50k-$75k,3,Widowed,Tax Saving,"Pet owner, active lifestyle"
+Sunita,45,Business Owner,$15k-$30k,4,Widowed,Child Education Fund,Works night shifts
+Sneha,64,Business Owner,$15k-$30k,5,Married w/ Spouse,Tax Saving,"Owns a car, travels frequently"
+Ankit,59,Self-Employed,$50k-$75k,4,Single,Retirement Savings,Prefers homeopathic treatment
+Amit,47,Salaried,$75k-$100k,2,Married w/ Kids,Health Coverage,"Frequent flyer, international travel"
+Ankit,56,Business Owner,$75k-$100k,3,Married w/ Spouse,Health Coverage,Lives in joint family
+Amit,49,Business Owner,$15k-$30k,4,Single,Child Education Fund,Works night shifts
+Sunita,60,Retired,$100k+,2,Divorced,Child Education Fund,Lives in joint family
+Arjun,29,Self-Employed,$100k+,2,Married w/ Kids,Tax Saving,"Pet owner, active lifestyle"
+Sunita,64,Business Owner,$15k-$30k,2,Widowed,Tax Saving,"Health-conscious, gym member"
+Arjun,61,Salaried,$100k+,5,Married w/ Kids,Retirement Savings,"Frequent flyer, international travel"
+Sunita,61,Retired,$15k-$30k,2,Widowed,Child Education Fund,"Health-conscious, gym member"
+Amit,46,Self-Employed,$75k-$100k,1,Widowed,Tax Saving,"Pet owner, active lifestyle"
+Amit,36,Retired,$75k-$100k,4,Single,Retirement Savings,"Sedentary lifestyle, chronic illness"
+Sneha,25,Salaried,$75k-$100k,1,Single,Tax Saving,"Smoker, high stress job"
+Ankit,41,Business Owner,$30k-$50k,1,Divorced,Tax Saving,"Owns property, no liabilities"
+Riya,26,Retired,$50k-$75k,4,Married w/ Kids,Wealth Creation,"Smoker, high stress job"
+Amit,47,Salaried,$15k-$30k,2,Married w/ Spouse,Retirement Savings,"Health-conscious, gym member"
+Mrs. Iyer,47,Retired,$30k-$50k,4,Married w/ Spouse,Tax Saving,Works night shifts
+Amit,63,Self-Employed,$50k-$75k,1,Divorced,Wealth Creation,"Owns property, no liabilities"
+Priya,31,Retired,$50k-$75k,2,Married w/ Spouse,Tax Saving,Works night shifts
+Mr. Dutta,40,Salaried,$30k-$50k,4,Married w/ Spouse,Health Coverage,Works night shifts
+Arjun,52,Salaried,$100k+,4,Single,Child Education Fund,"Smoker, high stress job"
+Amit,24,Self-Employed,$50k-$75k,5,Married w/ Kids,Wealth Creation,"Pet owner, active lifestyle"
+Mrs. Iyer,36,Salaried,$75k-$100k,4,Divorced,Tax Saving,"Owns property, no liabilities"
+Riya,45,Salaried,$75k-$100k,5,Married w/ Spouse,Wealth Creation,Lives in joint family
+Ankit,33,Business Owner,$30k-$50k,1,Divorced,Child Education Fund,"Frequent flyer, international travel"
+Amit,46,Business Owner,$30k-$50k,2,Divorced,Child Education Fund,Prefers homeopathic treatment
+Rahul,63,Salaried,$30k-$50k,2,Married w/ Kids,Health Coverage,"Sedentary lifestyle, chronic illness"
+Riya,48,Salaried,$100k+,4,Widowed,Tax Saving,"Health-conscious, gym member"
+Sneha,29,Retired,$15k-$30k,4,Married w/ Spouse,Health Coverage,"Smoker, high stress job"
+Rahul,29,Business Owner,$50k-$75k,1,Single,Health Coverage,"Owns a car, travels frequently"
+Arjun,36,Retired,$30k-$50k,1,Divorced,Retirement Savings,Works night shifts
+Priya,54,Business Owner,$50k-$75k,4,Married w/ Kids,Tax Saving,Works night shifts
+Mr. Dutta,28,Salaried,$75k-$100k,3,Married w/ Spouse,Child Education Fund,"Sedentary lifestyle, chronic illness"
+Sunita,24,Retired,$100k+,5,Single,Health Coverage,"Pet owner, active lifestyle"
+Sneha,31,Retired,$100k+,2,Widowed,Child Education Fund,"Sedentary lifestyle, chronic illness"
+Riya,64,Business Owner,$100k+,2,Single,Health Coverage,Lives in joint family
+Sunita,56,Retired,$100k+,1,Widowed,Wealth Creation,Lives in joint family
+Ankit,49,Business Owner,$15k-$30k,5,Married w/ Kids,Tax Saving,"Owns a car, travels frequently"
+Arjun,40,Business Owner,$15k-$30k,2,Single,Tax Saving,"Health-conscious, gym member"
+Rahul,33,Retired,$15k-$30k,4,Married w/ Spouse,Child Education Fund,"Owns a car, travels frequently"
+Sunita,42,Self-Employed,$15k-$30k,4,Married w/ Spouse,Tax Saving,"Health-conscious, gym member"
+Riya,33,Self-Employed,$100k+,1,Married w/ Spouse,Wealth Creation,Prefers homeopathic treatment
+Sunita,50,Retired,$50k-$75k,2,Married w/ Spouse,Wealth Creation,"Smoker, high stress job"
+Mr. Dutta,52,Salaried,$15k-$30k,3,Widowed,Retirement Savings,"Frequent flyer, international travel"
+Riya,34,Business Owner,$100k+,2,Single,Tax Saving,"Smoker, high stress job"
+Riya,24,Retired,$15k-$30k,2,Married w/ Spouse,Retirement Savings,"Health-conscious, gym member"
+Ankit,31,Retired,$100k+,3,Married w/ Kids,Tax Saving,"Smoker, high stress job"
+Rahul,49,Self-Employed,$75k-$100k,3,Widowed,Retirement Savings,"Frequent flyer, international travel"
+Rahul,55,Retired,$100k+,3,Widowed,Wealth Creation,"Pet owner, active lifestyle"
+Mrs. Iyer,48,Self-Employed,$75k-$100k,1,Married w/ Spouse,Retirement Savings,"Frequent flyer, international travel"
+Sneha,28,Salaried,$50k-$75k,5,Single,Wealth Creation,Prefers homeopathic treatment
+Amit,25,Retired,$75k-$100k,3,Widowed,Child Education Fund,"Owns property, no liabilities"
+Ankit,33,Salaried,$30k-$50k,4,Married w/ Spouse,Health Coverage,"Pet owner, active lifestyle"
+Amit,30,Self-Employed,$50k-$75k,1,Married w/ Spouse,Retirement Savings,"Frequent flyer, international travel"
+Arjun,36,Business Owner,$75k-$100k,4,Single,Retirement Savings,"Owns a car, travels frequently"
+Arjun,62,Business Owner,$30k-$50k,1,Married w/ Kids,Wealth Creation,"Pet owner, active lifestyle"
+Arjun,61,Business Owner,$50k-$75k,2,Single,Tax Saving,"Sedentary lifestyle, chronic illness"
+Sneha,56,Business Owner,$100k+,4,Married w/ Kids,Health Coverage,"Health-conscious, gym member"
+Sunita,46,Business Owner,$30k-$50k,1,Widowed,Health Coverage,"Health-conscious, gym member"
+Mrs. Iyer,28,Salaried,$50k-$75k,4,Widowed,Tax Saving,Lives in joint family
+Sneha,35,Retired,$30k-$50k,1,Widowed,Tax Saving,Prefers homeopathic treatment
+Ankit,24,Self-Employed,$100k+,5,Married w/ Kids,Health Coverage,"Owns a car, travels frequently"
+Mr. Dutta,23,Salaried,$75k-$100k,5,Married w/ Kids,Wealth Creation,Lives in joint family
+Sneha,48,Business Owner,$75k-$100k,1,Married w/ Kids,Child Education Fund,"Pet owner, active lifestyle"
+Riya,52,Salaried,$100k+,3,Divorced,Child Education Fund,"Smoker, high stress job"
+Mrs. Iyer,49,Business Owner,$100k+,5,Divorced,Child Education Fund,Prefers homeopathic treatment
+Rahul,24,Salaried,$15k-$30k,3,Single,Wealth Creation,Works night shifts
+Mr. Dutta,62,Retired,$50k-$75k,5,Divorced,Health Coverage,"Owns a car, travels frequently"
+Priya,34,Retired,$15k-$30k,1,Married w/ Spouse,Tax Saving,Lives in joint family
+Sneha,58,Salaried,$100k+,3,Single,Child Education Fund,"Pet owner, active lifestyle"
+Rahul,50,Self-Employed,$15k-$30k,4,Divorced,Child Education Fund,"Smoker, high stress job"
+Mrs. Iyer,49,Retired,$100k+,1,Divorced,Child Education Fund,"Pet owner, active lifestyle"
+Sunita,32,Salaried,$50k-$75k,4,Married w/ Kids,Tax Saving,"Frequent flyer, international travel"
+Amit,48,Retired,$15k-$30k,1,Married w/ Spouse,Child Education Fund,"Health-conscious, gym member"
+Amit,52,Business Owner,$15k-$30k,3,Divorced,Tax Saving,"Frequent flyer, international travel"
+Riya,44,Self-Employed,$100k+,5,Divorced,Health Coverage,"Frequent flyer, international travel"
+Sneha,48,Retired,$30k-$50k,4,Widowed,Wealth Creation,"Owns a car, travels frequently"
+Priya,37,Salaried,$50k-$75k,2,Widowed,Retirement Savings,"Pet owner, active lifestyle"
+Arjun,52,Self-Employed,$50k-$75k,4,Married w/ Kids,Retirement Savings,"Sedentary lifestyle, chronic illness"
+Mr. Dutta,57,Retired,$50k-$75k,1,Married w/ Spouse,Child Education Fund,"Owns property, no liabilities"
+Rahul,25,Self-Employed,$100k+,1,Married w/ Spouse,Health Coverage,"Health-conscious, gym member"
+Ankit,39,Business Owner,$30k-$50k,2,Widowed,Child Education Fund,Lives in joint family
+Ankit,30,Business Owner,$75k-$100k,4,Single,Child Education Fund,"Sedentary lifestyle, chronic illness"
+Ankit,30,Self-Employed,$100k+,4,Widowed,Tax Saving,"Health-conscious, gym member"
+Mrs. Iyer,32,Business Owner,$30k-$50k,1,Married w/ Spouse,Child Education Fund,"Sedentary lifestyle, chronic illness"
+Ankit,64,Retired,$75k-$100k,5,Married w/ Spouse,Tax Saving,Prefers homeopathic treatment
+Sunita,50,Self-Employed,$50k-$75k,5,Married w/ Kids,Child Education Fund,"Frequent flyer, international travel"
+Riya,45,Business Owner,$100k+,4,Married w/ Kids,Wealth Creation,"Owns a car, travels frequently"
+Rahul,22,Business Owner,$30k-$50k,5,Married w/ Kids,Health Coverage,Prefers homeopathic treatment
+Amit,46,Self-Employed,$100k+,4,Married w/ Kids,Health Coverage,Prefers homeopathic treatment
+Riya,32,Self-Employed,$30k-$50k,1,Married w/ Spouse,Retirement Savings,Works night shifts
+Arjun,31,Business Owner,$100k+,3,Married w/ Spouse,Tax Saving,Prefers homeopathic treatment
+Amit,60,Business Owner,$30k-$50k,4,Married w/ Kids,Wealth Creation,"Health-conscious, gym member"
+Rahul,38,Self-Employed,$30k-$50k,2,Divorced,Wealth Creation,Works night shifts
+Mr. Dutta,50,Salaried,$75k-$100k,2,Widowed,Retirement Savings,"Health-conscious, gym member"
+Priya,58,Business Owner,$50k-$75k,2,Single,Child Education Fund,Lives in joint family
+Priya,63,Salaried,$30k-$50k,2,Married w/ Spouse,Health Coverage,"Health-conscious, gym member"
+Arjun,48,Self-Employed,$50k-$75k,5,Single,Tax Saving,"Pet owner, active lifestyle"
+Sneha,52,Salaried,$75k-$100k,5,Married w/ Spouse,Retirement Savings,"Pet owner, active lifestyle"
+Arjun,48,Retired,$30k-$50k,2,Widowed,Wealth Creation,"Pet owner, active lifestyle"
+Sneha,32,Business Owner,$75k-$100k,3,Single,Health Coverage,"Owns a car, travels frequently"
+Arjun,39,Retired,$50k-$75k,1,Single,Retirement Savings,Prefers homeopathic treatment
+Amit,52,Self-Employed,$75k-$100k,5,Single,Tax Saving,Lives in joint family
+Mrs. Iyer,52,Business Owner,$30k-$50k,4,Widowed,Retirement Savings,"Smoker, high stress job"
+Riya,52,Salaried,$30k-$50k,4,Married w/ Kids,Health Coverage,Prefers homeopathic treatment
+Sneha,57,Business Owner,$15k-$30k,5,Divorced,Tax Saving,Works night shifts
+Ankit,22,Business Owner,$75k-$100k,1,Divorced,Child Education Fund,Lives in joint family
+Rahul,54,Salaried,$75k-$100k,5,Married w/ Spouse,Health Coverage,"Owns property, no liabilities"
+Rahul,25,Salaried,$30k-$50k,5,Widowed,Wealth Creation,Works night shifts
+Sunita,55,Business Owner,$15k-$30k,4,Widowed,Wealth Creation,"Health-conscious, gym member"
+Riya,47,Salaried,$50k-$75k,1,Divorced,Tax Saving,"Frequent flyer, international travel"
+Priya,50,Retired,$15k-$30k,1,Divorced,Retirement Savings,"Health-conscious, gym member"
+Sneha,40,Retired,$75k-$100k,3,Married w/ Kids,Tax Saving,"Frequent flyer, international travel"
+Amit,49,Retired,$100k+,2,Married w/ Kids,Child Education Fund,"Owns property, no liabilities"
+Ankit,23,Salaried,$50k-$75k,2,Single,Tax Saving,"Pet owner, active lifestyle"
+Rahul,29,Salaried,$15k-$30k,5,Divorced,Retirement Savings,Prefers homeopathic treatment
+Sunita,33,Retired,$30k-$50k,1,Widowed,Child Education Fund,"Owns a car, travels frequently"
+Sneha,40,Self-Employed,$50k-$75k,5,Divorced,Child Education Fund,Works night shifts
+Sunita,43,Self-Employed,$15k-$30k,3,Married w/ Spouse,Retirement Savings,"Owns a car, travels frequently"
+Mr. Dutta,57,Retired,$50k-$75k,1,Divorced,Health Coverage,Prefers homeopathic treatment
+Arjun,49,Retired,$30k-$50k,4,Married w/ Spouse,Retirement Savings,"Sedentary lifestyle, chronic illness"
+Mr. Dutta,51,Business Owner,$100k+,2,Single,Wealth Creation,"Frequent flyer, international travel"
+Sneha,39,Self-Employed,$15k-$30k,4,Divorced,Retirement Savings,"Owns property, no liabilities"
+Mr. Dutta,46,Business Owner,$30k-$50k,4,Single,Tax Saving,"Frequent flyer, international travel"
+Rahul,35,Business Owner,$30k-$50k,3,Married w/ Kids,Retirement Savings,"Sedentary lifestyle, chronic illness"
+Arjun,63,Self-Employed,$100k+,5,Married w/ Spouse,Retirement Savings,Prefers homeopathic treatment
+Priya,26,Business Owner,$50k-$75k,2,Single,Retirement Savings,Lives in joint family
+Sunita,34,Salaried,$75k-$100k,5,Married w/ Spouse,Child Education Fund,"Pet owner, active lifestyle"
+Sunita,50,Business Owner,$30k-$50k,2,Married w/ Kids,Retirement Savings,Lives in joint family
+Priya,38,Business Owner,$30k-$50k,5,Widowed,Child Education Fund,"Frequent flyer, international travel"
+Arjun,52,Retired,$30k-$50k,2,Single,Wealth Creation,Lives in joint family
+Mrs. Iyer,39,Salaried,$30k-$50k,2,Married w/ Kids,Child Education Fund,Prefers homeopathic treatment
+Ankit,35,Retired,$100k+,2,Divorced,Child Education Fund,Prefers homeopathic treatment
+Sunita,35,Self-Employed,$50k-$75k,2,Divorced,Wealth Creation,"Owns property, no liabilities"
+Sunita,54,Business Owner,$15k-$30k,2,Divorced,Tax Saving,"Frequent flyer, international travel"
+Arjun,53,Salaried,$50k-$75k,5,Married w/ Spouse,Tax Saving,"Frequent flyer, international travel"
+Mr. Dutta,64,Salaried,$15k-$30k,3,Married w/ Kids,Tax Saving,"Sedentary lifestyle, chronic illness"
+Arjun,28,Retired,$50k-$75k,5,Divorced,Wealth Creation,"Owns a car, travels frequently"
+Sunita,48,Business Owner,$50k-$75k,3,Married w/ Kids,Retirement Savings,"Owns property, no liabilities"
+Arjun,29,Self-Employed,$75k-$100k,3,Widowed,Tax Saving,"Owns property, no liabilities"
+Priya,23,Self-Employed,$50k-$75k,2,Widowed,Wealth Creation,"Owns property, no liabilities"
+Riya,48,Self-Employed,$75k-$100k,1,Widowed,Retirement Savings,"Owns a car, travels frequently"
+Mrs. Iyer,53,Self-Employed,$100k+,5,Married w/ Kids,Health Coverage,"Smoker, high stress job"
+Arjun,44,Retired,$75k-$100k,5,Widowed,Retirement Savings,Lives in joint family
+Sunita,49,Self-Employed,$15k-$30k,2,Widowed,Wealth Creation,Works night shifts
+Mr. Dutta,27,Business Owner,$30k-$50k,3,Divorced,Health Coverage,"Frequent flyer, international travel"
+Ankit,35,Retired,$30k-$50k,3,Married w/ Kids,Retirement Savings,Prefers homeopathic treatment
+Arjun,56,Self-Employed,$100k+,4,Widowed,Health Coverage,Lives in joint family
+Sneha,44,Salaried,$30k-$50k,1,Married w/ Kids,Tax Saving,"Pet owner, active lifestyle"
+Mrs. Iyer,62,Retired,$15k-$30k,3,Married w/ Spouse,Health Coverage,"Frequent flyer, international travel"
+Riya,60,Self-Employed,$50k-$75k,1,Widowed,Health Coverage,Prefers homeopathic treatment
+Rahul,39,Salaried,$75k-$100k,1,Single,Tax Saving,"Smoker, high stress job"
+Amit,33,Retired,$30k-$50k,1,Divorced,Wealth Creation,"Health-conscious, gym member"
+Amit,58,Retired,$30k-$50k,1,Married w/ Spouse,Tax Saving,"Frequent flyer, international travel"
+Priya,26,Salaried,$100k+,1,Married w/ Kids,Health Coverage,"Sedentary lifestyle, chronic illness"
+Amit,49,Self-Employed,$50k-$75k,5,Divorced,Retirement Savings,"Owns property, no liabilities"
+Mrs. Iyer,53,Retired,$50k-$75k,4,Widowed,Child Education Fund,"Pet owner, active lifestyle"
+Ankit,55,Salaried,$15k-$30k,1,Married w/ Spouse,Health Coverage,"Health-conscious, gym member"
+Sunita,44,Salaried,$50k-$75k,3,Single,Child Education Fund,"Health-conscious, gym member"
+Sunita,60,Business Owner,$50k-$75k,5,Married w/ Kids,Wealth Creation,"Owns property, no liabilities"
+Sneha,64,Self-Employed,$50k-$75k,3,Single,Retirement Savings,"Pet owner, active lifestyle"
+Sneha,51,Self-Employed,$100k+,2,Single,Health Coverage,"Owns property, no liabilities"
+Sunita,38,Business Owner,$75k-$100k,4,Single,Health Coverage,Works night shifts
+Riya,46,Salaried,$50k-$75k,5,Married w/ Spouse,Health Coverage,"Pet owner, active lifestyle"
+Mrs. Iyer,33,Self-Employed,$30k-$50k,5,Married w/ Kids,Retirement Savings,"Health-conscious, gym member"
+Amit,39,Salaried,$50k-$75k,3,Married w/ Spouse,Health Coverage,"Owns property, no liabilities"
+Riya,48,Self-Employed,$100k+,5,Married w/ Spouse,Child Education Fund,Prefers homeopathic treatment
+Amit,37,Self-Employed,$100k+,4,Widowed,Retirement Savings,"Pet owner, active lifestyle"
+Priya,26,Business Owner,$75k-$100k,3,Married w/ Kids,Wealth Creation,"Health-conscious, gym member"
+Mrs. Iyer,30,Self-Employed,$100k+,4,Divorced,Retirement Savings,Works night shifts
+Priya,38,Self-Employed,$100k+,1,Divorced,Retirement Savings,"Owns a car, travels frequently"
+Ankit,42,Salaried,$75k-$100k,4,Married w/ Spouse,Tax Saving,Prefers homeopathic treatment
+Sneha,62,Business Owner,$50k-$75k,1,Married w/ Kids,Child Education Fund,"Owns a car, travels frequently"
+Amit,46,Self-Employed,$75k-$100k,1,Married w/ Kids,Tax Saving,Prefers homeopathic treatment
+Riya,41,Retired,$30k-$50k,1,Widowed,Health Coverage,Lives in joint family
+Arjun,31,Salaried,$50k-$75k,2,Married w/ Kids,Health Coverage,"Health-conscious, gym member"
+Rahul,34,Self-Employed,$50k-$75k,4,Single,Child Education Fund,"Sedentary lifestyle, chronic illness"
+Mrs. Iyer,60,Salaried,$50k-$75k,3,Single,Child Education Fund,"Owns a car, travels frequently"
+Riya,39,Retired,$75k-$100k,4,Married w/ Kids,Health Coverage,Works night shifts
+Riya,45,Self-Employed,$100k+,1,Widowed,Health Coverage,Prefers homeopathic treatment
+Sneha,53,Salaried,$30k-$50k,5,Married w/ Spouse,Wealth Creation,"Sedentary lifestyle, chronic illness"
+Amit,62,Salaried,$30k-$50k,5,Widowed,Child Education Fund,"Owns property, no liabilities"
+Rahul,45,Retired,$50k-$75k,2,Married w/ Kids,Health Coverage,"Health-conscious, gym member"
+Sunita,25,Salaried,$15k-$30k,1,Married w/ Kids,Wealth Creation,"Pet owner, active lifestyle"
+Sneha,23,Retired,$75k-$100k,5,Single,Child Education Fund,"Owns property, no liabilities"
+Riya,36,Self-Employed,$50k-$75k,3,Divorced,Retirement Savings,"Health-conscious, gym member"
+Rahul,29,Self-Employed,$15k-$30k,5,Married w/ Spouse,Tax Saving,Prefers homeopathic treatment
+Priya,41,Salaried,$30k-$50k,5,Married w/ Spouse,Retirement Savings,Lives in joint family
+Rahul,32,Salaried,$100k+,2,Married w/ Spouse,Health Coverage,Lives in joint family
+Priya,32,Salaried,$100k+,2,Married w/ Spouse,Child Education Fund,"Smoker, high stress job"
+Mr. Dutta,30,Self-Employed,$50k-$75k,3,Single,Tax Saving,"Pet owner, active lifestyle"
+Amit,57,Self-Employed,$15k-$30k,4,Widowed,Wealth Creation,"Owns a car, travels frequently"
+Sunita,51,Salaried,$15k-$30k,3,Single,Child Education Fund,"Smoker, high stress job"
+Sneha,37,Retired,$15k-$30k,5,Married w/ Spouse,Health Coverage,"Owns a car, travels frequently"
+Priya,30,Salaried,$30k-$50k,3,Divorced,Retirement Savings,"Smoker, high stress job"
+Arjun,52,Business Owner,$75k-$100k,5,Single,Retirement Savings,"Owns a car, travels frequently"
+Sunita,32,Business Owner,$15k-$30k,1,Divorced,Tax Saving,Lives in joint family
+Priya,26,Self-Employed,$30k-$50k,5,Divorced,Tax Saving,Works night shifts
+Priya,57,Self-Employed,$100k+,3,Single,Health Coverage,"Smoker, high stress job"
+Amit,59,Self-Employed,$30k-$50k,1,Divorced,Health Coverage,"Frequent flyer, international travel"
+Ankit,60,Self-Employed,$30k-$50k,1,Married w/ Spouse,Wealth Creation,"Health-conscious, gym member"
+Mr. Dutta,24,Retired,$75k-$100k,5,Widowed,Tax Saving,"Pet owner, active lifestyle"
+Mrs. Iyer,61,Self-Employed,$100k+,1,Divorced,Tax Saving,"Owns a car, travels frequently"
+Ankit,22,Self-Employed,$30k-$50k,2,Divorced,Tax Saving,Works night shifts
+Mr. Dutta,59,Retired,$75k-$100k,4,Widowed,Child Education Fund,"Health-conscious, gym member"
+Sneha,54,Self-Employed,$30k-$50k,5,Widowed,Child Education Fund,"Owns a car, travels frequently"
+Riya,30,Self-Employed,$50k-$75k,1,Divorced,Child Education Fund,"Sedentary lifestyle, chronic illness"
+Sunita,37,Retired,$100k+,2,Married w/ Kids,Health Coverage,"Smoker, high stress job"
+Sunita,46,Retired,$100k+,3,Single,Health Coverage,"Pet owner, active lifestyle"
+Ankit,44,Retired,$30k-$50k,2,Divorced,Retirement Savings,"Sedentary lifestyle, chronic illness"
+Priya,45,Self-Employed,$15k-$30k,1,Married w/ Spouse,Child Education Fund,Prefers homeopathic treatment
+Sunita,45,Salaried,$100k+,1,Married w/ Kids,Retirement Savings,Lives in joint family
+Sneha,32,Retired,$30k-$50k,2,Married w/ Spouse,Health Coverage,"Smoker, high stress job"
+Ankit,25,Business Owner,$100k+,5,Single,Health Coverage,"Smoker, high stress job"
+Riya,43,Self-Employed,$75k-$100k,2,Married w/ Spouse,Tax Saving,"Owns a car, travels frequently"
+Sunita,41,Salaried,$75k-$100k,2,Divorced,Child Education Fund,"Smoker, high stress job"
+Sneha,31,Salaried,$15k-$30k,3,Divorced,Wealth Creation,"Frequent flyer, international travel"
+Priya,56,Retired,$75k-$100k,2,Married w/ Kids,Wealth Creation,"Pet owner, active lifestyle"
+Sunita,38,Salaried,$15k-$30k,5,Single,Health Coverage,Lives in joint family
+Riya,33,Retired,$100k+,1,Divorced,Health Coverage,Prefers homeopathic treatment
+Arjun,34,Salaried,$75k-$100k,5,Divorced,Tax Saving,Lives in joint family
+Amit,39,Retired,$30k-$50k,4,Single,Tax Saving,"Health-conscious, gym member"
+Sunita,44,Self-Employed,$50k-$75k,2,Widowed,Tax Saving,Works night shifts
+Mrs. Iyer,40,Retired,$75k-$100k,4,Single,Wealth Creation,Lives in joint family
+Rahul,62,Salaried,$75k-$100k,2,Married w/ Kids,Child Education Fund,"Smoker, high stress job"
+Amit,50,Self-Employed,$30k-$50k,4,Divorced,Tax Saving,Works night shifts
+Rahul,24,Business Owner,$50k-$75k,3,Divorced,Tax Saving,"Smoker, high stress job"
+Amit,38,Salaried,$15k-$30k,3,Divorced,Wealth Creation,Prefers homeopathic treatment
+Sunita,28,Salaried,$50k-$75k,1,Married w/ Kids,Wealth Creation,"Health-conscious, gym member"
+Ankit,33,Salaried,$30k-$50k,3,Divorced,Retirement Savings,"Health-conscious, gym member"
+Arjun,52,Retired,$100k+,2,Divorced,Child Education Fund,"Frequent flyer, international travel"
+Mrs. Iyer,58,Business Owner,$75k-$100k,4,Married w/ Kids,Wealth Creation,Prefers homeopathic treatment
+Rahul,28,Self-Employed,$100k+,4,Married w/ Spouse,Wealth Creation,"Health-conscious, gym member"
+Rahul,34,Salaried,$15k-$30k,5,Single,Health Coverage,"Owns property, no liabilities"
+Priya,64,Salaried,$15k-$30k,2,Married w/ Kids,Wealth Creation,"Sedentary lifestyle, chronic illness"
+Ankit,35,Salaried,$75k-$100k,5,Married w/ Kids,Retirement Savings,"Owns property, no liabilities"
+Mrs. Iyer,26,Retired,$100k+,3,Divorced,Retirement Savings,"Owns a car, travels frequently"
+Amit,62,Salaried,$50k-$75k,5,Single,Retirement Savings,Lives in joint family
+Priya,45,Self-Employed,$15k-$30k,2,Married w/ Kids,Child Education Fund,"Owns property, no liabilities"
+Sunita,56,Salaried,$75k-$100k,4,Divorced,Wealth Creation,Prefers homeopathic treatment
+Sneha,54,Salaried,$30k-$50k,4,Married w/ Kids,Retirement Savings,"Owns property, no liabilities"
+Amit,28,Retired,$15k-$30k,1,Married w/ Kids,Retirement Savings,"Frequent flyer, international travel"
+Mr. Dutta,34,Retired,$100k+,5,Married w/ Spouse,Tax Saving,Lives in joint family
+Sunita,31,Business Owner,$50k-$75k,5,Single,Child Education Fund,"Sedentary lifestyle, chronic illness"
+Riya,62,Retired,$15k-$30k,5,Married w/ Kids,Retirement Savings,Prefers homeopathic treatment
+Ankit,27,Business Owner,$75k-$100k,2,Widowed,Retirement Savings,Prefers homeopathic treatment
+Priya,61,Salaried,$30k-$50k,3,Single,Tax Saving,"Pet owner, active lifestyle"
+Ankit,43,Business Owner,$30k-$50k,4,Single,Health Coverage,"Pet owner, active lifestyle"
+Sneha,27,Business Owner,$75k-$100k,3,Married w/ Spouse,Retirement Savings,"Owns a car, travels frequently"
+Sneha,63,Salaried,$100k+,1,Divorced,Health Coverage,"Owns property, no liabilities"
+Ankit,28,Salaried,$30k-$50k,5,Married w/ Spouse,Health Coverage,"Owns a car, travels frequently"
+Arjun,22,Business Owner,$15k-$30k,3,Married w/ Kids,Tax Saving,Prefers homeopathic treatment
+Mrs. Iyer,36,Salaried,$75k-$100k,5,Divorced,Wealth Creation,"Sedentary lifestyle, chronic illness"
+Priya,61,Retired,$100k+,2,Married w/ Kids,Health Coverage,Works night shifts
+Riya,41,Self-Employed,$100k+,5,Married w/ Kids,Retirement Savings,Works night shifts
+Sunita,60,Retired,$30k-$50k,1,Married w/ Spouse,Health Coverage,"Owns property, no liabilities"
+Sneha,58,Self-Employed,$15k-$30k,3,Divorced,Wealth Creation,Lives in joint family
+Sneha,61,Self-Employed,$30k-$50k,2,Married w/ Spouse,Retirement Savings,"Owns property, no liabilities"
+Sneha,50,Retired,$15k-$30k,3,Married w/ Spouse,Health Coverage,Works night shifts
+Rahul,35,Salaried,$15k-$30k,3,Married w/ Spouse,Health Coverage,"Owns property, no liabilities"
+Arjun,38,Retired,$30k-$50k,2,Widowed,Retirement Savings,"Health-conscious, gym member"
+Amit,37,Self-Employed,$30k-$50k,5,Divorced,Child Education Fund,Lives in joint family
+Amit,25,Business Owner,$30k-$50k,1,Widowed,Child Education Fund,"Sedentary lifestyle, chronic illness"
+Ankit,29,Business Owner,$30k-$50k,4,Widowed,Tax Saving,"Owns a car, travels frequently"
+Mrs. Iyer,62,Self-Employed,$15k-$30k,4,Widowed,Child Education Fund,Lives in joint family
+Priya,47,Business Owner,$15k-$30k,2,Single,Retirement Savings,"Owns a car, travels frequently"
+Riya,42,Retired,$30k-$50k,5,Married w/ Kids,Tax Saving,"Sedentary lifestyle, chronic illness"
+Mrs. Iyer,55,Retired,$75k-$100k,2,Married w/ Kids,Tax Saving,"Health-conscious, gym member"
+Amit,39,Self-Employed,$50k-$75k,4,Married w/ Kids,Health Coverage,"Owns property, no liabilities"
+Mr. Dutta,62,Retired,$50k-$75k,3,Widowed,Retirement Savings,"Frequent flyer, international travel"
+Riya,24,Self-Employed,$30k-$50k,3,Married w/ Kids,Health Coverage,"Owns property, no liabilities"
+Rahul,26,Salaried,$15k-$30k,1,Married w/ Kids,Health Coverage,Works night shifts
+Ankit,56,Salaried,$30k-$50k,5,Married w/ Spouse,Retirement Savings,Works night shifts
+Mr. Dutta,60,Business Owner,$15k-$30k,4,Widowed,Tax Saving,Prefers homeopathic treatment
+Rahul,64,Retired,$75k-$100k,5,Divorced,Retirement Savings,"Owns property, no liabilities"
+Amit,59,Retired,$30k-$50k,3,Single,Retirement Savings,"Smoker, high stress job"
+Amit,27,Retired,$100k+,3,Single,Tax Saving,"Sedentary lifestyle, chronic illness"
+Mrs. Iyer,28,Business Owner,$100k+,3,Widowed,Tax Saving,"Health-conscious, gym member"
+Rahul,38,Self-Employed,$75k-$100k,1,Married w/ Kids,Retirement Savings,Lives in joint family
+Mrs. Iyer,53,Salaried,$75k-$100k,3,Married w/ Kids,Child Education Fund,Lives in joint family
+Arjun,57,Business Owner,$100k+,2,Divorced,Wealth Creation,"Smoker, high stress job"
+Sunita,36,Salaried,$15k-$30k,4,Divorced,Tax Saving,"Owns a car, travels frequently"
+Sneha,36,Self-Employed,$15k-$30k,5,Married w/ Kids,Tax Saving,"Smoker, high stress job"
+Arjun,54,Retired,$75k-$100k,5,Divorced,Wealth Creation,"Pet owner, active lifestyle"
+Sneha,54,Self-Employed,$100k+,3,Married w/ Spouse,Wealth Creation,"Owns property, no liabilities"
+Sunita,34,Retired,$75k-$100k,1,Married w/ Kids,Health Coverage,"Owns a car, travels frequently"
+Ankit,39,Retired,$100k+,2,Married w/ Spouse,Tax Saving,"Sedentary lifestyle, chronic illness"
+Sunita,39,Self-Employed,$50k-$75k,1,Widowed,Health Coverage,"Health-conscious, gym member"
+Sneha,34,Retired,$30k-$50k,4,Divorced,Health Coverage,Lives in joint family
+Priya,25,Retired,$30k-$50k,1,Divorced,Retirement Savings,"Smoker, high stress job"
+Mr. Dutta,38,Salaried,$100k+,3,Divorced,Child Education Fund,"Owns a car, travels frequently"
+Sunita,25,Self-Employed,$75k-$100k,3,Divorced,Child Education Fund,"Sedentary lifestyle, chronic illness"
+Mrs. Iyer,48,Self-Employed,$15k-$30k,5,Married w/ Spouse,Child Education Fund,Prefers homeopathic treatment
+Rahul,23,Salaried,$50k-$75k,1,Married w/ Kids,Tax Saving,"Pet owner, active lifestyle"
+Arjun,47,Retired,$100k+,1,Married w/ Spouse,Retirement Savings,"Frequent flyer, international travel"
+Amit,33,Retired,$100k+,1,Divorced,Wealth Creation,Works night shifts
+Riya,54,Salaried,$15k-$30k,4,Married w/ Spouse,Health Coverage,"Owns property, no liabilities"
+Mr. Dutta,39,Retired,$50k-$75k,1,Widowed,Child Education Fund,Prefers homeopathic treatment
+Riya,58,Business Owner,$30k-$50k,4,Widowed,Retirement Savings,"Owns a car, travels frequently"
+Sneha,45,Business Owner,$75k-$100k,4,Married w/ Spouse,Retirement Savings,Lives in joint family
+Riya,57,Business Owner,$50k-$75k,4,Single,Child Education Fund,"Pet owner, active lifestyle"
+Amit,31,Self-Employed,$100k+,3,Divorced,Tax Saving,"Owns a car, travels frequently"
+Sneha,34,Retired,$75k-$100k,2,Divorced,Health Coverage,"Owns a car, travels frequently"
+Mrs. Iyer,38,Self-Employed,$50k-$75k,2,Divorced,Child Education Fund,Works night shifts
+Ankit,46,Retired,$50k-$75k,5,Married w/ Kids,Health Coverage,"Pet owner, active lifestyle"
+Ankit,39,Self-Employed,$15k-$30k,5,Widowed,Child Education Fund,"Owns a car, travels frequently"
+Sunita,51,Salaried,$15k-$30k,2,Married w/ Kids,Retirement Savings,"Smoker, high stress job"
+Mr. Dutta,26,Retired,$30k-$50k,1,Married w/ Spouse,Tax Saving,"Owns property, no liabilities"
+Ankit,58,Retired,$75k-$100k,4,Single,Wealth Creation,"Sedentary lifestyle, chronic illness"
+Mr. Dutta,39,Business Owner,$50k-$75k,2,Widowed,Retirement Savings,"Frequent flyer, international travel"
+Mrs. Iyer,54,Business Owner,$75k-$100k,4,Widowed,Tax Saving,"Frequent flyer, international travel"
+Priya,57,Retired,$75k-$100k,5,Widowed,Retirement Savings,"Owns property, no liabilities"
+Arjun,57,Business Owner,$30k-$50k,3,Divorced,Tax Saving,"Sedentary lifestyle, chronic illness"
+Ankit,54,Business Owner,$50k-$75k,1,Married w/ Kids,Tax Saving,"Sedentary lifestyle, chronic illness"
+Priya,25,Business Owner,$30k-$50k,2,Divorced,Retirement Savings,"Frequent flyer, international travel"
+Ankit,41,Self-Employed,$30k-$50k,1,Widowed,Health Coverage,Lives in joint family
+Mr. Dutta,60,Business Owner,$15k-$30k,5,Divorced,Health Coverage,"Smoker, high stress job"
+Riya,29,Self-Employed,$100k+,3,Widowed,Retirement Savings,Prefers homeopathic treatment
+Mr. Dutta,32,Retired,$15k-$30k,2,Married w/ Kids,Child Education Fund,"Frequent flyer, international travel"
+Mrs. Iyer,51,Salaried,$30k-$50k,5,Single,Child Education Fund,"Pet owner, active lifestyle"
+Mr. Dutta,43,Salaried,$100k+,2,Single,Child Education Fund,"Owns property, no liabilities"
+Arjun,49,Salaried,$15k-$30k,4,Married w/ Kids,Tax Saving,"Pet owner, active lifestyle"
+Riya,26,Business Owner,$75k-$100k,5,Married w/ Spouse,Wealth Creation,Lives in joint family
+Mr. Dutta,47,Retired,$75k-$100k,5,Married w/ Spouse,Health Coverage,"Frequent flyer, international travel"
+Ankit,34,Self-Employed,$15k-$30k,2,Widowed,Retirement Savings,Works night shifts
+Sunita,23,Retired,$75k-$100k,4,Single,Tax Saving,Prefers homeopathic treatment
+Mr. Dutta,56,Salaried,$50k-$75k,3,Divorced,Wealth Creation,"Owns a car, travels frequently"
+Riya,26,Retired,$30k-$50k,3,Widowed,Health Coverage,"Pet owner, active lifestyle"
+Mrs. Iyer,44,Self-Employed,$15k-$30k,4,Married w/ Spouse,Health Coverage,"Smoker, high stress job"
+Sunita,49,Retired,$30k-$50k,1,Married w/ Kids,Wealth Creation,"Health-conscious, gym member"
+Arjun,64,Salaried,$100k+,3,Married w/ Spouse,Retirement Savings,"Smoker, high stress job"
+Mrs. Iyer,54,Self-Employed,$30k-$50k,2,Divorced,Wealth Creation,"Health-conscious, gym member"
+Amit,30,Salaried,$75k-$100k,4,Widowed,Retirement Savings,"Health-conscious, gym member"
+Mr. Dutta,33,Business Owner,$15k-$30k,1,Married w/ Kids,Wealth Creation,"Owns property, no liabilities"
+Rahul,55,Retired,$100k+,4,Divorced,Wealth Creation,"Owns a car, travels frequently"
+Mr. Dutta,49,Retired,$15k-$30k,1,Single,Wealth Creation,"Health-conscious, gym member"
+Ankit,23,Self-Employed,$75k-$100k,2,Married w/ Kids,Tax Saving,"Owns a car, travels frequently"
+Riya,45,Business Owner,$50k-$75k,1,Divorced,Retirement Savings,Prefers homeopathic treatment
+Rahul,37,Self-Employed,$100k+,4,Single,Retirement Savings,Works night shifts
+Arjun,46,Self-Employed,$100k+,5,Divorced,Retirement Savings,"Pet owner, active lifestyle"
+Rahul,50,Business Owner,$50k-$75k,2,Single,Wealth Creation,Works night shifts
+Sunita,34,Self-Employed,$100k+,2,Married w/ Spouse,Child Education Fund,"Owns property, no liabilities"
+Rahul,31,Self-Employed,$30k-$50k,2,Married w/ Kids,Child Education Fund,"Frequent flyer, international travel"
+Sunita,49,Self-Employed,$15k-$30k,3,Single,Health Coverage,"Owns a car, travels frequently"
+Rahul,49,Salaried,$50k-$75k,2,Married w/ Spouse,Wealth Creation,"Owns property, no liabilities"
+Mr. Dutta,45,Business Owner,$50k-$75k,3,Divorced,Health Coverage,"Owns property, no liabilities"
+Amit,23,Retired,$15k-$30k,3,Married w/ Spouse,Health Coverage,"Owns a car, travels frequently"
+Priya,31,Self-Employed,$100k+,2,Widowed,Health Coverage,Works night shifts
+Mr. Dutta,60,Salaried,$75k-$100k,4,Married w/ Spouse,Wealth Creation,Works night shifts
+Mrs. Iyer,50,Business Owner,$75k-$100k,4,Divorced,Child Education Fund,Prefers homeopathic treatment
+Priya,32,Business Owner,$15k-$30k,3,Married w/ Spouse,Health Coverage,"Frequent flyer, international travel"
+Priya,36,Salaried,$50k-$75k,2,Single,Health Coverage,"Smoker, high stress job"
+Mrs. Iyer,48,Self-Employed,$75k-$100k,1,Married w/ Spouse,Health Coverage,"Pet owner, active lifestyle"
+Priya,53,Business Owner,$15k-$30k,2,Divorced,Retirement Savings,Lives in joint family
+Priya,34,Self-Employed,$100k+,5,Single,Wealth Creation,"Owns a car, travels frequently"
+Sunita,28,Retired,$15k-$30k,3,Widowed,Tax Saving,"Frequent flyer, international travel"
+Amit,58,Retired,$75k-$100k,3,Widowed,Health Coverage,"Owns a car, travels frequently"
+Rahul,58,Salaried,$50k-$75k,5,Married w/ Spouse,Tax Saving,Lives in joint family
+Ankit,26,Self-Employed,$100k+,2,Married w/ Spouse,Health Coverage,Lives in joint family
+Arjun,61,Retired,$100k+,1,Single,Health Coverage,"Frequent flyer, international travel"
+Rahul,48,Retired,$75k-$100k,5,Married w/ Spouse,Wealth Creation,"Health-conscious, gym member"
+Sneha,59,Retired,$75k-$100k,2,Single,Tax Saving,"Pet owner, active lifestyle"
+Ankit,64,Retired,$100k+,4,Married w/ Kids,Child Education Fund,"Owns property, no liabilities"
+Sunita,26,Retired,$75k-$100k,1,Married w/ Spouse,Retirement Savings,"Sedentary lifestyle, chronic illness"
+Arjun,48,Salaried,$50k-$75k,3,Single,Health Coverage,"Frequent flyer, international travel"
+Rahul,63,Retired,$15k-$30k,4,Married w/ Kids,Child Education Fund,"Health-conscious, gym member"
+Priya,63,Salaried,$50k-$75k,2,Divorced,Child Education Fund,"Frequent flyer, international travel"
+Mr. Dutta,62,Business Owner,$15k-$30k,4,Widowed,Wealth Creation,"Health-conscious, gym member"
+Priya,56,Self-Employed,$30k-$50k,1,Married w/ Kids,Tax Saving,"Owns property, no liabilities"
+Sneha,30,Business Owner,$75k-$100k,3,Married w/ Spouse,Wealth Creation,"Owns a car, travels frequently"
+Amit,59,Business Owner,$75k-$100k,3,Married w/ Kids,Wealth Creation,"Owns property, no liabilities"
+Ankit,47,Business Owner,$30k-$50k,1,Divorced,Health Coverage,Works night shifts
+Sneha,39,Business Owner,$75k-$100k,3,Divorced,Health Coverage,"Sedentary lifestyle, chronic illness"
+Riya,60,Retired,$100k+,2,Married w/ Kids,Child Education Fund,Lives in joint family
+Amit,64,Self-Employed,$15k-$30k,3,Widowed,Wealth Creation,"Sedentary lifestyle, chronic illness"
+Rahul,50,Business Owner,$30k-$50k,2,Married w/ Spouse,Child Education Fund,"Health-conscious, gym member"
+Sunita,64,Retired,$15k-$30k,3,Single,Tax Saving,Lives in joint family
+Riya,51,Business Owner,$15k-$30k,4,Married w/ Spouse,Wealth Creation,Lives in joint family
+Sneha,47,Salaried,$30k-$50k,3,Widowed,Health Coverage,"Owns a car, travels frequently"
+Priya,32,Salaried,$50k-$75k,5,Widowed,Child Education Fund,"Pet owner, active lifestyle"
+Rahul,24,Self-Employed,$75k-$100k,4,Married w/ Kids,Retirement Savings,"Owns a car, travels frequently"
+Rahul,36,Retired,$30k-$50k,2,Divorced,Tax Saving,Works night shifts
+Sunita,54,Self-Employed,$50k-$75k,4,Widowed,Retirement Savings,Lives in joint family
+Rahul,31,Salaried,$75k-$100k,1,Divorced,Wealth Creation,Lives in joint family
+Rahul,60,Self-Employed,$100k+,5,Married w/ Spouse,Retirement Savings,"Owns a car, travels frequently"
+Amit,28,Business Owner,$30k-$50k,5,Widowed,Child Education Fund,"Health-conscious, gym member"
+Priya,54,Salaried,$30k-$50k,4,Divorced,Tax Saving,"Frequent flyer, international travel"
+Arjun,52,Salaried,$50k-$75k,1,Widowed,Health Coverage,"Owns a car, travels frequently"
+Mrs. Iyer,30,Self-Employed,$15k-$30k,2,Single,Wealth Creation,Lives in joint family
+Rahul,39,Self-Employed,$50k-$75k,4,Divorced,Tax Saving,"Sedentary lifestyle, chronic illness"
+Sunita,22,Retired,$50k-$75k,5,Divorced,Wealth Creation,"Sedentary lifestyle, chronic illness"
+Ankit,60,Self-Employed,$50k-$75k,1,Widowed,Child Education Fund,"Owns a car, travels frequently"
+Sneha,34,Business Owner,$100k+,5,Single,Health Coverage,"Owns a car, travels frequently"
+Sneha,53,Salaried,$30k-$50k,5,Married w/ Spouse,Tax Saving,Works night shifts
+Mrs. Iyer,58,Self-Employed,$30k-$50k,1,Single,Wealth Creation,Works night shifts
+Priya,36,Self-Employed,$50k-$75k,3,Married w/ Spouse,Health Coverage,"Smoker, high stress job"
+Riya,57,Retired,$75k-$100k,1,Married w/ Spouse,Tax Saving,Works night shifts
+Ankit,28,Business Owner,$50k-$75k,2,Single,Tax Saving,"Sedentary lifestyle, chronic illness"
+Mrs. Iyer,24,Business Owner,$100k+,2,Divorced,Child Education Fund,"Health-conscious, gym member"
+Ankit,49,Business Owner,$15k-$30k,5,Married w/ Spouse,Child Education Fund,"Pet owner, active lifestyle"
+Riya,42,Business Owner,$15k-$30k,5,Widowed,Retirement Savings,"Health-conscious, gym member"
+Mr. Dutta,50,Self-Employed,$30k-$50k,3,Single,Retirement Savings,Works night shifts
+Riya,37,Business Owner,$100k+,2,Married w/ Kids,Child Education Fund,Prefers homeopathic treatment
+Priya,43,Self-Employed,$75k-$100k,1,Divorced,Child Education Fund,Works night shifts
+Sunita,38,Self-Employed,$100k+,3,Single,Wealth Creation,"Smoker, high stress job"
+Mr. Dutta,52,Salaried,$100k+,2,Single,Tax Saving,"Owns a car, travels frequently"
+Riya,59,Self-Employed,$30k-$50k,4,Widowed,Wealth Creation,Lives in joint family
+Priya,37,Retired,$50k-$75k,2,Married w/ Kids,Child Education Fund,"Owns property, no liabilities"
+Rahul,30,Salaried,$30k-$50k,4,Married w/ Spouse,Tax Saving,"Owns a car, travels frequently"
+Sneha,60,Retired,$15k-$30k,4,Married w/ Kids,Tax Saving,"Pet owner, active lifestyle"
+Sunita,27,Salaried,$50k-$75k,1,Widowed,Wealth Creation,"Frequent flyer, international travel"
+Amit,63,Business Owner,$15k-$30k,3,Married w/ Spouse,Retirement Savings,"Sedentary lifestyle, chronic illness"
+Amit,23,Retired,$50k-$75k,5,Married w/ Kids,Tax Saving,"Pet owner, active lifestyle"
+Ankit,32,Salaried,$75k-$100k,5,Married w/ Spouse,Retirement Savings,"Owns a car, travels frequently"
+Arjun,30,Salaried,$15k-$30k,1,Married w/ Kids,Child Education Fund,Works night shifts
+Mr. Dutta,34,Self-Employed,$30k-$50k,3,Married w/ Spouse,Tax Saving,"Health-conscious, gym member"
+Rahul,48,Self-Employed,$75k-$100k,3,Divorced,Tax Saving,"Owns property, no liabilities"
+Priya,49,Self-Employed,$100k+,3,Married w/ Kids,Child Education Fund,"Sedentary lifestyle, chronic illness"
+Ankit,45,Self-Employed,$30k-$50k,5,Married w/ Spouse,Retirement Savings,"Health-conscious, gym member"
+Mr. Dutta,59,Self-Employed,$100k+,4,Divorced,Health Coverage,"Smoker, high stress job"
+Mrs. Iyer,22,Salaried,$75k-$100k,1,Widowed,Health Coverage,"Frequent flyer, international travel"
+Mr. Dutta,40,Retired,$50k-$75k,1,Married w/ Kids,Retirement Savings,Works night shifts
+Rahul,27,Salaried,$30k-$50k,4,Divorced,Wealth Creation,"Owns a car, travels frequently"
+Riya,30,Business Owner,$100k+,4,Single,Tax Saving,Prefers homeopathic treatment
+Rahul,25,Retired,$50k-$75k,2,Married w/ Kids,Tax Saving,"Pet owner, active lifestyle"
+Priya,38,Self-Employed,$100k+,1,Married w/ Kids,Child Education Fund,"Smoker, high stress job"
+Amit,25,Salaried,$75k-$100k,3,Married w/ Kids,Retirement Savings,"Owns property, no liabilities"
+Rahul,38,Retired,$50k-$75k,4,Widowed,Health Coverage,"Pet owner, active lifestyle"
+Sunita,27,Retired,$30k-$50k,3,Married w/ Spouse,Child Education Fund,Lives in joint family
+Mrs. Iyer,28,Retired,$30k-$50k,4,Widowed,Tax Saving,"Frequent flyer, international travel"
+Arjun,24,Salaried,$50k-$75k,2,Single,Health Coverage,"Frequent flyer, international travel"
+Mr. Dutta,56,Retired,$75k-$100k,3,Divorced,Child Education Fund,"Health-conscious, gym member"
+Ankit,60,Business Owner,$50k-$75k,4,Widowed,Health Coverage,Lives in joint family
+Priya,46,Retired,$75k-$100k,2,Married w/ Kids,Child Education Fund,Prefers homeopathic treatment
+Rahul,31,Self-Employed,$100k+,2,Widowed,Tax Saving,"Owns a car, travels frequently"
+Priya,61,Self-Employed,$50k-$75k,4,Divorced,Tax Saving,Prefers homeopathic treatment
+Ankit,34,Salaried,$30k-$50k,2,Divorced,Child Education Fund,"Sedentary lifestyle, chronic illness"
+Mrs. Iyer,53,Salaried,$100k+,1,Divorced,Wealth Creation,Prefers homeopathic treatment
+Sunita,61,Retired,$100k+,5,Divorced,Child Education Fund,"Sedentary lifestyle, chronic illness"
+Mrs. Iyer,32,Self-Employed,$15k-$30k,3,Divorced,Retirement Savings,"Owns property, no liabilities"
+Arjun,55,Business Owner,$50k-$75k,2,Divorced,Wealth Creation,"Health-conscious, gym member"
+Arjun,48,Retired,$100k+,5,Single,Tax Saving,"Pet owner, active lifestyle"
+Ankit,53,Retired,$100k+,2,Widowed,Health Coverage,"Sedentary lifestyle, chronic illness"
+Amit,36,Business Owner,$100k+,1,Married w/ Spouse,Retirement Savings,"Owns a car, travels frequently"
+Priya,58,Retired,$50k-$75k,3,Married w/ Kids,Tax Saving,Lives in joint family
+Riya,44,Business Owner,$75k-$100k,2,Widowed,Retirement Savings,"Owns property, no liabilities"
+Amit,57,Salaried,$50k-$75k,1,Widowed,Health Coverage,Works night shifts
+Sunita,57,Salaried,$100k+,3,Divorced,Child Education Fund,"Owns a car, travels frequently"
+Mr. Dutta,48,Business Owner,$50k-$75k,3,Married w/ Kids,Tax Saving,"Pet owner, active lifestyle"
+Mr. Dutta,32,Retired,$50k-$75k,3,Married w/ Spouse,Health Coverage,Works night shifts
+Mr. Dutta,40,Self-Employed,$100k+,1,Single,Health Coverage,"Smoker, high stress job"
+Mr. Dutta,63,Business Owner,$15k-$30k,1,Married w/ Spouse,Retirement Savings,"Frequent flyer, international travel"
+Priya,29,Business Owner,$30k-$50k,2,Divorced,Retirement Savings,"Smoker, high stress job"
+Riya,33,Salaried,$15k-$30k,2,Divorced,Retirement Savings,Works night shifts
+Rahul,61,Business Owner,$30k-$50k,4,Single,Tax Saving,Prefers homeopathic treatment
+Amit,24,Salaried,$75k-$100k,4,Widowed,Child Education Fund,"Sedentary lifestyle, chronic illness"
+Ankit,54,Salaried,$100k+,3,Married w/ Kids,Retirement Savings,"Pet owner, active lifestyle"
+Priya,50,Business Owner,$100k+,4,Married w/ Spouse,Wealth Creation,"Pet owner, active lifestyle"
+Mr. Dutta,34,Self-Employed,$30k-$50k,3,Single,Health Coverage,Prefers homeopathic treatment
+Riya,48,Self-Employed,$15k-$30k,5,Divorced,Health Coverage,Prefers homeopathic treatment
+Priya,47,Retired,$75k-$100k,4,Married w/ Spouse,Wealth Creation,"Smoker, high stress job"
+Ankit,50,Salaried,$75k-$100k,4,Single,Tax Saving,Lives in joint family
+Sunita,47,Salaried,$100k+,4,Single,Wealth Creation,"Owns property, no liabilities"
+Mrs. Iyer,30,Business Owner,$15k-$30k,1,Widowed,Health Coverage,"Owns property, no liabilities"
+Sneha,49,Salaried,$75k-$100k,2,Widowed,Retirement Savings,"Frequent flyer, international travel"
+Sneha,49,Salaried,$30k-$50k,4,Divorced,Tax Saving,Prefers homeopathic treatment
+Sunita,37,Self-Employed,$75k-$100k,4,Married w/ Kids,Health Coverage,"Smoker, high stress job"
+Ankit,32,Retired,$30k-$50k,5,Widowed,Health Coverage,Prefers homeopathic treatment
+Mr. Dutta,28,Retired,$50k-$75k,5,Married w/ Kids,Retirement Savings,"Owns property, no liabilities"
+Riya,59,Retired,$30k-$50k,3,Married w/ Spouse,Health Coverage,Lives in joint family
+Rahul,57,Salaried,$15k-$30k,4,Single,Health Coverage,Works night shifts
+Sneha,55,Salaried,$75k-$100k,1,Married w/ Kids,Tax Saving,Prefers homeopathic treatment
+Amit,47,Self-Employed,$75k-$100k,5,Divorced,Wealth Creation,Lives in joint family
+Mrs. Iyer,36,Salaried,$30k-$50k,2,Married w/ Kids,Health Coverage,"Frequent flyer, international travel"
+Ankit,38,Self-Employed,$75k-$100k,4,Divorced,Wealth Creation,"Frequent flyer, international travel"
+Mr. Dutta,22,Business Owner,$50k-$75k,4,Divorced,Wealth Creation,Lives in joint family
+Sunita,62,Business Owner,$30k-$50k,3,Single,Tax Saving,"Owns a car, travels frequently"
+Sneha,33,Salaried,$100k+,4,Married w/ Kids,Wealth Creation,"Health-conscious, gym member"
+Ankit,42,Self-Employed,$15k-$30k,3,Married w/ Spouse,Retirement Savings,"Owns property, no liabilities"
+Mr. Dutta,38,Salaried,$30k-$50k,2,Single,Wealth Creation,"Sedentary lifestyle, chronic illness"
+Mr. Dutta,58,Self-Employed,$75k-$100k,2,Widowed,Child Education Fund,"Owns a car, travels frequently"
+Mrs. Iyer,35,Self-Employed,$50k-$75k,3,Married w/ Spouse,Tax Saving,"Smoker, high stress job"
+Amit,50,Business Owner,$75k-$100k,1,Married w/ Spouse,Wealth Creation,Prefers homeopathic treatment
+Mrs. Iyer,41,Salaried,$100k+,5,Married w/ Spouse,Wealth Creation,"Frequent flyer, international travel"
+Priya,28,Self-Employed,$30k-$50k,1,Widowed,Retirement Savings,Prefers homeopathic treatment
+Priya,49,Retired,$100k+,5,Single,Retirement Savings,"Health-conscious, gym member"
+Priya,37,Salaried,$30k-$50k,4,Married w/ Kids,Tax Saving,"Smoker, high stress job"
+Mr. Dutta,37,Salaried,$50k-$75k,5,Divorced,Child Education Fund,"Smoker, high stress job"
+Arjun,36,Retired,$100k+,5,Widowed,Wealth Creation,"Owns a car, travels frequently"
+Arjun,50,Salaried,$100k+,1,Single,Retirement Savings,"Health-conscious, gym member"
+Mrs. Iyer,64,Salaried,$75k-$100k,2,Widowed,Child Education Fund,"Pet owner, active lifestyle"
+Rahul,25,Retired,$100k+,3,Married w/ Spouse,Health Coverage,"Frequent flyer, international travel"
+Riya,52,Salaried,$100k+,2,Single,Child Education Fund,Lives in joint family
+Rahul,33,Retired,$100k+,3,Single,Health Coverage,"Owns property, no liabilities"
+Mrs. Iyer,46,Salaried,$30k-$50k,1,Married w/ Spouse,Retirement Savings,"Health-conscious, gym member"
+Mrs. Iyer,41,Salaried,$15k-$30k,2,Married w/ Spouse,Retirement Savings,Works night shifts
+Amit,39,Business Owner,$75k-$100k,3,Widowed,Wealth Creation,Prefers homeopathic treatment
+Sunita,38,Retired,$30k-$50k,5,Widowed,Wealth Creation,"Pet owner, active lifestyle"
+Rahul,43,Business Owner,$75k-$100k,5,Married w/ Kids,Wealth Creation,Lives in joint family
+Ankit,51,Retired,$100k+,1,Married w/ Spouse,Retirement Savings,"Health-conscious, gym member"
+Rahul,48,Business Owner,$30k-$50k,5,Married w/ Spouse,Tax Saving,"Sedentary lifestyle, chronic illness"
+Mrs. Iyer,30,Retired,$75k-$100k,4,Married w/ Kids,Child Education Fund,"Health-conscious, gym member"
+Priya,38,Retired,$100k+,1,Divorced,Child Education Fund,"Sedentary lifestyle, chronic illness"
+Riya,60,Salaried,$50k-$75k,2,Divorced,Health Coverage,Works night shifts
+Rahul,33,Retired,$15k-$30k,1,Married w/ Kids,Wealth Creation,"Smoker, high stress job"
+Mr. Dutta,42,Business Owner,$50k-$75k,5,Widowed,Wealth Creation,"Owns a car, travels frequently"
+Mr. Dutta,39,Retired,$30k-$50k,1,Married w/ Kids,Child Education Fund,"Smoker, high stress job"
+Priya,56,Salaried,$100k+,3,Married w/ Spouse,Wealth Creation,"Owns property, no liabilities"
+Sunita,39,Salaried,$100k+,2,Married w/ Spouse,Tax Saving,Lives in joint family
+Sneha,42,Salaried,$15k-$30k,4,Married w/ Kids,Child Education Fund,"Smoker, high stress job"
+Sneha,44,Retired,$75k-$100k,4,Single,Retirement Savings,"Sedentary lifestyle, chronic illness"
+Ankit,38,Business Owner,$30k-$50k,3,Divorced,Child Education Fund,"Owns property, no liabilities"
+Arjun,26,Retired,$30k-$50k,1,Married w/ Kids,Wealth Creation,"Frequent flyer, international travel"
+Amit,23,Self-Employed,$30k-$50k,3,Widowed,Wealth Creation,"Smoker, high stress job"
+Amit,55,Salaried,$100k+,2,Divorced,Child Education Fund,"Owns property, no liabilities"
+Arjun,37,Self-Employed,$50k-$75k,1,Married w/ Spouse,Wealth Creation,"Smoker, high stress job"
+Mrs. Iyer,36,Retired,$100k+,4,Divorced,Wealth Creation,"Frequent flyer, international travel"
+Amit,22,Salaried,$15k-$30k,3,Married w/ Spouse,Retirement Savings,"Health-conscious, gym member"
+Ankit,45,Salaried,$50k-$75k,5,Widowed,Child Education Fund,Lives in joint family
+Priya,38,Salaried,$100k+,5,Widowed,Health Coverage,"Owns property, no liabilities"
+Mrs. Iyer,41,Self-Employed,$15k-$30k,4,Divorced,Child Education Fund,Works night shifts
+Rahul,28,Self-Employed,$50k-$75k,1,Widowed,Health Coverage,Works night shifts
+Sneha,47,Salaried,$30k-$50k,2,Single,Wealth Creation,"Owns a car, travels frequently"
+Rahul,36,Self-Employed,$100k+,4,Married w/ Spouse,Health Coverage,Prefers homeopathic treatment
+Rahul,23,Salaried,$15k-$30k,2,Single,Wealth Creation,"Owns property, no liabilities"
+Arjun,55,Self-Employed,$15k-$30k,5,Widowed,Retirement Savings,"Owns property, no liabilities"
+Sneha,32,Self-Employed,$30k-$50k,3,Single,Retirement Savings,"Smoker, high stress job"
+Mrs. Iyer,25,Self-Employed,$100k+,2,Single,Child Education Fund,Lives in joint family
+Sunita,58,Salaried,$50k-$75k,1,Widowed,Child Education Fund,"Health-conscious, gym member"
+Sneha,49,Retired,$15k-$30k,5,Married w/ Spouse,Wealth Creation,"Health-conscious, gym member"
+Amit,64,Business Owner,$75k-$100k,2,Divorced,Retirement Savings,"Smoker, high stress job"
+Priya,29,Retired,$75k-$100k,1,Widowed,Tax Saving,Lives in joint family
+Ankit,38,Business Owner,$15k-$30k,4,Married w/ Spouse,Wealth Creation,"Pet owner, active lifestyle"
+Sneha,61,Self-Employed,$75k-$100k,5,Widowed,Retirement Savings,"Smoker, high stress job"
+Sneha,48,Salaried,$15k-$30k,1,Single,Child Education Fund,"Smoker, high stress job"
+Sunita,52,Self-Employed,$50k-$75k,2,Single,Retirement Savings,Works night shifts
+Mrs. Iyer,44,Self-Employed,$15k-$30k,5,Divorced,Health Coverage,"Sedentary lifestyle, chronic illness"
+Ankit,52,Salaried,$100k+,4,Single,Retirement Savings,"Health-conscious, gym member"
+Priya,38,Self-Employed,$50k-$75k,1,Married w/ Kids,Health Coverage,Works night shifts
+Rahul,43,Salaried,$100k+,1,Married w/ Spouse,Health Coverage,Works night shifts
+Mrs. Iyer,62,Business Owner,$50k-$75k,1,Single,Tax Saving,Lives in joint family
+Mr. Dutta,33,Business Owner,$75k-$100k,2,Widowed,Child Education Fund,"Health-conscious, gym member"
+Sneha,25,Business Owner,$50k-$75k,2,Single,Wealth Creation,"Pet owner, active lifestyle"
+Mr. Dutta,30,Self-Employed,$50k-$75k,1,Married w/ Spouse,Wealth Creation,"Health-conscious, gym member"
+Mrs. Iyer,56,Business Owner,$50k-$75k,3,Married w/ Spouse,Wealth Creation,Prefers homeopathic treatment
+Amit,37,Business Owner,$100k+,5,Widowed,Wealth Creation,"Health-conscious, gym member"
+Mrs. Iyer,57,Retired,$30k-$50k,2,Married w/ Spouse,Retirement Savings,"Health-conscious, gym member"
+Riya,40,Self-Employed,$100k+,2,Married w/ Spouse,Retirement Savings,"Owns a car, travels frequently"
+Rahul,62,Salaried,$75k-$100k,4,Divorced,Child Education Fund,"Owns property, no liabilities"
+Mr. Dutta,48,Retired,$75k-$100k,3,Married w/ Spouse,Child Education Fund,"Frequent flyer, international travel"
+Rahul,51,Self-Employed,$75k-$100k,4,Married w/ Kids,Retirement Savings,"Owns property, no liabilities"
+Riya,28,Salaried,$75k-$100k,1,Married w/ Kids,Health Coverage,"Sedentary lifestyle, chronic illness"
+Riya,23,Retired,$30k-$50k,4,Widowed,Health Coverage,"Pet owner, active lifestyle"
+Sneha,54,Salaried,$100k+,3,Married w/ Kids,Retirement Savings,"Pet owner, active lifestyle"
+Amit,36,Retired,$30k-$50k,4,Widowed,Retirement Savings,"Health-conscious, gym member"
+Rahul,26,Self-Employed,$30k-$50k,2,Single,Retirement Savings,"Owns property, no liabilities"
+Riya,53,Retired,$30k-$50k,1,Married w/ Spouse,Health Coverage,"Owns property, no liabilities"
+Arjun,64,Salaried,$15k-$30k,2,Widowed,Retirement Savings,"Owns property, no liabilities"
+Riya,39,Retired,$15k-$30k,4,Married w/ Spouse,Retirement Savings,"Owns property, no liabilities"
+Ankit,64,Salaried,$50k-$75k,3,Married w/ Kids,Retirement Savings,"Pet owner, active lifestyle"
+Amit,38,Salaried,$50k-$75k,5,Married w/ Kids,Tax Saving,"Smoker, high stress job"
+Mr. Dutta,49,Retired,$75k-$100k,1,Married w/ Spouse,Tax Saving,"Pet owner, active lifestyle"
+Mr. Dutta,40,Salaried,$100k+,4,Divorced,Wealth Creation,"Sedentary lifestyle, chronic illness"
+Amit,62,Salaried,$100k+,4,Divorced,Retirement Savings,"Health-conscious, gym member"
+Sunita,57,Business Owner,$15k-$30k,4,Divorced,Tax Saving,"Owns property, no liabilities"
+Amit,42,Retired,$15k-$30k,2,Divorced,Tax Saving,Works night shifts
+Arjun,49,Salaried,$15k-$30k,3,Widowed,Wealth Creation,Works night shifts
+Sneha,29,Salaried,$75k-$100k,5,Divorced,Child Education Fund,"Smoker, high stress job"
+Ankit,32,Self-Employed,$30k-$50k,1,Divorced,Health Coverage,"Owns a car, travels frequently"
+Riya,25,Self-Employed,$30k-$50k,2,Married w/ Spouse,Child Education Fund,Works night shifts
+Mrs. Iyer,39,Self-Employed,$30k-$50k,4,Divorced,Wealth Creation,"Sedentary lifestyle, chronic illness"
+Sneha,37,Salaried,$100k+,4,Married w/ Kids,Child Education Fund,Lives in joint family
+Rahul,53,Salaried,$50k-$75k,1,Divorced,Wealth Creation,"Sedentary lifestyle, chronic illness"
+Riya,33,Business Owner,$50k-$75k,2,Single,Health Coverage,Works night shifts
+Sneha,29,Business Owner,$75k-$100k,2,Widowed,Health Coverage,"Owns property, no liabilities"
+Priya,49,Retired,$100k+,5,Widowed,Wealth Creation,"Smoker, high stress job"
+Riya,28,Business Owner,$15k-$30k,1,Single,Health Coverage,"Pet owner, active lifestyle"
+Priya,31,Business Owner,$50k-$75k,1,Married w/ Kids,Wealth Creation,"Owns a car, travels frequently"
+Ankit,52,Business Owner,$30k-$50k,3,Single,Child Education Fund,"Owns a car, travels frequently"
+Sneha,30,Retired,$50k-$75k,1,Married w/ Spouse,Retirement Savings,"Sedentary lifestyle, chronic illness"
+Rahul,64,Self-Employed,$15k-$30k,5,Single,Retirement Savings,Works night shifts
+Priya,35,Business Owner,$100k+,4,Single,Health Coverage,"Pet owner, active lifestyle"
+Arjun,24,Salaried,$100k+,5,Widowed,Tax Saving,"Owns property, no liabilities"
+Arjun,38,Salaried,$30k-$50k,1,Married w/ Kids,Tax Saving,"Owns a car, travels frequently"
+Ankit,29,Salaried,$75k-$100k,2,Married w/ Kids,Child Education Fund,"Owns a car, travels frequently"
+Sneha,61,Business Owner,$50k-$75k,4,Married w/ Spouse,Retirement Savings,"Owns property, no liabilities"
+Sneha,31,Business Owner,$15k-$30k,4,Widowed,Retirement Savings,Works night shifts
+Ankit,32,Salaried,$50k-$75k,2,Divorced,Child Education Fund,"Owns a car, travels frequently"
+Riya,58,Salaried,$75k-$100k,1,Widowed,Wealth Creation,Works night shifts
+Mr. Dutta,64,Business Owner,$30k-$50k,3,Married w/ Kids,Wealth Creation,Works night shifts
+Mrs. Iyer,48,Salaried,$100k+,3,Married w/ Spouse,Tax Saving,Lives in joint family
+Amit,38,Salaried,$15k-$30k,1,Married w/ Spouse,Tax Saving,Works night shifts
+Arjun,49,Self-Employed,$75k-$100k,5,Widowed,Health Coverage,"Sedentary lifestyle, chronic illness"
+Sunita,60,Retired,$30k-$50k,5,Married w/ Kids,Wealth Creation,Lives in joint family
+Arjun,35,Salaried,$30k-$50k,5,Married w/ Kids,Child Education Fund,"Smoker, high stress job"
+Mrs. Iyer,27,Self-Employed,$75k-$100k,1,Divorced,Tax Saving,Lives in joint family
+Ankit,37,Self-Employed,$100k+,5,Single,Tax Saving,Lives in joint family
+Priya,32,Business Owner,$50k-$75k,4,Married w/ Spouse,Wealth Creation,"Health-conscious, gym member"
+Mr. Dutta,32,Business Owner,$75k-$100k,1,Married w/ Kids,Health Coverage,"Owns property, no liabilities"
+Amit,32,Self-Employed,$75k-$100k,3,Single,Retirement Savings,"Health-conscious, gym member"
+Mr. Dutta,51,Self-Employed,$15k-$30k,5,Widowed,Health Coverage,"Frequent flyer, international travel"
+Sneha,58,Salaried,$50k-$75k,3,Married w/ Spouse,Child Education Fund,"Sedentary lifestyle, chronic illness"
+Mrs. Iyer,58,Business Owner,$30k-$50k,2,Widowed,Tax Saving,"Pet owner, active lifestyle"
+Arjun,33,Salaried,$75k-$100k,5,Single,Child Education Fund,Works night shifts
+Rahul,32,Business Owner,$15k-$30k,3,Single,Wealth Creation,Lives in joint family
+Amit,61,Retired,$30k-$50k,5,Widowed,Health Coverage,"Sedentary lifestyle, chronic illness"
+Ankit,43,Salaried,$100k+,1,Widowed,Health Coverage,"Sedentary lifestyle, chronic illness"
+Arjun,28,Retired,$100k+,2,Married w/ Spouse,Child Education Fund,Lives in joint family
+Amit,47,Retired,$75k-$100k,4,Single,Tax Saving,"Health-conscious, gym member"
+Mr. Dutta,58,Salaried,$75k-$100k,1,Widowed,Wealth Creation,"Owns property, no liabilities"
+Priya,62,Salaried,$50k-$75k,3,Married w/ Spouse,Wealth Creation,"Owns property, no liabilities"
+Priya,31,Business Owner,$100k+,5,Married w/ Kids,Health Coverage,Lives in joint family
+Priya,53,Business Owner,$30k-$50k,5,Married w/ Kids,Wealth Creation,"Frequent flyer, international travel"
+Arjun,63,Retired,$50k-$75k,3,Single,Tax Saving,"Sedentary lifestyle, chronic illness"
+Riya,45,Business Owner,$100k+,1,Divorced,Wealth Creation,"Frequent flyer, international travel"
+Riya,59,Retired,$75k-$100k,2,Single,Wealth Creation,"Sedentary lifestyle, chronic illness"
+Ankit,27,Business Owner,$75k-$100k,1,Married w/ Kids,Retirement Savings,"Sedentary lifestyle, chronic illness"
+Ankit,36,Self-Employed,$30k-$50k,5,Married w/ Spouse,Health Coverage,"Health-conscious, gym member"
+Riya,42,Retired,$30k-$50k,3,Married w/ Spouse,Tax Saving,"Owns a car, travels frequently"
+Sneha,61,Retired,$15k-$30k,3,Widowed,Child Education Fund,"Owns a car, travels frequently"
+Ankit,60,Retired,$100k+,4,Widowed,Wealth Creation,"Health-conscious, gym member"
+Priya,47,Salaried,$30k-$50k,4,Widowed,Child Education Fund,Prefers homeopathic treatment
+Sunita,43,Business Owner,$100k+,4,Widowed,Tax Saving,Lives in joint family
+Priya,34,Retired,$30k-$50k,5,Widowed,Child Education Fund,"Pet owner, active lifestyle"
+Mrs. Iyer,61,Salaried,$15k-$30k,1,Divorced,Health Coverage,Prefers homeopathic treatment
+Ankit,50,Salaried,$30k-$50k,5,Married w/ Kids,Health Coverage,"Frequent flyer, international travel"
+Amit,25,Business Owner,$75k-$100k,1,Widowed,Child Education Fund,Prefers homeopathic treatment
+Riya,29,Self-Employed,$100k+,4,Widowed,Child Education Fund,"Owns a car, travels frequently"
+Arjun,42,Self-Employed,$15k-$30k,2,Married w/ Kids,Child Education Fund,"Owns a car, travels frequently"
+Rahul,29,Retired,$30k-$50k,3,Divorced,Retirement Savings,"Owns property, no liabilities"
+Arjun,26,Business Owner,$50k-$75k,4,Divorced,Retirement Savings,"Frequent flyer, international travel"
+Ankit,31,Salaried,$50k-$75k,4,Divorced,Wealth Creation,"Sedentary lifestyle, chronic illness"
+Priya,34,Business Owner,$100k+,3,Single,Wealth Creation,"Health-conscious, gym member"
+Sunita,45,Salaried,$50k-$75k,3,Widowed,Tax Saving,"Owns property, no liabilities"
+Mrs. Iyer,34,Business Owner,$75k-$100k,2,Married w/ Kids,Wealth Creation,"Frequent flyer, international travel"
+Priya,54,Self-Employed,$30k-$50k,4,Widowed,Health Coverage,"Frequent flyer, international travel"
+Mrs. Iyer,56,Retired,$50k-$75k,2,Married w/ Kids,Child Education Fund,Lives in joint family
+Mrs. Iyer,54,Business Owner,$50k-$75k,2,Divorced,Child Education Fund,"Frequent flyer, international travel"
+Priya,60,Business Owner,$50k-$75k,4,Divorced,Tax Saving,Prefers homeopathic treatment
+Mrs. Iyer,29,Business Owner,$15k-$30k,3,Single,Health Coverage,"Pet owner, active lifestyle"
+Priya,29,Business Owner,$30k-$50k,1,Single,Retirement Savings,Works night shifts
+Sunita,39,Self-Employed,$100k+,4,Widowed,Tax Saving,"Owns property, no liabilities"
+Rahul,44,Salaried,$100k+,5,Single,Child Education Fund,Lives in joint family
+Priya,64,Retired,$100k+,3,Divorced,Child Education Fund,"Frequent flyer, international travel"
+Rahul,46,Salaried,$15k-$30k,1,Married w/ Spouse,Child Education Fund,"Pet owner, active lifestyle"
+Ankit,54,Retired,$30k-$50k,3,Single,Tax Saving,Prefers homeopathic treatment
+Rahul,48,Self-Employed,$15k-$30k,5,Divorced,Tax Saving,"Frequent flyer, international travel"
+Amit,33,Salaried,$15k-$30k,3,Married w/ Kids,Retirement Savings,"Frequent flyer, international travel"
+Priya,46,Business Owner,$15k-$30k,1,Married w/ Kids,Health Coverage,"Health-conscious, gym member"
+Mrs. Iyer,32,Business Owner,$75k-$100k,5,Divorced,Tax Saving,"Frequent flyer, international travel"
+Mrs. Iyer,22,Salaried,$100k+,4,Married w/ Spouse,Wealth Creation,"Owns property, no liabilities"
+Ankit,23,Business Owner,$30k-$50k,5,Divorced,Tax Saving,"Health-conscious, gym member"
+Sneha,22,Business Owner,$30k-$50k,2,Married w/ Spouse,Wealth Creation,"Owns property, no liabilities"
+Sneha,24,Business Owner,$50k-$75k,4,Single,Health Coverage,"Health-conscious, gym member"
+Riya,25,Retired,$15k-$30k,4,Single,Wealth Creation,Lives in joint family
+Amit,28,Self-Employed,$100k+,2,Divorced,Retirement Savings,"Pet owner, active lifestyle"
+Sneha,44,Self-Employed,$100k+,4,Widowed,Health Coverage,"Owns property, no liabilities"
+Arjun,46,Salaried,$50k-$75k,1,Widowed,Wealth Creation,"Health-conscious, gym member"
+Sunita,25,Salaried,$75k-$100k,1,Married w/ Spouse,Retirement Savings,Lives in joint family
+Mrs. Iyer,55,Business Owner,$15k-$30k,5,Widowed,Retirement Savings,"Sedentary lifestyle, chronic illness"
+Mrs. Iyer,33,Self-Employed,$75k-$100k,1,Widowed,Child Education Fund,Lives in joint family
+Mr. Dutta,64,Self-Employed,$30k-$50k,4,Single,Retirement Savings,"Owns property, no liabilities"
+Sneha,60,Self-Employed,$75k-$100k,4,Married w/ Spouse,Wealth Creation,"Sedentary lifestyle, chronic illness"
+Riya,35,Salaried,$30k-$50k,5,Widowed,Wealth Creation,Prefers homeopathic treatment
+Sunita,36,Self-Employed,$50k-$75k,1,Single,Health Coverage,"Smoker, high stress job"
+Rahul,31,Retired,$100k+,1,Widowed,Wealth Creation,Lives in joint family
+Rahul,25,Business Owner,$15k-$30k,3,Divorced,Tax Saving,"Owns property, no liabilities"
+Sneha,56,Self-Employed,$50k-$75k,3,Married w/ Spouse,Health Coverage,"Health-conscious, gym member"
+Rahul,42,Retired,$75k-$100k,5,Married w/ Kids,Health Coverage,"Sedentary lifestyle, chronic illness"
+Ankit,41,Retired,$75k-$100k,5,Single,Tax Saving,Lives in joint family
+Mrs. Iyer,47,Self-Employed,$15k-$30k,3,Single,Child Education Fund,Lives in joint family
+Priya,38,Self-Employed,$100k+,4,Married w/ Kids,Retirement Savings,"Owns a car, travels frequently"
+Rahul,23,Self-Employed,$50k-$75k,2,Married w/ Spouse,Child Education Fund,"Frequent flyer, international travel"
+Rahul,27,Self-Employed,$100k+,2,Widowed,Child Education Fund,"Owns a car, travels frequently"
+Priya,49,Self-Employed,$30k-$50k,2,Widowed,Health Coverage,Lives in joint family
+Ankit,23,Self-Employed,$75k-$100k,5,Divorced,Child Education Fund,"Sedentary lifestyle, chronic illness"
+Mrs. Iyer,48,Retired,$15k-$30k,2,Married w/ Kids,Tax Saving,Works night shifts
+Rahul,55,Self-Employed,$75k-$100k,2,Married w/ Kids,Wealth Creation,"Health-conscious, gym member"
+Ankit,53,Salaried,$15k-$30k,3,Single,Wealth Creation,"Pet owner, active lifestyle"
+Arjun,63,Retired,$100k+,1,Married w/ Spouse,Tax Saving,Works night shifts
+Priya,23,Self-Employed,$30k-$50k,1,Married w/ Kids,Child Education Fund,"Smoker, high stress job"
+Arjun,52,Retired,$50k-$75k,5,Single,Wealth Creation,"Owns a car, travels frequently"
+Ankit,29,Salaried,$15k-$30k,5,Divorced,Child Education Fund,Prefers homeopathic treatment
+Riya,50,Business Owner,$50k-$75k,5,Single,Tax Saving,Lives in joint family
+Amit,40,Business Owner,$100k+,1,Single,Child Education Fund,Lives in joint family
+Ankit,53,Retired,$30k-$50k,1,Widowed,Health Coverage,"Frequent flyer, international travel"
+Riya,60,Business Owner,$100k+,1,Divorced,Health Coverage,"Smoker, high stress job"
+Riya,49,Salaried,$100k+,3,Widowed,Tax Saving,"Frequent flyer, international travel"
+Arjun,25,Self-Employed,$75k-$100k,3,Widowed,Tax Saving,Works night shifts
+Priya,57,Business Owner,$30k-$50k,4,Married w/ Kids,Health Coverage,Lives in joint family
+Arjun,49,Salaried,$30k-$50k,4,Single,Retirement Savings,"Smoker, high stress job"
+Rahul,39,Retired,$30k-$50k,2,Widowed,Wealth Creation,Works night shifts
+Ankit,59,Salaried,$75k-$100k,5,Divorced,Retirement Savings,"Health-conscious, gym member"
+Ankit,23,Business Owner,$50k-$75k,5,Divorced,Child Education Fund,Lives in joint family
+Sunita,55,Self-Employed,$100k+,2,Single,Child Education Fund,Works night shifts
+Rahul,52,Business Owner,$100k+,3,Single,Child Education Fund,"Owns property, no liabilities"
+Ankit,35,Business Owner,$15k-$30k,4,Divorced,Tax Saving,"Health-conscious, gym member"
+Priya,63,Business Owner,$75k-$100k,2,Widowed,Wealth Creation,"Owns a car, travels frequently"
+Mr. Dutta,52,Retired,$75k-$100k,5,Married w/ Spouse,Wealth Creation,"Frequent flyer, international travel"
+Mrs. Iyer,30,Business Owner,$30k-$50k,5,Widowed,Wealth Creation,"Pet owner, active lifestyle"
+Sneha,56,Salaried,$100k+,4,Single,Health Coverage,"Owns property, no liabilities"
+Rahul,35,Self-Employed,$15k-$30k,1,Single,Tax Saving,Lives in joint family
+Sneha,27,Self-Employed,$15k-$30k,3,Married w/ Kids,Wealth Creation,Prefers homeopathic treatment
+Sneha,47,Salaried,$50k-$75k,5,Single,Health Coverage,"Frequent flyer, international travel"
+Ankit,25,Salaried,$50k-$75k,4,Single,Retirement Savings,"Frequent flyer, international travel"
+Mrs. Iyer,24,Salaried,$100k+,4,Married w/ Spouse,Retirement Savings,Lives in joint family
+Mr. Dutta,61,Salaried,$100k+,1,Divorced,Child Education Fund,"Smoker, high stress job"
+Sneha,42,Retired,$75k-$100k,2,Divorced,Wealth Creation,"Smoker, high stress job"
+Mrs. Iyer,40,Retired,$75k-$100k,1,Married w/ Kids,Tax Saving,"Owns a car, travels frequently"
+Ankit,27,Retired,$15k-$30k,4,Married w/ Kids,Health Coverage,"Frequent flyer, international travel"
+Mr. Dutta,45,Retired,$15k-$30k,1,Widowed,Wealth Creation,Prefers homeopathic treatment
+Ankit,25,Self-Employed,$75k-$100k,4,Married w/ Spouse,Wealth Creation,"Frequent flyer, international travel"
+Priya,27,Self-Employed,$75k-$100k,1,Married w/ Spouse,Child Education Fund,"Sedentary lifestyle, chronic illness"
+Priya,47,Business Owner,$30k-$50k,4,Married w/ Spouse,Wealth Creation,Prefers homeopathic treatment
+Arjun,54,Salaried,$100k+,1,Widowed,Retirement Savings,"Frequent flyer, international travel"
+Rahul,33,Retired,$30k-$50k,5,Married w/ Kids,Health Coverage,"Owns a car, travels frequently"
+Sneha,28,Business Owner,$75k-$100k,5,Single,Wealth Creation,"Smoker, high stress job"
+Mr. Dutta,39,Retired,$100k+,1,Single,Tax Saving,"Health-conscious, gym member"
+Sneha,28,Business Owner,$100k+,4,Married w/ Kids,Child Education Fund,"Pet owner, active lifestyle"
+Sunita,47,Self-Employed,$30k-$50k,5,Single,Wealth Creation,"Pet owner, active lifestyle"
+Sunita,33,Retired,$30k-$50k,1,Married w/ Spouse,Child Education Fund,"Owns property, no liabilities"
+Sunita,34,Retired,$50k-$75k,1,Divorced,Child Education Fund,"Owns property, no liabilities"
+Arjun,53,Self-Employed,$50k-$75k,5,Divorced,Child Education Fund,"Frequent flyer, international travel"
+Mr. Dutta,34,Self-Employed,$15k-$30k,5,Widowed,Tax Saving,"Pet owner, active lifestyle"
+Sunita,45,Retired,$50k-$75k,2,Single,Child Education Fund,"Sedentary lifestyle, chronic illness"
+Riya,35,Business Owner,$100k+,3,Married w/ Kids,Retirement Savings,"Health-conscious, gym member"
+Amit,49,Salaried,$15k-$30k,2,Widowed,Retirement Savings,Works night shifts
+Rahul,48,Self-Employed,$100k+,3,Married w/ Kids,Retirement Savings,"Sedentary lifestyle, chronic illness"
+Ankit,38,Self-Employed,$100k+,3,Married w/ Spouse,Retirement Savings,"Owns property, no liabilities"
+Arjun,27,Salaried,$30k-$50k,3,Single,Wealth Creation,"Frequent flyer, international travel"
+Priya,57,Salaried,$15k-$30k,2,Married w/ Spouse,Tax Saving,Works night shifts
+Priya,58,Salaried,$50k-$75k,2,Divorced,Wealth Creation,"Owns a car, travels frequently"
+Mrs. Iyer,27,Self-Employed,$50k-$75k,1,Married w/ Spouse,Tax Saving,"Smoker, high stress job"
+Ankit,46,Business Owner,$100k+,1,Widowed,Wealth Creation,"Pet owner, active lifestyle"
+Priya,33,Business Owner,$50k-$75k,1,Single,Tax Saving,Lives in joint family
+Arjun,38,Business Owner,$75k-$100k,4,Widowed,Retirement Savings,"Health-conscious, gym member"
+Riya,53,Self-Employed,$75k-$100k,1,Widowed,Tax Saving,Lives in joint family
+Mr. Dutta,27,Salaried,$100k+,2,Married w/ Kids,Tax Saving,Works night shifts
+Sunita,49,Retired,$100k+,4,Married w/ Kids,Retirement Savings,"Pet owner, active lifestyle"
+Sunita,28,Self-Employed,$50k-$75k,4,Single,Tax Saving,"Sedentary lifestyle, chronic illness"
+Amit,32,Self-Employed,$75k-$100k,1,Widowed,Tax Saving,"Smoker, high stress job"
+Arjun,63,Business Owner,$50k-$75k,1,Divorced,Retirement Savings,"Owns property, no liabilities"
+Ankit,38,Business Owner,$100k+,1,Married w/ Kids,Wealth Creation,"Frequent flyer, international travel"
+Mrs. Iyer,32,Business Owner,$75k-$100k,1,Single,Retirement Savings,"Frequent flyer, international travel"
+Rahul,58,Retired,$30k-$50k,5,Single,Tax Saving,Prefers homeopathic treatment
+Mrs. Iyer,61,Salaried,$100k+,2,Married w/ Spouse,Health Coverage,"Health-conscious, gym member"
+Arjun,45,Retired,$30k-$50k,2,Single,Tax Saving,"Owns a car, travels frequently"
+Mr. Dutta,49,Business Owner,$75k-$100k,4,Widowed,Health Coverage,"Owns property, no liabilities"
+Sneha,53,Salaried,$75k-$100k,3,Single,Wealth Creation,"Owns a car, travels frequently"
+Amit,61,Self-Employed,$100k+,2,Single,Wealth Creation,"Owns property, no liabilities"
+Sunita,51,Retired,$30k-$50k,4,Widowed,Retirement Savings,"Health-conscious, gym member"
+Riya,35,Retired,$15k-$30k,5,Divorced,Retirement Savings,Prefers homeopathic treatment
+Arjun,51,Salaried,$75k-$100k,1,Married w/ Spouse,Wealth Creation,"Sedentary lifestyle, chronic illness"
+Amit,54,Salaried,$50k-$75k,2,Married w/ Kids,Health Coverage,"Frequent flyer, international travel"
+Riya,35,Business Owner,$75k-$100k,2,Widowed,Retirement Savings,"Health-conscious, gym member"
+Sneha,55,Retired,$50k-$75k,4,Widowed,Child Education Fund,"Smoker, high stress job"
+Rahul,37,Business Owner,$15k-$30k,1,Single,Wealth Creation,Lives in joint family
+Sunita,36,Self-Employed,$75k-$100k,4,Widowed,Tax Saving,"Frequent flyer, international travel"
+Priya,27,Self-Employed,$50k-$75k,1,Divorced,Child Education Fund,Lives in joint family
+Sunita,54,Self-Employed,$75k-$100k,1,Single,Retirement Savings,"Frequent flyer, international travel"
+Mrs. Iyer,24,Self-Employed,$75k-$100k,3,Married w/ Kids,Retirement Savings,Lives in joint family
+Mrs. Iyer,26,Self-Employed,$75k-$100k,2,Divorced,Child Education Fund,Prefers homeopathic treatment
+Sneha,30,Self-Employed,$100k+,3,Divorced,Tax Saving,"Sedentary lifestyle, chronic illness"
+Amit,62,Business Owner,$30k-$50k,1,Divorced,Wealth Creation,Lives in joint family
+Ankit,29,Self-Employed,$30k-$50k,2,Single,Retirement Savings,"Owns property, no liabilities"
+Mr. Dutta,37,Self-Employed,$15k-$30k,5,Single,Health Coverage,"Frequent flyer, international travel"
+Mrs. Iyer,41,Self-Employed,$15k-$30k,3,Divorced,Child Education Fund,Works night shifts
+Ankit,52,Retired,$50k-$75k,1,Married w/ Kids,Health Coverage,"Frequent flyer, international travel"
+Arjun,31,Business Owner,$50k-$75k,5,Widowed,Tax Saving,"Owns a car, travels frequently"
+Sneha,48,Retired,$30k-$50k,4,Widowed,Health Coverage,Lives in joint family
+Ankit,22,Salaried,$30k-$50k,2,Married w/ Spouse,Wealth Creation,"Health-conscious, gym member"
+Mrs. Iyer,48,Retired,$30k-$50k,3,Married w/ Spouse,Tax Saving,"Owns a car, travels frequently"
+Arjun,41,Retired,$30k-$50k,2,Married w/ Spouse,Retirement Savings,"Pet owner, active lifestyle"
+Priya,46,Business Owner,$30k-$50k,4,Single,Child Education Fund,"Health-conscious, gym member"
+Arjun,36,Self-Employed,$75k-$100k,1,Divorced,Tax Saving,"Sedentary lifestyle, chronic illness"
+Sunita,63,Retired,$75k-$100k,5,Married w/ Kids,Wealth Creation,Works night shifts
+Riya,38,Retired,$100k+,3,Divorced,Retirement Savings,"Sedentary lifestyle, chronic illness"
+Amit,43,Business Owner,$50k-$75k,3,Married w/ Spouse,Health Coverage,"Pet owner, active lifestyle"
+Mr. Dutta,48,Salaried,$100k+,4,Divorced,Retirement Savings,"Owns property, no liabilities"
+Sunita,54,Self-Employed,$100k+,2,Single,Tax Saving,"Owns property, no liabilities"
+Mr. Dutta,45,Self-Employed,$50k-$75k,2,Married w/ Spouse,Tax Saving,Lives in joint family
+Riya,38,Business Owner,$15k-$30k,5,Widowed,Health Coverage,Lives in joint family
+Rahul,27,Salaried,$100k+,5,Married w/ Kids,Health Coverage,Works night shifts
+Mrs. Iyer,62,Salaried,$50k-$75k,4,Married w/ Spouse,Health Coverage,"Smoker, high stress job"
+Amit,33,Retired,$30k-$50k,5,Married w/ Spouse,Health Coverage,Prefers homeopathic treatment
+Amit,34,Retired,$30k-$50k,4,Divorced,Tax Saving,Prefers homeopathic treatment
+Mr. Dutta,41,Salaried,$100k+,5,Divorced,Retirement Savings,"Smoker, high stress job"
+Sneha,31,Retired,$30k-$50k,4,Single,Retirement Savings,Lives in joint family
+Amit,59,Retired,$75k-$100k,4,Single,Child Education Fund,Lives in joint family
+Priya,35,Retired,$75k-$100k,1,Divorced,Tax Saving,"Sedentary lifestyle, chronic illness"
+Riya,53,Salaried,$15k-$30k,3,Widowed,Tax Saving,"Health-conscious, gym member"
+Ankit,53,Self-Employed,$50k-$75k,5,Widowed,Child Education Fund,Lives in joint family
+Arjun,24,Business Owner,$15k-$30k,2,Married w/ Spouse,Child Education Fund,"Owns property, no liabilities"
+Sunita,60,Salaried,$75k-$100k,5,Divorced,Wealth Creation,"Frequent flyer, international travel"
+Priya,29,Self-Employed,$100k+,4,Married w/ Spouse,Tax Saving,"Smoker, high stress job"
+Riya,31,Self-Employed,$50k-$75k,5,Divorced,Child Education Fund,"Pet owner, active lifestyle"
+Sunita,26,Self-Employed,$50k-$75k,5,Single,Retirement Savings,Lives in joint family
+Ankit,24,Retired,$75k-$100k,2,Single,Health Coverage,"Pet owner, active lifestyle"
+Sunita,46,Retired,$15k-$30k,1,Widowed,Child Education Fund,"Owns a car, travels frequently"
+Ankit,28,Business Owner,$50k-$75k,3,Widowed,Health Coverage,"Sedentary lifestyle, chronic illness"
+Rahul,52,Self-Employed,$75k-$100k,3,Divorced,Retirement Savings,"Sedentary lifestyle, chronic illness"
+Mrs. Iyer,49,Self-Employed,$15k-$30k,4,Married w/ Kids,Wealth Creation,"Smoker, high stress job"
+Arjun,59,Self-Employed,$100k+,4,Single,Child Education Fund,"Owns property, no liabilities"
+Mrs. Iyer,28,Self-Employed,$100k+,3,Divorced,Child Education Fund,"Sedentary lifestyle, chronic illness"
+Mr. Dutta,40,Self-Employed,$15k-$30k,2,Divorced,Health Coverage,"Health-conscious, gym member"
+Sunita,39,Retired,$30k-$50k,3,Married w/ Kids,Wealth Creation,Works night shifts
+Arjun,35,Retired,$30k-$50k,4,Widowed,Wealth Creation,"Smoker, high stress job"
+Sneha,58,Retired,$50k-$75k,5,Married w/ Spouse,Child Education Fund,"Health-conscious, gym member"
+Sunita,52,Salaried,$100k+,2,Widowed,Child Education Fund,"Health-conscious, gym member"
+Rahul,36,Salaried,$100k+,3,Married w/ Kids,Child Education Fund,Prefers homeopathic treatment
+Ankit,26,Business Owner,$50k-$75k,2,Married w/ Kids,Tax Saving,"Owns a car, travels frequently"
+Arjun,55,Salaried,$15k-$30k,5,Single,Retirement Savings,"Smoker, high stress job"
+Sunita,31,Business Owner,$75k-$100k,5,Single,Child Education Fund,Works night shifts
+Rahul,63,Retired,$75k-$100k,3,Married w/ Kids,Tax Saving,"Pet owner, active lifestyle"
+Mrs. Iyer,44,Business Owner,$100k+,3,Widowed,Health Coverage,"Owns property, no liabilities"
+Rahul,61,Retired,$100k+,4,Single,Retirement Savings,"Smoker, high stress job"
+Sneha,31,Salaried,$30k-$50k,2,Married w/ Kids,Tax Saving,Prefers homeopathic treatment
+Rahul,43,Business Owner,$100k+,4,Widowed,Tax Saving,"Smoker, high stress job"
+Sunita,37,Salaried,$50k-$75k,4,Married w/ Kids,Health Coverage,Works night shifts
+Riya,47,Business Owner,$50k-$75k,5,Widowed,Health Coverage,"Pet owner, active lifestyle"
+Sneha,32,Retired,$50k-$75k,1,Widowed,Retirement Savings,Lives in joint family
+Ankit,34,Salaried,$15k-$30k,3,Married w/ Spouse,Child Education Fund,Lives in joint family
+Mrs. Iyer,25,Retired,$75k-$100k,3,Divorced,Retirement Savings,"Owns property, no liabilities"
+Priya,64,Business Owner,$50k-$75k,2,Married w/ Spouse,Retirement Savings,"Sedentary lifestyle, chronic illness"
+Priya,45,Salaried,$15k-$30k,5,Married w/ Spouse,Wealth Creation,"Frequent flyer, international travel"
+Mr. Dutta,50,Retired,$15k-$30k,1,Married w/ Kids,Wealth Creation,"Smoker, high stress job"
+Rahul,57,Retired,$50k-$75k,2,Married w/ Kids,Health Coverage,"Smoker, high stress job"
+Sunita,50,Business Owner,$100k+,1,Married w/ Kids,Health Coverage,"Pet owner, active lifestyle"
+Riya,49,Self-Employed,$30k-$50k,1,Married w/ Kids,Retirement Savings,"Sedentary lifestyle, chronic illness"
+Ankit,53,Business Owner,$15k-$30k,5,Married w/ Kids,Child Education Fund,"Owns property, no liabilities"
+Priya,52,Business Owner,$75k-$100k,3,Divorced,Tax Saving,"Owns property, no liabilities"
+Amit,39,Retired,$100k+,3,Single,Wealth Creation,"Health-conscious, gym member"
+Priya,38,Retired,$50k-$75k,4,Divorced,Health Coverage,"Owns a car, travels frequently"
+Arjun,52,Salaried,$75k-$100k,1,Widowed,Child Education Fund,"Frequent flyer, international travel"
+Sneha,55,Salaried,$75k-$100k,3,Widowed,Child Education Fund,"Pet owner, active lifestyle"
+Mrs. Iyer,25,Salaried,$75k-$100k,5,Divorced,Child Education Fund,"Pet owner, active lifestyle"
+Arjun,34,Self-Employed,$30k-$50k,5,Widowed,Retirement Savings,"Owns a car, travels frequently"
+Sneha,59,Self-Employed,$30k-$50k,2,Married w/ Kids,Child Education Fund,"Health-conscious, gym member"
+Priya,64,Self-Employed,$30k-$50k,4,Single,Tax Saving,"Owns property, no liabilities"
+Amit,28,Self-Employed,$75k-$100k,5,Divorced,Tax Saving,"Smoker, high stress job"
+Sunita,62,Retired,$75k-$100k,2,Divorced,Health Coverage,"Owns property, no liabilities"
+Mr. Dutta,48,Business Owner,$50k-$75k,3,Divorced,Tax Saving,"Health-conscious, gym member"
+Riya,44,Retired,$15k-$30k,2,Married w/ Spouse,Child Education Fund,Works night shifts
+Sunita,53,Retired,$50k-$75k,4,Married w/ Spouse,Retirement Savings,"Owns a car, travels frequently"
+Mr. Dutta,47,Retired,$30k-$50k,5,Divorced,Tax Saving,Works night shifts
+Mr. Dutta,48,Self-Employed,$75k-$100k,3,Widowed,Retirement Savings,"Sedentary lifestyle, chronic illness"
+Riya,49,Retired,$75k-$100k,2,Divorced,Child Education Fund,"Pet owner, active lifestyle"
+Amit,55,Salaried,$30k-$50k,5,Divorced,Child Education Fund,"Sedentary lifestyle, chronic illness"
+Sunita,51,Business Owner,$100k+,4,Single,Wealth Creation,"Owns a car, travels frequently"
+Rahul,62,Self-Employed,$50k-$75k,4,Married w/ Kids,Tax Saving,Prefers homeopathic treatment
+Priya,56,Business Owner,$30k-$50k,2,Widowed,Retirement Savings,"Health-conscious, gym member"
+Priya,44,Self-Employed,$75k-$100k,1,Married w/ Kids,Health Coverage,"Owns a car, travels frequently"
+Rahul,57,Retired,$15k-$30k,2,Divorced,Tax Saving,Prefers homeopathic treatment
+Sunita,52,Retired,$15k-$30k,5,Married w/ Kids,Child Education Fund,"Owns property, no liabilities"
+Priya,37,Self-Employed,$50k-$75k,4,Divorced,Retirement Savings,"Health-conscious, gym member"
+Sunita,30,Salaried,$100k+,4,Widowed,Wealth Creation,"Owns property, no liabilities"
+Sunita,40,Business Owner,$30k-$50k,5,Widowed,Tax Saving,"Health-conscious, gym member"
+Riya,25,Salaried,$75k-$100k,5,Widowed,Retirement Savings,"Smoker, high stress job"
+Mr. Dutta,53,Salaried,$15k-$30k,2,Divorced,Health Coverage,Lives in joint family
+Amit,23,Salaried,$30k-$50k,3,Married w/ Kids,Tax Saving,Lives in joint family
+Riya,53,Business Owner,$15k-$30k,5,Married w/ Spouse,Tax Saving,Lives in joint family
+Mrs. Iyer,64,Business Owner,$50k-$75k,1,Divorced,Health Coverage,Works night shifts
+Rahul,22,Business Owner,$100k+,1,Widowed,Wealth Creation,Lives in joint family
+Mr. Dutta,26,Self-Employed,$50k-$75k,3,Divorced,Wealth Creation,"Owns property, no liabilities"
+Riya,57,Self-Employed,$15k-$30k,5,Widowed,Child Education Fund,Works night shifts
+Amit,34,Self-Employed,$75k-$100k,1,Married w/ Spouse,Wealth Creation,"Frequent flyer, international travel"
+Arjun,54,Business Owner,$50k-$75k,2,Single,Child Education Fund,"Owns a car, travels frequently"
+Amit,59,Retired,$75k-$100k,3,Married w/ Kids,Health Coverage,"Pet owner, active lifestyle"
+Priya,47,Retired,$100k+,4,Divorced,Wealth Creation,"Frequent flyer, international travel"
+Amit,52,Self-Employed,$15k-$30k,3,Widowed,Wealth Creation,"Health-conscious, gym member"
+Amit,58,Salaried,$100k+,5,Married w/ Spouse,Health Coverage,"Owns property, no liabilities"
+Priya,51,Retired,$50k-$75k,1,Widowed,Tax Saving,"Smoker, high stress job"
+Rahul,49,Retired,$15k-$30k,2,Widowed,Tax Saving,"Smoker, high stress job"
+Riya,50,Business Owner,$30k-$50k,3,Married w/ Kids,Child Education Fund,"Frequent flyer, international travel"
+Rahul,34,Business Owner,$30k-$50k,2,Divorced,Health Coverage,"Sedentary lifestyle, chronic illness"
+Rahul,31,Salaried,$15k-$30k,4,Single,Health Coverage,Prefers homeopathic treatment
+Rahul,57,Salaried,$100k+,4,Married w/ Spouse,Child Education Fund,"Frequent flyer, international travel"
+Priya,28,Self-Employed,$50k-$75k,1,Married w/ Kids,Tax Saving,"Pet owner, active lifestyle"
+Rahul,63,Self-Employed,$100k+,3,Married w/ Spouse,Health Coverage,Prefers homeopathic treatment
+Sneha,40,Self-Employed,$75k-$100k,1,Widowed,Child Education Fund,"Pet owner, active lifestyle"
+Sunita,29,Business Owner,$100k+,3,Single,Child Education Fund,Lives in joint family
+Mrs. Iyer,35,Business Owner,$50k-$75k,2,Married w/ Kids,Retirement Savings,"Health-conscious, gym member"
+Mrs. Iyer,23,Retired,$100k+,1,Widowed,Health Coverage,Lives in joint family
+Sunita,62,Salaried,$15k-$30k,2,Single,Tax Saving,"Health-conscious, gym member"
+Amit,47,Retired,$15k-$30k,3,Married w/ Kids,Health Coverage,Lives in joint family
+Rahul,34,Self-Employed,$75k-$100k,1,Divorced,Wealth Creation,"Sedentary lifestyle, chronic illness"
+Riya,44,Business Owner,$75k-$100k,2,Married w/ Kids,Retirement Savings,"Owns property, no liabilities"
+Riya,37,Self-Employed,$75k-$100k,2,Married w/ Spouse,Tax Saving,"Sedentary lifestyle, chronic illness"
+Sneha,33,Business Owner,$75k-$100k,1,Divorced,Health Coverage,"Smoker, high stress job"
+Sunita,22,Retired,$50k-$75k,5,Married w/ Kids,Child Education Fund,"Pet owner, active lifestyle"
+Sunita,52,Salaried,$100k+,5,Widowed,Child Education Fund,Works night shifts
+Sunita,50,Salaried,$75k-$100k,3,Divorced,Child Education Fund,"Sedentary lifestyle, chronic illness"
+Sunita,54,Retired,$15k-$30k,5,Widowed,Tax Saving,Prefers homeopathic treatment
+Amit,41,Salaried,$100k+,2,Married w/ Kids,Tax Saving,"Frequent flyer, international travel"
+Sunita,52,Self-Employed,$75k-$100k,4,Divorced,Retirement Savings,"Sedentary lifestyle, chronic illness"
+Sneha,63,Self-Employed,$15k-$30k,3,Married w/ Kids,Health Coverage,"Sedentary lifestyle, chronic illness"
+Priya,22,Business Owner,$50k-$75k,4,Married w/ Spouse,Wealth Creation,Prefers homeopathic treatment
+Rahul,48,Retired,$50k-$75k,5,Married w/ Kids,Retirement Savings,Lives in joint family
+Amit,28,Self-Employed,$100k+,5,Widowed,Health Coverage,Prefers homeopathic treatment
+Amit,36,Business Owner,$75k-$100k,1,Married w/ Spouse,Child Education Fund,Lives in joint family
+Mr. Dutta,32,Retired,$15k-$30k,5,Single,Health Coverage,"Pet owner, active lifestyle"
+Priya,63,Business Owner,$100k+,1,Married w/ Kids,Health Coverage,Lives in joint family
+Sunita,64,Self-Employed,$100k+,4,Divorced,Wealth Creation,"Owns a car, travels frequently"
+Mr. Dutta,57,Retired,$50k-$75k,2,Widowed,Tax Saving,Lives in joint family
+Amit,31,Self-Employed,$50k-$75k,3,Divorced,Retirement Savings,Lives in joint family
+Sneha,62,Retired,$75k-$100k,1,Married w/ Kids,Retirement Savings,Prefers homeopathic treatment
+Mrs. Iyer,44,Salaried,$100k+,2,Married w/ Kids,Retirement Savings,"Pet owner, active lifestyle"
+Rahul,35,Self-Employed,$15k-$30k,1,Single,Tax Saving,Prefers homeopathic treatment
+Amit,55,Retired,$30k-$50k,2,Married w/ Kids,Tax Saving,"Health-conscious, gym member"
+Mr. Dutta,38,Business Owner,$75k-$100k,1,Single,Child Education Fund,"Owns property, no liabilities"
+Sneha,41,Business Owner,$100k+,3,Widowed,Retirement Savings,"Owns property, no liabilities"
+Arjun,39,Business Owner,$75k-$100k,5,Widowed,Wealth Creation,"Health-conscious, gym member"
+Mrs. Iyer,42,Self-Employed,$30k-$50k,5,Divorced,Wealth Creation,Works night shifts
+Sunita,58,Retired,$30k-$50k,2,Married w/ Spouse,Tax Saving,Works night shifts
+Mr. Dutta,34,Retired,$75k-$100k,1,Widowed,Health Coverage,"Frequent flyer, international travel"
+Sneha,48,Retired,$30k-$50k,1,Married w/ Spouse,Retirement Savings,"Smoker, high stress job"
+Arjun,50,Retired,$100k+,1,Divorced,Health Coverage,Prefers homeopathic treatment
+Amit,30,Retired,$50k-$75k,4,Widowed,Health Coverage,Lives in joint family
+Rahul,35,Business Owner,$15k-$30k,1,Single,Retirement Savings,Lives in joint family
+Mr. Dutta,59,Business Owner,$100k+,4,Single,Wealth Creation,"Sedentary lifestyle, chronic illness"
+Mrs. Iyer,64,Retired,$30k-$50k,2,Divorced,Child Education Fund,Works night shifts
+Sneha,32,Salaried,$75k-$100k,4,Divorced,Wealth Creation,"Pet owner, active lifestyle"
+Sneha,59,Retired,$30k-$50k,5,Widowed,Tax Saving,"Smoker, high stress job"
+Amit,61,Business Owner,$100k+,2,Single,Retirement Savings,"Pet owner, active lifestyle"
+Riya,42,Self-Employed,$100k+,2,Widowed,Tax Saving,"Frequent flyer, international travel"
+Priya,33,Self-Employed,$75k-$100k,1,Divorced,Tax Saving,"Frequent flyer, international travel"
+Sneha,63,Salaried,$100k+,5,Widowed,Child Education Fund,Works night shifts
+Mr. Dutta,43,Retired,$30k-$50k,4,Single,Child Education Fund,Prefers homeopathic treatment
+Amit,55,Retired,$75k-$100k,5,Single,Retirement Savings,"Smoker, high stress job"
+Rahul,52,Business Owner,$100k+,1,Married w/ Kids,Child Education Fund,"Sedentary lifestyle, chronic illness"
+Mr. Dutta,52,Self-Employed,$75k-$100k,4,Married w/ Spouse,Child Education Fund,"Sedentary lifestyle, chronic illness"
+Sneha,28,Business Owner,$50k-$75k,3,Widowed,Health Coverage,Lives in joint family
+Mr. Dutta,23,Salaried,$100k+,1,Divorced,Retirement Savings,"Sedentary lifestyle, chronic illness"
+Mr. Dutta,46,Retired,$15k-$30k,5,Widowed,Wealth Creation,"Owns a car, travels frequently"
+Priya,39,Retired,$100k+,1,Single,Wealth Creation,Lives in joint family
+Mrs. Iyer,33,Retired,$15k-$30k,2,Divorced,Child Education Fund,"Frequent flyer, international travel"
+Priya,36,Business Owner,$15k-$30k,2,Single,Wealth Creation,"Frequent flyer, international travel"
+Ankit,52,Retired,$50k-$75k,3,Divorced,Tax Saving,"Pet owner, active lifestyle"
+Ankit,22,Self-Employed,$100k+,5,Married w/ Spouse,Child Education Fund,"Sedentary lifestyle, chronic illness"
+Mr. Dutta,36,Self-Employed,$30k-$50k,3,Married w/ Spouse,Health Coverage,"Health-conscious, gym member"
+Riya,30,Salaried,$100k+,5,Married w/ Spouse,Health Coverage,Prefers homeopathic treatment
+Rahul,28,Retired,$100k+,4,Divorced,Wealth Creation,"Owns property, no liabilities"
+Ankit,30,Business Owner,$75k-$100k,5,Single,Wealth Creation,"Sedentary lifestyle, chronic illness"
+Sunita,54,Salaried,$75k-$100k,3,Widowed,Child Education Fund,"Smoker, high stress job"
+Ankit,57,Business Owner,$50k-$75k,1,Widowed,Child Education Fund,"Smoker, high stress job"
+Mrs. Iyer,63,Salaried,$75k-$100k,3,Married w/ Spouse,Wealth Creation,Prefers homeopathic treatment
+Sunita,40,Self-Employed,$15k-$30k,3,Married w/ Spouse,Health Coverage,Works night shifts
+Riya,23,Self-Employed,$50k-$75k,2,Married w/ Spouse,Health Coverage,"Frequent flyer, international travel"
+Sneha,38,Self-Employed,$15k-$30k,1,Single,Child Education Fund,Prefers homeopathic treatment
+Amit,40,Business Owner,$15k-$30k,1,Married w/ Spouse,Retirement Savings,"Owns a car, travels frequently"
+Mrs. Iyer,47,Self-Employed,$50k-$75k,2,Married w/ Kids,Retirement Savings,"Pet owner, active lifestyle"
+Sneha,23,Self-Employed,$15k-$30k,5,Divorced,Retirement Savings,"Health-conscious, gym member"
+Sunita,58,Retired,$50k-$75k,1,Married w/ Kids,Child Education Fund,"Owns property, no liabilities"
+Arjun,58,Business Owner,$100k+,4,Widowed,Wealth Creation,"Owns property, no liabilities"
+Mrs. Iyer,50,Business Owner,$30k-$50k,2,Married w/ Spouse,Wealth Creation,Lives in joint family
+Ankit,56,Salaried,$50k-$75k,1,Single,Retirement Savings,"Frequent flyer, international travel"
+Mrs. Iyer,55,Salaried,$75k-$100k,5,Married w/ Kids,Retirement Savings,"Smoker, high stress job"
+Priya,36,Retired,$50k-$75k,5,Married w/ Spouse,Retirement Savings,Works night shifts
+Priya,42,Business Owner,$100k+,1,Divorced,Child Education Fund,"Health-conscious, gym member"
+Priya,59,Retired,$75k-$100k,5,Widowed,Health Coverage,Lives in joint family
+Sunita,35,Self-Employed,$50k-$75k,5,Widowed,Child Education Fund,"Sedentary lifestyle, chronic illness"
+Ankit,38,Self-Employed,$15k-$30k,1,Single,Tax Saving,"Sedentary lifestyle, chronic illness"
+Riya,59,Retired,$100k+,1,Single,Health Coverage,Prefers homeopathic treatment
+Riya,62,Self-Employed,$15k-$30k,4,Widowed,Health Coverage,"Owns property, no liabilities"
+Mr. Dutta,49,Salaried,$50k-$75k,3,Widowed,Tax Saving,"Frequent flyer, international travel"
+Amit,35,Business Owner,$30k-$50k,5,Married w/ Kids,Wealth Creation,"Frequent flyer, international travel"
+Arjun,32,Salaried,$50k-$75k,1,Widowed,Health Coverage,Works night shifts
+Sunita,43,Self-Employed,$75k-$100k,1,Married w/ Spouse,Tax Saving,Works night shifts
+Rahul,27,Salaried,$75k-$100k,5,Single,Wealth Creation,Prefers homeopathic treatment
+Mrs. Iyer,59,Self-Employed,$100k+,1,Married w/ Kids,Retirement Savings,Works night shifts
+Sneha,53,Retired,$15k-$30k,4,Widowed,Tax Saving,Works night shifts
+Sunita,45,Salaried,$75k-$100k,3,Divorced,Wealth Creation,"Owns property, no liabilities"
+Riya,53,Self-Employed,$75k-$100k,4,Married w/ Spouse,Tax Saving,Works night shifts
+Sneha,33,Business Owner,$15k-$30k,1,Single,Tax Saving,Works night shifts
+Mrs. Iyer,61,Self-Employed,$50k-$75k,2,Married w/ Spouse,Tax Saving,"Frequent flyer, international travel"
+Sneha,28,Retired,$100k+,4,Widowed,Health Coverage,Works night shifts
+Priya,48,Salaried,$30k-$50k,4,Widowed,Retirement Savings,"Owns a car, travels frequently"
+Mr. Dutta,53,Retired,$30k-$50k,3,Divorced,Tax Saving,"Frequent flyer, international travel"
+Ankit,55,Self-Employed,$30k-$50k,2,Divorced,Retirement Savings,"Sedentary lifestyle, chronic illness"
+Mrs. Iyer,63,Business Owner,$15k-$30k,1,Married w/ Spouse,Retirement Savings,"Pet owner, active lifestyle"
+Priya,35,Business Owner,$15k-$30k,5,Divorced,Wealth Creation,"Sedentary lifestyle, chronic illness"
+Mrs. Iyer,29,Business Owner,$15k-$30k,5,Single,Child Education Fund,"Health-conscious, gym member"
+Sunita,44,Self-Employed,$75k-$100k,3,Single,Retirement Savings,Works night shifts
+Ankit,46,Self-Employed,$75k-$100k,2,Married w/ Spouse,Tax Saving,"Owns a car, travels frequently"
+Mr. Dutta,51,Self-Employed,$30k-$50k,2,Divorced,Tax Saving,"Frequent flyer, international travel"
+Arjun,57,Business Owner,$50k-$75k,1,Divorced,Retirement Savings,"Sedentary lifestyle, chronic illness"
+Ankit,55,Salaried,$30k-$50k,2,Widowed,Health Coverage,"Sedentary lifestyle, chronic illness"
+Rahul,30,Retired,$100k+,4,Single,Tax Saving,Works night shifts
+Riya,37,Self-Employed,$15k-$30k,2,Single,Wealth Creation,"Sedentary lifestyle, chronic illness"
+Priya,51,Retired,$30k-$50k,4,Divorced,Wealth Creation,"Frequent flyer, international travel"
+Arjun,24,Salaried,$75k-$100k,5,Widowed,Tax Saving,"Sedentary lifestyle, chronic illness"
+Mr. Dutta,41,Self-Employed,$30k-$50k,4,Single,Retirement Savings,"Frequent flyer, international travel"
+Sneha,46,Salaried,$30k-$50k,3,Divorced,Child Education Fund,Lives in joint family
+Ankit,30,Self-Employed,$30k-$50k,4,Married w/ Spouse,Retirement Savings,Lives in joint family
+Priya,54,Business Owner,$50k-$75k,3,Single,Retirement Savings,Prefers homeopathic treatment
+Rahul,62,Retired,$100k+,5,Single,Wealth Creation,Lives in joint family
+Mr. Dutta,29,Retired,$15k-$30k,2,Divorced,Health Coverage,Works night shifts
+Ankit,50,Salaried,$15k-$30k,3,Divorced,Health Coverage,"Smoker, high stress job"
+Arjun,45,Self-Employed,$100k+,4,Single,Wealth Creation,"Sedentary lifestyle, chronic illness"
+Mr. Dutta,47,Self-Employed,$30k-$50k,5,Divorced,Wealth Creation,"Sedentary lifestyle, chronic illness"
+Sunita,37,Salaried,$50k-$75k,2,Widowed,Retirement Savings,Works night shifts
+Mrs. Iyer,35,Business Owner,$75k-$100k,4,Divorced,Health Coverage,"Owns property, no liabilities"
+Rahul,27,Retired,$50k-$75k,2,Married w/ Spouse,Health Coverage,"Owns a car, travels frequently"
+Riya,58,Salaried,$15k-$30k,3,Widowed,Tax Saving,"Health-conscious, gym member"
+Sneha,64,Self-Employed,$15k-$30k,2,Single,Tax Saving,"Health-conscious, gym member"
+Amit,23,Business Owner,$30k-$50k,5,Married w/ Spouse,Tax Saving,"Sedentary lifestyle, chronic illness"
+Sunita,52,Business Owner,$30k-$50k,4,Single,Wealth Creation,"Frequent flyer, international travel"
+Riya,49,Retired,$30k-$50k,2,Single,Health Coverage,Lives in joint family
+Priya,42,Self-Employed,$100k+,3,Single,Health Coverage,"Smoker, high stress job"
+Sneha,42,Retired,$100k+,4,Married w/ Kids,Wealth Creation,Prefers homeopathic treatment
+Amit,56,Self-Employed,$50k-$75k,1,Married w/ Kids,Tax Saving,"Owns a car, travels frequently"
+Sunita,59,Salaried,$30k-$50k,3,Married w/ Spouse,Retirement Savings,Lives in joint family
+Sunita,52,Self-Employed,$100k+,2,Widowed,Retirement Savings,"Owns property, no liabilities"
+Riya,27,Retired,$50k-$75k,5,Single,Child Education Fund,Lives in joint family
+Rahul,51,Self-Employed,$75k-$100k,5,Married w/ Spouse,Wealth Creation,"Frequent flyer, international travel"
+Arjun,25,Business Owner,$15k-$30k,1,Divorced,Tax Saving,"Owns property, no liabilities"
+Amit,29,Retired,$75k-$100k,5,Widowed,Tax Saving,"Health-conscious, gym member"
+Ankit,61,Business Owner,$100k+,3,Married w/ Kids,Child Education Fund,Lives in joint family
+Sunita,30,Business Owner,$100k+,5,Widowed,Child Education Fund,"Smoker, high stress job"
+Mr. Dutta,23,Salaried,$15k-$30k,1,Single,Tax Saving,"Pet owner, active lifestyle"
+Priya,38,Retired,$30k-$50k,5,Married w/ Kids,Retirement Savings,"Pet owner, active lifestyle"
+Rahul,53,Salaried,$15k-$30k,5,Married w/ Spouse,Child Education Fund,Works night shifts
+Riya,44,Retired,$100k+,5,Married w/ Kids,Wealth Creation,"Owns property, no liabilities"
+Mrs. Iyer,42,Self-Employed,$15k-$30k,1,Widowed,Child Education Fund,Prefers homeopathic treatment
+Priya,25,Retired,$75k-$100k,1,Married w/ Kids,Wealth Creation,"Pet owner, active lifestyle"
+Amit,42,Retired,$75k-$100k,1,Married w/ Spouse,Retirement Savings,"Owns a car, travels frequently"
+Ankit,53,Salaried,$15k-$30k,3,Divorced,Retirement Savings,"Sedentary lifestyle, chronic illness"
+Ankit,30,Business Owner,$15k-$30k,3,Widowed,Tax Saving,"Frequent flyer, international travel"
+Amit,26,Business Owner,$75k-$100k,2,Single,Tax Saving,"Owns property, no liabilities"
+Arjun,58,Self-Employed,$15k-$30k,5,Married w/ Kids,Health Coverage,"Pet owner, active lifestyle"
+Amit,64,Salaried,$30k-$50k,3,Single,Wealth Creation,"Smoker, high stress job"
+Mrs. Iyer,60,Salaried,$30k-$50k,4,Married w/ Spouse,Tax Saving,"Frequent flyer, international travel"
+Amit,27,Self-Employed,$75k-$100k,5,Married w/ Spouse,Child Education Fund,Lives in joint family
+Sneha,40,Retired,$50k-$75k,1,Single,Retirement Savings,"Owns a car, travels frequently"
+Priya,55,Self-Employed,$15k-$30k,3,Married w/ Kids,Health Coverage,Lives in joint family
+Amit,33,Business Owner,$15k-$30k,2,Married w/ Kids,Health Coverage,Works night shifts
+Amit,55,Self-Employed,$50k-$75k,4,Married w/ Spouse,Retirement Savings,"Owns property, no liabilities"
+Sneha,62,Business Owner,$50k-$75k,3,Single,Wealth Creation,Prefers homeopathic treatment
+Sneha,44,Self-Employed,$100k+,1,Widowed,Wealth Creation,Works night shifts
+Amit,43,Business Owner,$100k+,2,Married w/ Kids,Wealth Creation,Works night shifts
+Sunita,41,Self-Employed,$30k-$50k,2,Widowed,Tax Saving,"Frequent flyer, international travel"
+Riya,55,Salaried,$75k-$100k,4,Married w/ Spouse,Wealth Creation,"Sedentary lifestyle, chronic illness"
+Mr. Dutta,50,Retired,$15k-$30k,1,Divorced,Tax Saving,Prefers homeopathic treatment
+Arjun,37,Business Owner,$75k-$100k,1,Married w/ Spouse,Child Education Fund,Works night shifts
+Sunita,25,Retired,$50k-$75k,1,Married w/ Spouse,Tax Saving,"Owns property, no liabilities"
+Mr. Dutta,22,Salaried,$100k+,3,Married w/ Spouse,Health Coverage,"Pet owner, active lifestyle"
+Arjun,61,Retired,$30k-$50k,4,Divorced,Child Education Fund,"Owns a car, travels frequently"
+Mr. Dutta,30,Retired,$100k+,4,Married w/ Spouse,Health Coverage,"Pet owner, active lifestyle"
+Sneha,45,Business Owner,$50k-$75k,1,Married w/ Kids,Child Education Fund,Lives in joint family
+Rahul,33,Business Owner,$30k-$50k,3,Divorced,Tax Saving,"Health-conscious, gym member"
+Priya,33,Retired,$75k-$100k,2,Married w/ Kids,Child Education Fund,"Frequent flyer, international travel"
+Amit,22,Retired,$50k-$75k,5,Widowed,Retirement Savings,"Pet owner, active lifestyle"
+Riya,62,Self-Employed,$30k-$50k,5,Divorced,Child Education Fund,"Smoker, high stress job"
+Mrs. Iyer,56,Salaried,$15k-$30k,4,Single,Child Education Fund,Works night shifts
+Ankit,38,Self-Employed,$15k-$30k,1,Married w/ Kids,Retirement Savings,"Health-conscious, gym member"
+Riya,59,Salaried,$50k-$75k,2,Married w/ Spouse,Tax Saving,"Frequent flyer, international travel"
+Arjun,61,Business Owner,$100k+,5,Widowed,Wealth Creation,Prefers homeopathic treatment
+Rahul,23,Business Owner,$100k+,4,Single,Tax Saving,"Owns property, no liabilities"
+Rahul,33,Retired,$100k+,2,Divorced,Tax Saving,"Owns a car, travels frequently"
+Riya,53,Retired,$15k-$30k,3,Married w/ Spouse,Child Education Fund,"Owns a car, travels frequently"
+Mr. Dutta,51,Self-Employed,$30k-$50k,4,Widowed,Tax Saving,Prefers homeopathic treatment
+Arjun,60,Business Owner,$30k-$50k,1,Widowed,Retirement Savings,"Owns property, no liabilities"
+Priya,33,Business Owner,$100k+,5,Divorced,Child Education Fund,Prefers homeopathic treatment
+Riya,45,Retired,$15k-$30k,1,Widowed,Wealth Creation,"Sedentary lifestyle, chronic illness"
+Mrs. Iyer,33,Self-Employed,$75k-$100k,1,Married w/ Spouse,Tax Saving,"Smoker, high stress job"
+Sneha,54,Salaried,$100k+,3,Widowed,Retirement Savings,"Health-conscious, gym member"
+Mr. Dutta,64,Business Owner,$75k-$100k,3,Single,Wealth Creation,Lives in joint family
+Riya,64,Salaried,$100k+,2,Married w/ Kids,Child Education Fund,"Owns a car, travels frequently"
+Mr. Dutta,52,Business Owner,$100k+,2,Widowed,Health Coverage,"Frequent flyer, international travel"
+Arjun,40,Self-Employed,$75k-$100k,1,Married w/ Kids,Health Coverage,"Owns property, no liabilities"
+Mr. Dutta,36,Business Owner,$50k-$75k,1,Married w/ Kids,Wealth Creation,Prefers homeopathic treatment
+Mrs. Iyer,49,Business Owner,$30k-$50k,2,Married w/ Kids,Child Education Fund,Works night shifts
+Riya,22,Retired,$75k-$100k,3,Divorced,Wealth Creation,"Pet owner, active lifestyle"
+Ankit,55,Salaried,$75k-$100k,3,Single,Wealth Creation,"Owns a car, travels frequently"
+Arjun,34,Self-Employed,$75k-$100k,4,Married w/ Kids,Tax Saving,"Pet owner, active lifestyle"
+Amit,29,Business Owner,$50k-$75k,2,Married w/ Spouse,Tax Saving,"Smoker, high stress job"
+Mr. Dutta,23,Retired,$15k-$30k,2,Married w/ Spouse,Retirement Savings,"Frequent flyer, international travel"
+Mrs. Iyer,48,Salaried,$75k-$100k,2,Single,Health Coverage,Prefers homeopathic treatment
+Sneha,28,Business Owner,$30k-$50k,2,Married w/ Spouse,Tax Saving,Lives in joint family
+Sneha,62,Self-Employed,$75k-$100k,2,Married w/ Spouse,Retirement Savings,"Health-conscious, gym member"
+Amit,62,Salaried,$30k-$50k,4,Widowed,Wealth Creation,"Owns property, no liabilities"
+Amit,30,Salaried,$75k-$100k,2,Divorced,Retirement Savings,"Smoker, high stress job"
+Sneha,27,Retired,$50k-$75k,5,Divorced,Wealth Creation,"Frequent flyer, international travel"
+Mr. Dutta,29,Business Owner,$75k-$100k,1,Married w/ Kids,Health Coverage,"Frequent flyer, international travel"
+Sneha,53,Retired,$15k-$30k,3,Divorced,Child Education Fund,"Frequent flyer, international travel"
+Sunita,60,Salaried,$50k-$75k,4,Single,Health Coverage,"Frequent flyer, international travel"
+Priya,30,Business Owner,$100k+,2,Widowed,Health Coverage,Prefers homeopathic treatment
+Amit,22,Salaried,$30k-$50k,4,Married w/ Spouse,Tax Saving,Prefers homeopathic treatment
+Priya,53,Retired,$30k-$50k,1,Married w/ Spouse,Retirement Savings,"Owns property, no liabilities"
+Amit,38,Retired,$15k-$30k,1,Widowed,Child Education Fund,"Owns property, no liabilities"
+Amit,62,Retired,$100k+,1,Married w/ Kids,Wealth Creation,"Pet owner, active lifestyle"
+Rahul,48,Self-Employed,$15k-$30k,5,Married w/ Spouse,Wealth Creation,Works night shifts
+Riya,48,Retired,$30k-$50k,4,Divorced,Health Coverage,"Smoker, high stress job"
+Amit,44,Retired,$75k-$100k,3,Single,Health Coverage,Lives in joint family
+Rahul,29,Self-Employed,$100k+,3,Divorced,Retirement Savings,Works night shifts
+Mrs. Iyer,50,Self-Employed,$100k+,2,Widowed,Child Education Fund,"Owns property, no liabilities"
+Ankit,42,Salaried,$15k-$30k,3,Single,Child Education Fund,"Pet owner, active lifestyle"
+Rahul,50,Salaried,$30k-$50k,2,Divorced,Health Coverage,"Sedentary lifestyle, chronic illness"
+Sunita,31,Salaried,$30k-$50k,4,Married w/ Kids,Retirement Savings,"Smoker, high stress job"
+Mr. Dutta,40,Self-Employed,$100k+,4,Single,Child Education Fund,Prefers homeopathic treatment
+Sunita,26,Salaried,$30k-$50k,2,Married w/ Kids,Tax Saving,Prefers homeopathic treatment
+Ankit,42,Business Owner,$100k+,4,Married w/ Kids,Retirement Savings,"Sedentary lifestyle, chronic illness"
+Riya,51,Retired,$75k-$100k,5,Widowed,Tax Saving,Works night shifts
+Priya,39,Salaried,$75k-$100k,4,Married w/ Spouse,Retirement Savings,"Sedentary lifestyle, chronic illness"
+Mrs. Iyer,28,Salaried,$100k+,1,Married w/ Spouse,Child Education Fund,"Frequent flyer, international travel"
+Mrs. Iyer,24,Retired,$50k-$75k,3,Single,Retirement Savings,"Frequent flyer, international travel"
+Mr. Dutta,41,Retired,$50k-$75k,1,Married w/ Kids,Health Coverage,"Sedentary lifestyle, chronic illness"
+Ankit,63,Retired,$100k+,1,Widowed,Child Education Fund,"Owns property, no liabilities"
+Arjun,49,Salaried,$75k-$100k,2,Divorced,Tax Saving,"Smoker, high stress job"
+Mrs. Iyer,42,Retired,$15k-$30k,5,Married w/ Spouse,Wealth Creation,"Health-conscious, gym member"
+Arjun,52,Retired,$15k-$30k,5,Single,Wealth Creation,"Owns property, no liabilities"
+Mr. Dutta,42,Retired,$100k+,5,Single,Retirement Savings,Works night shifts
+Sunita,57,Salaried,$30k-$50k,4,Married w/ Spouse,Health Coverage,"Owns a car, travels frequently"
+Mr. Dutta,35,Business Owner,$100k+,5,Divorced,Retirement Savings,Works night shifts
+Mr. Dutta,30,Salaried,$30k-$50k,3,Single,Health Coverage,"Health-conscious, gym member"
+Ankit,25,Retired,$75k-$100k,2,Single,Wealth Creation,Lives in joint family
+Mrs. Iyer,33,Salaried,$75k-$100k,2,Single,Retirement Savings,"Frequent flyer, international travel"
+Mrs. Iyer,35,Retired,$100k+,3,Married w/ Kids,Retirement Savings,Prefers homeopathic treatment
+Mrs. Iyer,31,Salaried,$15k-$30k,5,Divorced,Child Education Fund,"Sedentary lifestyle, chronic illness"
+Ankit,53,Retired,$30k-$50k,3,Divorced,Health Coverage,Lives in joint family
+Amit,35,Salaried,$50k-$75k,3,Widowed,Retirement Savings,Prefers homeopathic treatment
+Amit,57,Self-Employed,$100k+,4,Divorced,Retirement Savings,"Frequent flyer, international travel"
+Mrs. Iyer,62,Retired,$15k-$30k,2,Married w/ Spouse,Retirement Savings,"Frequent flyer, international travel"
+Sunita,46,Retired,$50k-$75k,5,Married w/ Kids,Retirement Savings,"Owns a car, travels frequently"
+Amit,53,Business Owner,$100k+,4,Divorced,Child Education Fund,"Owns property, no liabilities"
+Mrs. Iyer,58,Self-Employed,$50k-$75k,4,Divorced,Health Coverage,Prefers homeopathic treatment
+Amit,64,Retired,$15k-$30k,2,Single,Child Education Fund,"Smoker, high stress job"
+Amit,59,Salaried,$15k-$30k,3,Single,Wealth Creation,"Health-conscious, gym member"
+Mrs. Iyer,28,Self-Employed,$50k-$75k,3,Single,Health Coverage,"Frequent flyer, international travel"
+Arjun,47,Business Owner,$75k-$100k,1,Divorced,Tax Saving,"Sedentary lifestyle, chronic illness"
+Amit,60,Self-Employed,$50k-$75k,3,Divorced,Child Education Fund,"Sedentary lifestyle, chronic illness"
+Sunita,38,Retired,$75k-$100k,1,Single,Health Coverage,Works night shifts
+Mr. Dutta,35,Salaried,$75k-$100k,1,Divorced,Health Coverage,"Smoker, high stress job"
+Riya,41,Self-Employed,$30k-$50k,4,Widowed,Tax Saving,"Health-conscious, gym member"
+Sneha,25,Salaried,$50k-$75k,4,Single,Wealth Creation,"Pet owner, active lifestyle"
+Riya,29,Salaried,$15k-$30k,1,Widowed,Wealth Creation,"Pet owner, active lifestyle"
+Amit,46,Business Owner,$15k-$30k,2,Married w/ Kids,Health Coverage,Works night shifts
+Mr. Dutta,63,Salaried,$50k-$75k,2,Divorced,Health Coverage,"Sedentary lifestyle, chronic illness"
+Sneha,51,Business Owner,$50k-$75k,2,Married w/ Spouse,Retirement Savings,"Owns a car, travels frequently"
+Rahul,46,Salaried,$30k-$50k,4,Widowed,Wealth Creation,"Pet owner, active lifestyle"
+Rahul,22,Retired,$75k-$100k,1,Single,Child Education Fund,"Owns a car, travels frequently"
+Sneha,56,Salaried,$50k-$75k,5,Single,Child Education Fund,Works night shifts
+Arjun,29,Retired,$50k-$75k,1,Single,Health Coverage,"Smoker, high stress job"
+Priya,44,Salaried,$30k-$50k,2,Widowed,Retirement Savings,"Frequent flyer, international travel"
+Priya,42,Business Owner,$30k-$50k,3,Widowed,Wealth Creation,"Pet owner, active lifestyle"
+Amit,40,Salaried,$100k+,5,Married w/ Kids,Wealth Creation,"Frequent flyer, international travel"
+Ankit,52,Retired,$50k-$75k,5,Married w/ Kids,Retirement Savings,Works night shifts
+Mrs. Iyer,62,Retired,$50k-$75k,2,Divorced,Tax Saving,"Sedentary lifestyle, chronic illness"
+Ankit,31,Business Owner,$50k-$75k,1,Divorced,Child Education Fund,Lives in joint family
+Mr. Dutta,41,Business Owner,$50k-$75k,1,Married w/ Spouse,Child Education Fund,Lives in joint family
+Rahul,30,Retired,$15k-$30k,5,Divorced,Retirement Savings,"Owns property, no liabilities"
+Sunita,22,Salaried,$75k-$100k,3,Married w/ Spouse,Retirement Savings,"Pet owner, active lifestyle"
+Arjun,58,Business Owner,$30k-$50k,3,Divorced,Tax Saving,Lives in joint family
+Amit,40,Business Owner,$100k+,5,Married w/ Spouse,Tax Saving,"Health-conscious, gym member"
+Mr. Dutta,58,Retired,$15k-$30k,3,Single,Child Education Fund,"Frequent flyer, international travel"
+Mr. Dutta,41,Self-Employed,$30k-$50k,4,Married w/ Kids,Wealth Creation,"Smoker, high stress job"
+Ankit,64,Self-Employed,$30k-$50k,3,Divorced,Wealth Creation,"Smoker, high stress job"
+Sunita,25,Self-Employed,$50k-$75k,4,Single,Child Education Fund,Prefers homeopathic treatment
+Sneha,36,Salaried,$30k-$50k,3,Widowed,Wealth Creation,"Frequent flyer, international travel"
+Sneha,58,Self-Employed,$30k-$50k,2,Widowed,Retirement Savings,Prefers homeopathic treatment
+Arjun,39,Salaried,$50k-$75k,3,Widowed,Retirement Savings,Lives in joint family
+Ankit,33,Retired,$75k-$100k,4,Widowed,Retirement Savings,"Frequent flyer, international travel"
+Arjun,35,Salaried,$100k+,2,Divorced,Tax Saving,"Sedentary lifestyle, chronic illness"
+Ankit,63,Salaried,$30k-$50k,4,Married w/ Spouse,Child Education Fund,"Owns a car, travels frequently"
+Sneha,23,Self-Employed,$50k-$75k,3,Married w/ Kids,Child Education Fund,"Pet owner, active lifestyle"
+Sneha,42,Salaried,$75k-$100k,3,Divorced,Retirement Savings,"Frequent flyer, international travel"
+Ankit,48,Self-Employed,$100k+,1,Divorced,Retirement Savings,"Frequent flyer, international travel"
+Sunita,26,Retired,$15k-$30k,5,Single,Tax Saving,Works night shifts
+Amit,64,Business Owner,$30k-$50k,3,Married w/ Spouse,Wealth Creation,"Owns a car, travels frequently"
+Mrs. Iyer,29,Retired,$100k+,4,Married w/ Kids,Child Education Fund,Works night shifts
+Riya,33,Self-Employed,$50k-$75k,2,Married w/ Spouse,Tax Saving,"Frequent flyer, international travel"
+Sneha,52,Self-Employed,$15k-$30k,1,Married w/ Spouse,Tax Saving,"Owns property, no liabilities"
+Ankit,34,Business Owner,$100k+,2,Single,Tax Saving,"Health-conscious, gym member"
+Sneha,37,Self-Employed,$15k-$30k,5,Divorced,Health Coverage,"Smoker, high stress job"
+Amit,27,Self-Employed,$30k-$50k,5,Divorced,Tax Saving,"Owns property, no liabilities"
+Amit,61,Retired,$30k-$50k,4,Widowed,Retirement Savings,"Sedentary lifestyle, chronic illness"
+Riya,28,Salaried,$15k-$30k,2,Married w/ Spouse,Retirement Savings,"Smoker, high stress job"
+Rahul,43,Business Owner,$50k-$75k,1,Widowed,Health Coverage,"Frequent flyer, international travel"
+Riya,24,Business Owner,$15k-$30k,3,Divorced,Child Education Fund,"Pet owner, active lifestyle"
+Arjun,48,Business Owner,$100k+,2,Widowed,Retirement Savings,"Owns a car, travels frequently"
+Riya,33,Self-Employed,$75k-$100k,3,Married w/ Kids,Wealth Creation,"Pet owner, active lifestyle"
+Arjun,41,Retired,$50k-$75k,5,Single,Retirement Savings,"Owns property, no liabilities"
+Rahul,50,Salaried,$15k-$30k,4,Married w/ Spouse,Retirement Savings,Works night shifts
+Rahul,47,Retired,$100k+,5,Married w/ Spouse,Child Education Fund,"Pet owner, active lifestyle"
+Mrs. Iyer,25,Salaried,$30k-$50k,1,Married w/ Kids,Tax Saving,"Pet owner, active lifestyle"
+Sunita,41,Business Owner,$100k+,4,Married w/ Spouse,Wealth Creation,"Sedentary lifestyle, chronic illness"
+Rahul,23,Salaried,$100k+,1,Single,Child Education Fund,"Smoker, high stress job"
+Riya,61,Salaried,$100k+,2,Married w/ Spouse,Retirement Savings,"Smoker, high stress job"
+Sunita,37,Business Owner,$50k-$75k,5,Widowed,Tax Saving,"Frequent flyer, international travel"
+Rahul,23,Retired,$30k-$50k,2,Married w/ Kids,Retirement Savings,"Health-conscious, gym member"
+Arjun,37,Retired,$15k-$30k,5,Single,Tax Saving,Prefers homeopathic treatment
+Priya,61,Salaried,$100k+,4,Married w/ Kids,Health Coverage,"Sedentary lifestyle, chronic illness"
+Amit,49,Self-Employed,$50k-$75k,5,Married w/ Kids,Health Coverage,"Frequent flyer, international travel"
+Sunita,28,Salaried,$15k-$30k,5,Single,Health Coverage,"Owns a car, travels frequently"
+Arjun,40,Business Owner,$75k-$100k,2,Divorced,Tax Saving,"Sedentary lifestyle, chronic illness"
+Riya,54,Salaried,$100k+,1,Widowed,Wealth Creation,Prefers homeopathic treatment
+Sneha,29,Business Owner,$75k-$100k,5,Single,Health Coverage,"Sedentary lifestyle, chronic illness"
+Mrs. Iyer,48,Business Owner,$15k-$30k,3,Single,Tax Saving,"Health-conscious, gym member"
+Rahul,26,Salaried,$100k+,4,Married w/ Kids,Wealth Creation,"Sedentary lifestyle, chronic illness"
+Mrs. Iyer,51,Retired,$30k-$50k,3,Married w/ Spouse,Wealth Creation,Works night shifts
+Mrs. Iyer,56,Business Owner,$50k-$75k,4,Married w/ Kids,Wealth Creation,Works night shifts
+Mrs. Iyer,62,Salaried,$75k-$100k,1,Widowed,Child Education Fund,Prefers homeopathic treatment
+Mr. Dutta,45,Business Owner,$15k-$30k,2,Widowed,Child Education Fund,"Pet owner, active lifestyle"
+Arjun,39,Self-Employed,$15k-$30k,3,Married w/ Spouse,Health Coverage,Lives in joint family
+Priya,33,Retired,$30k-$50k,1,Divorced,Health Coverage,"Sedentary lifestyle, chronic illness"
+Rahul,27,Self-Employed,$75k-$100k,2,Married w/ Spouse,Retirement Savings,Works night shifts
+Ankit,33,Business Owner,$100k+,5,Married w/ Kids,Tax Saving,"Owns property, no liabilities"
+Amit,52,Self-Employed,$100k+,1,Married w/ Kids,Child Education Fund,"Sedentary lifestyle, chronic illness"
+Mr. Dutta,46,Self-Employed,$50k-$75k,4,Divorced,Child Education Fund,Prefers homeopathic treatment
+Riya,58,Salaried,$30k-$50k,1,Divorced,Tax Saving,Lives in joint family
+Mr. Dutta,47,Salaried,$50k-$75k,5,Widowed,Health Coverage,Lives in joint family
+Ankit,35,Business Owner,$100k+,3,Married w/ Spouse,Wealth Creation,"Sedentary lifestyle, chronic illness"
+Rahul,55,Self-Employed,$50k-$75k,3,Divorced,Child Education Fund,"Sedentary lifestyle, chronic illness"
+Sneha,59,Salaried,$100k+,4,Divorced,Retirement Savings,"Smoker, high stress job"
+Mr. Dutta,54,Business Owner,$100k+,1,Married w/ Spouse,Tax Saving,Works night shifts
+Sunita,55,Salaried,$15k-$30k,1,Single,Tax Saving,"Health-conscious, gym member"
+Mrs. Iyer,23,Self-Employed,$15k-$30k,3,Married w/ Spouse,Wealth Creation,"Owns a car, travels frequently"
+Mrs. Iyer,34,Business Owner,$30k-$50k,2,Single,Retirement Savings,"Owns a car, travels frequently"
+Mr. Dutta,38,Salaried,$75k-$100k,2,Married w/ Kids,Wealth Creation,"Owns a car, travels frequently"
+Mrs. Iyer,24,Retired,$30k-$50k,1,Married w/ Kids,Retirement Savings,"Frequent flyer, international travel"
+Arjun,42,Salaried,$100k+,1,Married w/ Spouse,Retirement Savings,"Sedentary lifestyle, chronic illness"
+Rahul,57,Salaried,$15k-$30k,1,Divorced,Wealth Creation,"Pet owner, active lifestyle"
+Rahul,32,Business Owner,$75k-$100k,4,Married w/ Spouse,Retirement Savings,Works night shifts
+Rahul,63,Retired,$100k+,3,Married w/ Spouse,Wealth Creation,"Owns property, no liabilities"
+Rahul,61,Self-Employed,$75k-$100k,4,Married w/ Kids,Health Coverage,"Health-conscious, gym member"
+Sneha,31,Retired,$15k-$30k,4,Married w/ Kids,Tax Saving,"Owns property, no liabilities"
+Arjun,34,Self-Employed,$15k-$30k,3,Single,Retirement Savings,"Pet owner, active lifestyle"
+Priya,62,Salaried,$15k-$30k,3,Single,Child Education Fund,Prefers homeopathic treatment
+Priya,41,Business Owner,$15k-$30k,3,Widowed,Child Education Fund,"Owns property, no liabilities"
+Mr. Dutta,59,Self-Employed,$15k-$30k,5,Single,Tax Saving,"Health-conscious, gym member"
+Sunita,26,Self-Employed,$50k-$75k,4,Married w/ Kids,Retirement Savings,"Health-conscious, gym member"
+Amit,32,Salaried,$30k-$50k,1,Single,Retirement Savings,"Frequent flyer, international travel"
+Riya,52,Salaried,$75k-$100k,5,Married w/ Spouse,Wealth Creation,"Sedentary lifestyle, chronic illness"
+Ankit,49,Self-Employed,$15k-$30k,1,Married w/ Kids,Wealth Creation,"Frequent flyer, international travel"
+Amit,58,Business Owner,$30k-$50k,5,Single,Wealth Creation,Lives in joint family
+Mrs. Iyer,61,Self-Employed,$75k-$100k,5,Single,Child Education Fund,"Sedentary lifestyle, chronic illness"
+Arjun,29,Business Owner,$15k-$30k,1,Married w/ Kids,Wealth Creation,Works night shifts
+Sneha,44,Self-Employed,$100k+,5,Widowed,Child Education Fund,"Smoker, high stress job"
+Sunita,31,Business Owner,$75k-$100k,1,Widowed,Wealth Creation,"Health-conscious, gym member"
+Sunita,47,Self-Employed,$15k-$30k,4,Married w/ Spouse,Health Coverage,"Owns a car, travels frequently"
+Sunita,36,Business Owner,$30k-$50k,3,Married w/ Spouse,Retirement Savings,"Owns a car, travels frequently"
+Mr. Dutta,49,Business Owner,$50k-$75k,5,Widowed,Health Coverage,Works night shifts
+Riya,57,Salaried,$30k-$50k,3,Divorced,Child Education Fund,Lives in joint family
+Sunita,63,Business Owner,$75k-$100k,3,Divorced,Child Education Fund,Works night shifts
+Mrs. Iyer,26,Retired,$30k-$50k,2,Widowed,Wealth Creation,"Health-conscious, gym member"
+Arjun,63,Business Owner,$15k-$30k,4,Widowed,Child Education Fund,Works night shifts
+Arjun,63,Retired,$75k-$100k,3,Married w/ Kids,Tax Saving,"Health-conscious, gym member"
+Ankit,50,Business Owner,$15k-$30k,3,Married w/ Spouse,Wealth Creation,"Frequent flyer, international travel"
+Amit,59,Self-Employed,$15k-$30k,4,Divorced,Tax Saving,Lives in joint family
+Riya,62,Retired,$75k-$100k,4,Married w/ Spouse,Retirement Savings,Lives in joint family
+Arjun,50,Self-Employed,$50k-$75k,1,Single,Tax Saving,"Owns property, no liabilities"
+Mr. Dutta,38,Retired,$50k-$75k,3,Divorced,Wealth Creation,"Owns a car, travels frequently"
+Mrs. Iyer,43,Self-Employed,$100k+,2,Widowed,Tax Saving,Prefers homeopathic treatment
+Priya,43,Retired,$100k+,1,Widowed,Wealth Creation,"Smoker, high stress job"
+Amit,62,Business Owner,$30k-$50k,2,Widowed,Health Coverage,"Smoker, high stress job"
+Sunita,53,Retired,$50k-$75k,2,Married w/ Spouse,Retirement Savings,"Frequent flyer, international travel"
+Arjun,29,Retired,$50k-$75k,4,Widowed,Tax Saving,"Frequent flyer, international travel"
+Priya,55,Salaried,$15k-$30k,4,Single,Health Coverage,"Owns property, no liabilities"
+Riya,46,Salaried,$15k-$30k,2,Single,Tax Saving,"Pet owner, active lifestyle"
+Mrs. Iyer,50,Retired,$15k-$30k,4,Married w/ Spouse,Health Coverage,Lives in joint family
+Rahul,64,Salaried,$75k-$100k,2,Married w/ Kids,Wealth Creation,"Owns a car, travels frequently"
+Mr. Dutta,49,Business Owner,$75k-$100k,1,Married w/ Spouse,Child Education Fund,Prefers homeopathic treatment
+Arjun,29,Salaried,$30k-$50k,4,Single,Child Education Fund,"Owns property, no liabilities"
+Ankit,37,Business Owner,$50k-$75k,5,Single,Retirement Savings,"Frequent flyer, international travel"
+Ankit,46,Salaried,$15k-$30k,2,Widowed,Child Education Fund,Lives in joint family
+Rahul,62,Self-Employed,$30k-$50k,1,Married w/ Spouse,Child Education Fund,"Sedentary lifestyle, chronic illness"
+Rahul,25,Self-Employed,$30k-$50k,5,Married w/ Spouse,Child Education Fund,"Pet owner, active lifestyle"
+Amit,59,Business Owner,$30k-$50k,4,Single,Retirement Savings,Prefers homeopathic treatment
+Amit,32,Salaried,$50k-$75k,2,Single,Wealth Creation,"Frequent flyer, international travel"
+Sunita,51,Salaried,$75k-$100k,2,Widowed,Retirement Savings,"Owns property, no liabilities"
+Ankit,60,Self-Employed,$75k-$100k,2,Single,Tax Saving,Works night shifts
+Ankit,48,Self-Employed,$50k-$75k,2,Married w/ Kids,Retirement Savings,"Frequent flyer, international travel"
+Sunita,28,Business Owner,$75k-$100k,1,Married w/ Kids,Health Coverage,"Owns property, no liabilities"
+Amit,53,Business Owner,$50k-$75k,1,Single,Health Coverage,"Health-conscious, gym member"
+Arjun,45,Salaried,$30k-$50k,5,Married w/ Kids,Health Coverage,Prefers homeopathic treatment
+Mr. Dutta,54,Retired,$100k+,2,Married w/ Kids,Health Coverage,"Health-conscious, gym member"
+Sunita,43,Retired,$30k-$50k,2,Divorced,Tax Saving,"Smoker, high stress job"
+Mr. Dutta,57,Salaried,$15k-$30k,3,Married w/ Spouse,Child Education Fund,"Smoker, high stress job"
+Rahul,46,Self-Employed,$30k-$50k,5,Widowed,Child Education Fund,"Frequent flyer, international travel"
+Priya,53,Salaried,$100k+,5,Widowed,Wealth Creation,"Health-conscious, gym member"
+Sunita,29,Business Owner,$30k-$50k,4,Divorced,Health Coverage,"Frequent flyer, international travel"
+Amit,62,Business Owner,$30k-$50k,1,Single,Retirement Savings,Works night shifts
+Priya,60,Business Owner,$100k+,2,Divorced,Retirement Savings,"Owns property, no liabilities"
+Priya,41,Self-Employed,$30k-$50k,2,Married w/ Spouse,Child Education Fund,"Owns a car, travels frequently"
+Ankit,45,Business Owner,$75k-$100k,1,Widowed,Child Education Fund,Lives in joint family
+Mrs. Iyer,53,Self-Employed,$50k-$75k,4,Widowed,Wealth Creation,"Owns a car, travels frequently"
+Mr. Dutta,48,Self-Employed,$50k-$75k,2,Married w/ Spouse,Health Coverage,"Sedentary lifestyle, chronic illness"
+Sneha,29,Business Owner,$100k+,2,Married w/ Kids,Child Education Fund,"Sedentary lifestyle, chronic illness"
+Sunita,26,Retired,$50k-$75k,5,Widowed,Child Education Fund,"Frequent flyer, international travel"
+Rahul,62,Retired,$30k-$50k,1,Widowed,Wealth Creation,"Smoker, high stress job"
+Mr. Dutta,54,Self-Employed,$50k-$75k,1,Widowed,Health Coverage,Lives in joint family
+Ankit,44,Self-Employed,$15k-$30k,1,Married w/ Spouse,Child Education Fund,"Frequent flyer, international travel"
+Sneha,26,Business Owner,$15k-$30k,5,Divorced,Wealth Creation,"Health-conscious, gym member"
+Mrs. Iyer,50,Retired,$30k-$50k,5,Married w/ Kids,Health Coverage,"Smoker, high stress job"
+Sunita,60,Business Owner,$75k-$100k,2,Widowed,Health Coverage,"Frequent flyer, international travel"
+Sneha,27,Salaried,$30k-$50k,5,Married w/ Spouse,Wealth Creation,"Smoker, high stress job"
+Sunita,29,Self-Employed,$100k+,5,Married w/ Kids,Wealth Creation,"Owns a car, travels frequently"
+Sunita,38,Self-Employed,$30k-$50k,5,Widowed,Wealth Creation,Lives in joint family
+Mrs. Iyer,36,Self-Employed,$30k-$50k,4,Married w/ Kids,Child Education Fund,"Smoker, high stress job"
+Riya,22,Retired,$30k-$50k,4,Married w/ Kids,Child Education Fund,Works night shifts
+Mrs. Iyer,53,Business Owner,$100k+,5,Divorced,Wealth Creation,Prefers homeopathic treatment
+Rahul,33,Business Owner,$15k-$30k,3,Divorced,Retirement Savings,"Pet owner, active lifestyle"
+Priya,55,Self-Employed,$50k-$75k,2,Single,Tax Saving,Lives in joint family
+Arjun,26,Retired,$15k-$30k,1,Married w/ Kids,Child Education Fund,"Owns property, no liabilities"
+Amit,45,Retired,$75k-$100k,5,Divorced,Health Coverage,"Sedentary lifestyle, chronic illness"
+Sunita,61,Self-Employed,$30k-$50k,4,Married w/ Kids,Child Education Fund,"Frequent flyer, international travel"
+Rahul,31,Salaried,$75k-$100k,4,Single,Child Education Fund,"Health-conscious, gym member"
+Ankit,28,Business Owner,$100k+,2,Married w/ Kids,Wealth Creation,Works night shifts
+Mr. Dutta,63,Retired,$15k-$30k,2,Married w/ Spouse,Retirement Savings,Prefers homeopathic treatment
+Riya,58,Salaried,$50k-$75k,2,Single,Health Coverage,Prefers homeopathic treatment
+Sneha,25,Retired,$30k-$50k,2,Divorced,Retirement Savings,"Owns a car, travels frequently"
+Mr. Dutta,36,Self-Employed,$30k-$50k,2,Married w/ Spouse,Wealth Creation,"Owns property, no liabilities"
+Mr. Dutta,51,Retired,$50k-$75k,2,Divorced,Tax Saving,"Pet owner, active lifestyle"
+Amit,49,Self-Employed,$75k-$100k,1,Married w/ Kids,Health Coverage,Prefers homeopathic treatment
+Arjun,48,Salaried,$30k-$50k,1,Married w/ Kids,Health Coverage,Lives in joint family
+Sneha,45,Salaried,$100k+,4,Married w/ Kids,Health Coverage,"Owns property, no liabilities"
+Sneha,60,Retired,$75k-$100k,3,Divorced,Retirement Savings,Lives in joint family
+Riya,26,Salaried,$100k+,1,Divorced,Health Coverage,"Pet owner, active lifestyle"
+Amit,60,Salaried,$15k-$30k,1,Divorced,Health Coverage,Prefers homeopathic treatment
+Sneha,64,Self-Employed,$100k+,2,Divorced,Tax Saving,"Health-conscious, gym member"
+Sunita,53,Retired,$15k-$30k,5,Widowed,Tax Saving,"Owns a car, travels frequently"
+Amit,47,Salaried,$75k-$100k,5,Married w/ Kids,Health Coverage,Prefers homeopathic treatment
+Rahul,33,Self-Employed,$100k+,4,Divorced,Child Education Fund,"Sedentary lifestyle, chronic illness"
+Rahul,60,Salaried,$50k-$75k,3,Married w/ Spouse,Child Education Fund,"Frequent flyer, international travel"
+Amit,63,Business Owner,$100k+,2,Widowed,Tax Saving,"Sedentary lifestyle, chronic illness"
+Riya,57,Business Owner,$30k-$50k,4,Married w/ Spouse,Wealth Creation,"Smoker, high stress job"
+Ankit,53,Self-Employed,$15k-$30k,1,Married w/ Kids,Child Education Fund,"Owns a car, travels frequently"
+Riya,62,Retired,$30k-$50k,2,Married w/ Kids,Tax Saving,Lives in joint family
+Priya,40,Business Owner,$30k-$50k,5,Widowed,Tax Saving,Works night shifts
+Rahul,34,Business Owner,$75k-$100k,1,Married w/ Kids,Child Education Fund,Lives in joint family
+Riya,28,Retired,$75k-$100k,1,Married w/ Kids,Tax Saving,"Owns property, no liabilities"
+Sunita,23,Salaried,$15k-$30k,4,Widowed,Child Education Fund,"Health-conscious, gym member"
+Ankit,50,Business Owner,$50k-$75k,5,Widowed,Wealth Creation,"Sedentary lifestyle, chronic illness"
+Rahul,32,Salaried,$100k+,1,Single,Tax Saving,Lives in joint family
+Arjun,55,Self-Employed,$75k-$100k,4,Married w/ Spouse,Tax Saving,"Sedentary lifestyle, chronic illness"
+Arjun,52,Self-Employed,$100k+,4,Widowed,Child Education Fund,Works night shifts
+Rahul,54,Salaried,$75k-$100k,2,Married w/ Kids,Wealth Creation,Lives in joint family
+Priya,49,Salaried,$15k-$30k,3,Single,Wealth Creation,"Frequent flyer, international travel"
+Riya,43,Retired,$50k-$75k,1,Single,Child Education Fund,Lives in joint family
+Amit,51,Retired,$15k-$30k,3,Married w/ Spouse,Wealth Creation,Works night shifts
+Riya,41,Salaried,$30k-$50k,3,Divorced,Wealth Creation,"Pet owner, active lifestyle"
+Rahul,62,Business Owner,$15k-$30k,5,Divorced,Tax Saving,"Frequent flyer, international travel"
+Sneha,42,Salaried,$75k-$100k,3,Widowed,Health Coverage,Prefers homeopathic treatment
+Arjun,38,Retired,$75k-$100k,5,Single,Health Coverage,Lives in joint family
+Ankit,38,Self-Employed,$30k-$50k,2,Married w/ Kids,Health Coverage,"Smoker, high stress job"
+Sneha,31,Business Owner,$75k-$100k,1,Divorced,Child Education Fund,"Sedentary lifestyle, chronic illness"
+Riya,48,Business Owner,$75k-$100k,4,Divorced,Tax Saving,Works night shifts
+Riya,36,Retired,$30k-$50k,2,Widowed,Tax Saving,"Owns property, no liabilities"
+Rahul,49,Salaried,$15k-$30k,3,Divorced,Child Education Fund,Prefers homeopathic treatment
+Mr. Dutta,49,Salaried,$50k-$75k,4,Married w/ Kids,Retirement Savings,Prefers homeopathic treatment
+Sneha,48,Salaried,$50k-$75k,1,Married w/ Kids,Retirement Savings,Prefers homeopathic treatment
+Mr. Dutta,55,Salaried,$15k-$30k,5,Single,Health Coverage,Prefers homeopathic treatment
+Ankit,45,Self-Employed,$100k+,4,Single,Retirement Savings,"Sedentary lifestyle, chronic illness"
+Sneha,54,Retired,$75k-$100k,5,Widowed,Wealth Creation,Lives in joint family
+Sneha,39,Self-Employed,$15k-$30k,5,Married w/ Kids,Child Education Fund,"Health-conscious, gym member"
+Rahul,62,Business Owner,$15k-$30k,4,Widowed,Tax Saving,"Owns property, no liabilities"
+Arjun,34,Self-Employed,$100k+,1,Married w/ Spouse,Retirement Savings,"Health-conscious, gym member"
+Priya,55,Business Owner,$100k+,4,Married w/ Kids,Tax Saving,"Health-conscious, gym member"
+Arjun,34,Business Owner,$75k-$100k,3,Widowed,Health Coverage,"Owns a car, travels frequently"
+Mrs. Iyer,39,Self-Employed,$75k-$100k,5,Married w/ Kids,Wealth Creation,"Frequent flyer, international travel"
+Rahul,31,Business Owner,$75k-$100k,3,Widowed,Tax Saving,"Smoker, high stress job"
+Mrs. Iyer,26,Self-Employed,$15k-$30k,2,Married w/ Spouse,Wealth Creation,"Smoker, high stress job"
+Mrs. Iyer,32,Business Owner,$15k-$30k,1,Widowed,Wealth Creation,Prefers homeopathic treatment
+Priya,33,Business Owner,$15k-$30k,1,Single,Tax Saving,"Sedentary lifestyle, chronic illness"
+Amit,35,Business Owner,$75k-$100k,4,Married w/ Kids,Health Coverage,"Frequent flyer, international travel"
+Sneha,44,Salaried,$15k-$30k,5,Widowed,Wealth Creation,"Owns property, no liabilities"
+Rahul,24,Salaried,$15k-$30k,3,Married w/ Spouse,Wealth Creation,"Smoker, high stress job"
+Ankit,47,Self-Employed,$30k-$50k,5,Divorced,Retirement Savings,Prefers homeopathic treatment
+Sunita,23,Salaried,$15k-$30k,1,Widowed,Child Education Fund,"Owns a car, travels frequently"
+Priya,64,Salaried,$30k-$50k,3,Widowed,Health Coverage,"Owns a car, travels frequently"
+Mrs. Iyer,23,Self-Employed,$75k-$100k,4,Married w/ Kids,Tax Saving,"Owns a car, travels frequently"
+Mrs. Iyer,48,Business Owner,$50k-$75k,1,Divorced,Tax Saving,"Sedentary lifestyle, chronic illness"
+Mr. Dutta,23,Salaried,$100k+,1,Married w/ Spouse,Retirement Savings,Prefers homeopathic treatment
+Amit,50,Salaried,$15k-$30k,3,Married w/ Kids,Child Education Fund,"Pet owner, active lifestyle"
+Priya,52,Self-Employed,$75k-$100k,3,Divorced,Tax Saving,Prefers homeopathic treatment
+Priya,43,Self-Employed,$30k-$50k,1,Widowed,Health Coverage,"Pet owner, active lifestyle"
+Priya,50,Self-Employed,$15k-$30k,1,Married w/ Kids,Health Coverage,"Frequent flyer, international travel"
+Amit,62,Salaried,$15k-$30k,1,Divorced,Tax Saving,Lives in joint family
+Priya,47,Retired,$30k-$50k,2,Widowed,Wealth Creation,"Frequent flyer, international travel"
+Priya,48,Self-Employed,$30k-$50k,1,Widowed,Retirement Savings,Prefers homeopathic treatment
+Sunita,38,Self-Employed,$75k-$100k,2,Single,Health Coverage,"Sedentary lifestyle, chronic illness"
+Priya,25,Business Owner,$75k-$100k,1,Single,Child Education Fund,Lives in joint family
+Riya,55,Business Owner,$50k-$75k,2,Married w/ Spouse,Tax Saving,"Owns a car, travels frequently"
+Mr. Dutta,30,Retired,$100k+,4,Married w/ Spouse,Retirement Savings,Works night shifts
+Mr. Dutta,45,Salaried,$30k-$50k,1,Divorced,Tax Saving,"Owns a car, travels frequently"
+Priya,44,Self-Employed,$100k+,3,Married w/ Spouse,Health Coverage,"Health-conscious, gym member"
+Ankit,55,Retired,$75k-$100k,1,Single,Retirement Savings,"Owns a car, travels frequently"
+Mrs. Iyer,58,Retired,$100k+,2,Divorced,Wealth Creation,"Pet owner, active lifestyle"
+Ankit,60,Self-Employed,$50k-$75k,3,Single,Wealth Creation,Prefers homeopathic treatment
+Mr. Dutta,42,Business Owner,$100k+,4,Single,Retirement Savings,"Pet owner, active lifestyle"
+Amit,27,Retired,$50k-$75k,3,Single,Child Education Fund,Prefers homeopathic treatment
+Mrs. Iyer,51,Salaried,$30k-$50k,1,Married w/ Kids,Tax Saving,"Sedentary lifestyle, chronic illness"
+Sneha,63,Business Owner,$75k-$100k,2,Married w/ Spouse,Tax Saving,Works night shifts
+Ankit,37,Business Owner,$100k+,4,Divorced,Child Education Fund,Works night shifts
+Rahul,47,Self-Employed,$50k-$75k,3,Married w/ Spouse,Tax Saving,"Smoker, high stress job"
+Sunita,29,Salaried,$75k-$100k,5,Widowed,Tax Saving,"Owns property, no liabilities"
+Arjun,57,Retired,$30k-$50k,1,Widowed,Child Education Fund,"Owns a car, travels frequently"
+Mrs. Iyer,61,Salaried,$15k-$30k,4,Widowed,Tax Saving,"Health-conscious, gym member"
+Priya,50,Self-Employed,$50k-$75k,2,Single,Health Coverage,"Frequent flyer, international travel"
+Ankit,58,Self-Employed,$30k-$50k,4,Divorced,Retirement Savings,"Owns a car, travels frequently"
+Rahul,25,Salaried,$100k+,3,Married w/ Spouse,Health Coverage,"Health-conscious, gym member"
+Mr. Dutta,46,Self-Employed,$75k-$100k,2,Single,Retirement Savings,Prefers homeopathic treatment
+Ankit,57,Salaried,$15k-$30k,2,Married w/ Spouse,Tax Saving,Prefers homeopathic treatment
+Riya,36,Self-Employed,$100k+,5,Married w/ Spouse,Wealth Creation,"Owns a car, travels frequently"
+Priya,54,Business Owner,$50k-$75k,2,Divorced,Child Education Fund,"Pet owner, active lifestyle"
+Priya,39,Salaried,$75k-$100k,2,Married w/ Spouse,Wealth Creation,"Smoker, high stress job"
+Riya,51,Self-Employed,$100k+,2,Widowed,Health Coverage,Prefers homeopathic treatment
+Amit,41,Retired,$15k-$30k,1,Divorced,Health Coverage,"Health-conscious, gym member"
+Mr. Dutta,42,Retired,$50k-$75k,2,Married w/ Spouse,Retirement Savings,"Owns property, no liabilities"
+Sunita,23,Business Owner,$50k-$75k,2,Single,Child Education Fund,"Owns a car, travels frequently"
+Rahul,47,Retired,$30k-$50k,4,Widowed,Health Coverage,"Owns a car, travels frequently"
+Priya,58,Salaried,$30k-$50k,1,Divorced,Child Education Fund,"Owns a car, travels frequently"
+Ankit,38,Self-Employed,$50k-$75k,2,Divorced,Retirement Savings,"Smoker, high stress job"
+Priya,51,Business Owner,$30k-$50k,3,Divorced,Retirement Savings,"Owns a car, travels frequently"
+Rahul,45,Salaried,$75k-$100k,5,Married w/ Spouse,Health Coverage,"Pet owner, active lifestyle"
+Amit,44,Self-Employed,$15k-$30k,4,Divorced,Child Education Fund,Lives in joint family
+Ankit,42,Salaried,$15k-$30k,5,Widowed,Tax Saving,"Pet owner, active lifestyle"
+Ankit,35,Self-Employed,$15k-$30k,3,Single,Health Coverage,"Smoker, high stress job"
+Rahul,47,Self-Employed,$30k-$50k,5,Widowed,Child Education Fund,"Sedentary lifestyle, chronic illness"
+Sunita,22,Self-Employed,$50k-$75k,1,Divorced,Tax Saving,"Frequent flyer, international travel"
+Riya,41,Self-Employed,$30k-$50k,2,Divorced,Child Education Fund,"Pet owner, active lifestyle"
+Mr. Dutta,25,Business Owner,$75k-$100k,3,Widowed,Tax Saving,"Owns a car, travels frequently"
+Amit,57,Business Owner,$100k+,4,Single,Retirement Savings,Works night shifts
+Mrs. Iyer,45,Retired,$75k-$100k,2,Divorced,Health Coverage,"Smoker, high stress job"
+Priya,45,Business Owner,$15k-$30k,4,Divorced,Wealth Creation,"Health-conscious, gym member"
+Amit,49,Self-Employed,$75k-$100k,2,Divorced,Health Coverage,"Pet owner, active lifestyle"
+Ankit,25,Business Owner,$30k-$50k,2,Married w/ Spouse,Tax Saving,"Smoker, high stress job"
+Sneha,46,Salaried,$50k-$75k,2,Widowed,Retirement Savings,"Owns a car, travels frequently"
+Priya,25,Retired,$75k-$100k,4,Divorced,Tax Saving,"Frequent flyer, international travel"
+Ankit,42,Self-Employed,$15k-$30k,2,Single,Child Education Fund,Prefers homeopathic treatment
+Rahul,50,Self-Employed,$75k-$100k,2,Widowed,Health Coverage,"Pet owner, active lifestyle"
+Riya,52,Business Owner,$75k-$100k,3,Divorced,Health Coverage,Works night shifts
+Priya,59,Salaried,$50k-$75k,2,Widowed,Health Coverage,Prefers homeopathic treatment
+Ankit,46,Salaried,$75k-$100k,3,Single,Health Coverage,Lives in joint family
+Sneha,63,Salaried,$15k-$30k,5,Married w/ Kids,Child Education Fund,"Smoker, high stress job"
+Mr. Dutta,43,Retired,$30k-$50k,2,Divorced,Child Education Fund,"Health-conscious, gym member"
+Mrs. Iyer,32,Self-Employed,$15k-$30k,5,Married w/ Kids,Tax Saving,Prefers homeopathic treatment
+Riya,43,Salaried,$100k+,3,Married w/ Kids,Retirement Savings,"Frequent flyer, international travel"
+Arjun,51,Self-Employed,$75k-$100k,3,Divorced,Health Coverage,"Pet owner, active lifestyle"
+Mrs. Iyer,51,Business Owner,$30k-$50k,3,Single,Tax Saving,"Health-conscious, gym member"
+Rahul,59,Self-Employed,$50k-$75k,4,Single,Wealth Creation,Works night shifts
+Rahul,58,Business Owner,$75k-$100k,5,Married w/ Spouse,Wealth Creation,"Owns property, no liabilities"
+Ankit,44,Retired,$15k-$30k,3,Divorced,Retirement Savings,"Frequent flyer, international travel"
+Mrs. Iyer,22,Retired,$75k-$100k,4,Married w/ Kids,Child Education Fund,"Pet owner, active lifestyle"
+Arjun,61,Salaried,$75k-$100k,2,Married w/ Spouse,Retirement Savings,"Pet owner, active lifestyle"
+Sneha,61,Retired,$30k-$50k,3,Widowed,Retirement Savings,"Owns a car, travels frequently"
+Ankit,47,Retired,$30k-$50k,1,Married w/ Kids,Wealth Creation,"Owns property, no liabilities"
+Riya,33,Business Owner,$50k-$75k,2,Single,Wealth Creation,"Sedentary lifestyle, chronic illness"
+Rahul,44,Salaried,$75k-$100k,4,Married w/ Spouse,Wealth Creation,"Pet owner, active lifestyle"
+Priya,58,Retired,$50k-$75k,2,Single,Child Education Fund,"Health-conscious, gym member"
+Amit,42,Self-Employed,$75k-$100k,5,Widowed,Retirement Savings,"Health-conscious, gym member"
+Priya,29,Business Owner,$15k-$30k,2,Widowed,Tax Saving,Prefers homeopathic treatment
+Rahul,45,Self-Employed,$15k-$30k,3,Married w/ Kids,Child Education Fund,"Pet owner, active lifestyle"
+Sunita,41,Salaried,$30k-$50k,4,Divorced,Wealth Creation,"Smoker, high stress job"
+Sneha,40,Self-Employed,$100k+,1,Divorced,Tax Saving,Lives in joint family
+Ankit,48,Retired,$30k-$50k,4,Widowed,Health Coverage,"Owns property, no liabilities"
+Mrs. Iyer,44,Retired,$30k-$50k,5,Married w/ Kids,Wealth Creation,"Pet owner, active lifestyle"
+Sneha,31,Business Owner,$100k+,1,Widowed,Wealth Creation,Lives in joint family
+Rahul,41,Self-Employed,$75k-$100k,2,Single,Child Education Fund,"Pet owner, active lifestyle"
+Arjun,50,Retired,$75k-$100k,3,Married w/ Kids,Retirement Savings,"Health-conscious, gym member"
+Arjun,23,Self-Employed,$30k-$50k,4,Married w/ Kids,Wealth Creation,Prefers homeopathic treatment
+Rahul,44,Retired,$75k-$100k,2,Widowed,Retirement Savings,"Frequent flyer, international travel"
+Sneha,32,Retired,$30k-$50k,3,Widowed,Child Education Fund,"Health-conscious, gym member"
+Mrs. Iyer,35,Retired,$15k-$30k,5,Married w/ Spouse,Retirement Savings,Prefers homeopathic treatment
+Mrs. Iyer,55,Salaried,$50k-$75k,3,Single,Tax Saving,"Frequent flyer, international travel"
+Rahul,49,Business Owner,$100k+,2,Married w/ Kids,Health Coverage,Lives in joint family
+Arjun,24,Retired,$30k-$50k,3,Divorced,Health Coverage,"Frequent flyer, international travel"
+Priya,61,Retired,$75k-$100k,3,Married w/ Kids,Health Coverage,"Sedentary lifestyle, chronic illness"
+Rahul,49,Retired,$75k-$100k,4,Widowed,Child Education Fund,Prefers homeopathic treatment
+Ankit,38,Self-Employed,$30k-$50k,5,Widowed,Child Education Fund,"Owns property, no liabilities"
+Priya,32,Salaried,$50k-$75k,1,Married w/ Kids,Tax Saving,"Health-conscious, gym member"
+Sneha,33,Business Owner,$100k+,1,Divorced,Wealth Creation,"Sedentary lifestyle, chronic illness"
+Amit,32,Self-Employed,$50k-$75k,4,Married w/ Spouse,Child Education Fund,Works night shifts
+Arjun,58,Self-Employed,$15k-$30k,2,Divorced,Retirement Savings,"Frequent flyer, international travel"
+Mr. Dutta,26,Self-Employed,$30k-$50k,4,Single,Tax Saving,"Owns property, no liabilities"
+Priya,53,Business Owner,$15k-$30k,3,Widowed,Child Education Fund,Works night shifts
+Arjun,54,Salaried,$75k-$100k,1,Widowed,Wealth Creation,"Frequent flyer, international travel"
+Sneha,63,Self-Employed,$75k-$100k,2,Divorced,Health Coverage,Works night shifts
+Sneha,29,Self-Employed,$75k-$100k,4,Single,Tax Saving,Works night shifts
+Sneha,23,Retired,$30k-$50k,1,Widowed,Retirement Savings,Works night shifts
+Rahul,34,Business Owner,$15k-$30k,3,Married w/ Kids,Retirement Savings,Works night shifts
+Sneha,48,Business Owner,$30k-$50k,1,Widowed,Tax Saving,"Sedentary lifestyle, chronic illness"
+Ankit,28,Retired,$15k-$30k,2,Divorced,Wealth Creation,"Owns a car, travels frequently"
+Sneha,38,Self-Employed,$30k-$50k,5,Married w/ Spouse,Tax Saving,"Smoker, high stress job"
+Amit,39,Salaried,$30k-$50k,2,Married w/ Spouse,Wealth Creation,"Smoker, high stress job"
+Priya,45,Business Owner,$50k-$75k,5,Single,Retirement Savings,Prefers homeopathic treatment
+Priya,35,Salaried,$15k-$30k,4,Married w/ Kids,Retirement Savings,"Sedentary lifestyle, chronic illness"
+Mrs. Iyer,34,Retired,$75k-$100k,3,Married w/ Spouse,Child Education Fund,"Sedentary lifestyle, chronic illness"
+Rahul,39,Salaried,$100k+,1,Widowed,Health Coverage,"Owns a car, travels frequently"
+Mr. Dutta,58,Business Owner,$50k-$75k,2,Widowed,Health Coverage,"Owns property, no liabilities"
+Priya,29,Business Owner,$30k-$50k,2,Single,Health Coverage,"Sedentary lifestyle, chronic illness"
+Mr. Dutta,50,Business Owner,$100k+,2,Divorced,Wealth Creation,"Pet owner, active lifestyle"
+Ankit,33,Retired,$75k-$100k,1,Married w/ Spouse,Tax Saving,"Health-conscious, gym member"
+Mr. Dutta,31,Business Owner,$75k-$100k,2,Divorced,Child Education Fund,"Owns a car, travels frequently"
+Priya,54,Business Owner,$15k-$30k,3,Single,Tax Saving,"Frequent flyer, international travel"
+Arjun,53,Business Owner,$100k+,5,Divorced,Tax Saving,"Sedentary lifestyle, chronic illness"
+Ankit,56,Salaried,$15k-$30k,5,Married w/ Kids,Health Coverage,"Owns property, no liabilities"
+Priya,37,Retired,$15k-$30k,3,Married w/ Kids,Wealth Creation,"Health-conscious, gym member"
+Riya,53,Self-Employed,$15k-$30k,3,Married w/ Spouse,Tax Saving,Prefers homeopathic treatment
+Riya,53,Retired,$30k-$50k,3,Single,Child Education Fund,"Smoker, high stress job"
+Amit,40,Self-Employed,$30k-$50k,4,Divorced,Retirement Savings,"Sedentary lifestyle, chronic illness"
+Arjun,64,Retired,$75k-$100k,3,Widowed,Health Coverage,"Frequent flyer, international travel"
+Ankit,63,Salaried,$50k-$75k,1,Married w/ Kids,Retirement Savings,"Sedentary lifestyle, chronic illness"
+Riya,29,Business Owner,$15k-$30k,4,Divorced,Health Coverage,Lives in joint family
+Rahul,32,Retired,$30k-$50k,1,Single,Health Coverage,Lives in joint family
+Sunita,23,Self-Employed,$30k-$50k,3,Widowed,Retirement Savings,"Pet owner, active lifestyle"
+Sunita,56,Business Owner,$75k-$100k,3,Widowed,Child Education Fund,Works night shifts
+Rahul,45,Business Owner,$50k-$75k,3,Married w/ Spouse,Wealth Creation,"Smoker, high stress job"
+Amit,31,Self-Employed,$50k-$75k,4,Married w/ Kids,Health Coverage,"Owns a car, travels frequently"
+Sneha,24,Salaried,$50k-$75k,5,Widowed,Child Education Fund,"Owns property, no liabilities"
+Sunita,47,Retired,$30k-$50k,5,Single,Health Coverage,"Health-conscious, gym member"
+Priya,56,Salaried,$50k-$75k,4,Divorced,Wealth Creation,Lives in joint family
+Sunita,36,Retired,$15k-$30k,1,Married w/ Kids,Health Coverage,Prefers homeopathic treatment
+Riya,63,Self-Employed,$100k+,5,Married w/ Spouse,Retirement Savings,"Smoker, high stress job"
+Arjun,46,Self-Employed,$15k-$30k,4,Divorced,Child Education Fund,"Frequent flyer, international travel"
+Riya,28,Retired,$30k-$50k,4,Divorced,Retirement Savings,"Smoker, high stress job"
+Riya,33,Salaried,$100k+,4,Widowed,Retirement Savings,"Smoker, high stress job"
+Mrs. Iyer,22,Salaried,$75k-$100k,1,Single,Health Coverage,Works night shifts
+Riya,64,Self-Employed,$50k-$75k,1,Married w/ Spouse,Tax Saving,"Health-conscious, gym member"
+Priya,32,Retired,$30k-$50k,1,Married w/ Kids,Wealth Creation,Prefers homeopathic treatment
+Riya,47,Self-Employed,$15k-$30k,1,Married w/ Spouse,Retirement Savings,Prefers homeopathic treatment
+Rahul,64,Salaried,$30k-$50k,1,Widowed,Retirement Savings,Lives in joint family
+Ankit,31,Self-Employed,$30k-$50k,3,Divorced,Health Coverage,"Frequent flyer, international travel"
+Mr. Dutta,49,Self-Employed,$50k-$75k,4,Single,Tax Saving,"Owns property, no liabilities"
+Priya,30,Retired,$30k-$50k,3,Single,Health Coverage,Prefers homeopathic treatment
+Sunita,25,Self-Employed,$75k-$100k,4,Divorced,Tax Saving,"Pet owner, active lifestyle"
+Sneha,53,Self-Employed,$50k-$75k,1,Married w/ Kids,Wealth Creation,Lives in joint family
+Mrs. Iyer,25,Business Owner,$30k-$50k,1,Married w/ Kids,Wealth Creation,"Sedentary lifestyle, chronic illness"
+Ankit,39,Salaried,$100k+,5,Divorced,Child Education Fund,Lives in joint family
+Ankit,50,Business Owner,$100k+,5,Widowed,Health Coverage,"Health-conscious, gym member"
+Arjun,22,Retired,$50k-$75k,1,Widowed,Wealth Creation,"Owns property, no liabilities"
+Sneha,31,Salaried,$100k+,3,Single,Retirement Savings,Lives in joint family
+Arjun,49,Self-Employed,$75k-$100k,4,Divorced,Health Coverage,Lives in joint family
+Amit,52,Business Owner,$15k-$30k,1,Married w/ Spouse,Retirement Savings,"Owns property, no liabilities"
+Mrs. Iyer,40,Retired,$100k+,4,Married w/ Spouse,Health Coverage,"Sedentary lifestyle, chronic illness"
+Rahul,36,Salaried,$15k-$30k,1,Married w/ Spouse,Wealth Creation,Works night shifts
+Mrs. Iyer,58,Self-Employed,$15k-$30k,2,Married w/ Spouse,Wealth Creation,"Owns property, no liabilities"
+Rahul,57,Self-Employed,$30k-$50k,1,Divorced,Wealth Creation,"Owns a car, travels frequently"
+Rahul,44,Salaried,$50k-$75k,3,Widowed,Retirement Savings,Works night shifts
+Rahul,63,Salaried,$100k+,5,Married w/ Kids,Wealth Creation,"Owns property, no liabilities"
+Sneha,64,Self-Employed,$75k-$100k,4,Widowed,Child Education Fund,Works night shifts
+Mrs. Iyer,26,Self-Employed,$50k-$75k,4,Married w/ Kids,Child Education Fund,"Sedentary lifestyle, chronic illness"
+Mrs. Iyer,35,Salaried,$30k-$50k,4,Widowed,Tax Saving,"Sedentary lifestyle, chronic illness"
+Arjun,30,Self-Employed,$100k+,2,Married w/ Spouse,Wealth Creation,Lives in joint family
+Mrs. Iyer,35,Self-Employed,$50k-$75k,4,Married w/ Spouse,Tax Saving,"Health-conscious, gym member"
+Riya,52,Retired,$100k+,4,Widowed,Wealth Creation,"Pet owner, active lifestyle"
+Mr. Dutta,42,Self-Employed,$50k-$75k,1,Divorced,Tax Saving,"Owns a car, travels frequently"
+Sneha,32,Retired,$100k+,1,Married w/ Spouse,Tax Saving,"Sedentary lifestyle, chronic illness"
+Arjun,23,Self-Employed,$50k-$75k,5,Widowed,Wealth Creation,"Smoker, high stress job"
+Priya,53,Retired,$15k-$30k,2,Widowed,Wealth Creation,"Owns a car, travels frequently"
+Rahul,62,Salaried,$15k-$30k,5,Single,Health Coverage,Works night shifts
+Riya,28,Retired,$75k-$100k,3,Married w/ Spouse,Wealth Creation,"Health-conscious, gym member"
+Sneha,32,Business Owner,$100k+,5,Divorced,Retirement Savings,"Health-conscious, gym member"
+Amit,57,Retired,$50k-$75k,3,Single,Wealth Creation,"Frequent flyer, international travel"
+Priya,35,Business Owner,$30k-$50k,4,Married w/ Kids,Wealth Creation,"Owns property, no liabilities"
+Arjun,58,Self-Employed,$30k-$50k,4,Married w/ Kids,Child Education Fund,"Owns a car, travels frequently"
